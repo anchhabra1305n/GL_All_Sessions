@@ -1,0 +1,51 @@
+Company Name,Ticker,CMP,Market Cap (Cr),52W High,52W Low,ROE,P/E,P/BV,EV/EBIDTA,Sector,Weightage
+Reliance Industries Limited,RELIANCE.NS,"2,480","16,77,730","2,750","1,878",7.16,29.06,2.2,21.98,Petroleum Products,11.12%
+Tata Consultancy Services Limited,TCS.NS,"3,675","13,59,475","4,046","2,986",38.65,36.11,12.83,28.38,Software,5.02%
+HDFC Bank Limited,HDFCBANK.NS,"1,480","8,20,747","1,724","1,292",16.5,22.77,3.47,-,Banks,8.53%
+Infosys Limited,INFY.NS,"1,854","7,80,098","1,954","1,312",27.09,36.28,10.3,27,Software,8.69%
+ICICI Bank Limited,ICICIBANK.NS,720,"5,00,175",859.7,531,12.56,24.14,3.13,-,Banks,7.05%
+Hindustan Unilever Limited,HINDUNILVR.NS,"2,102","4,93,908","2,859","1,902",28.57,56.38,9.83,41.87,Consumer Non Durables,2.65%
+State Bank Of India,SBIN.NS,501.8,"4,47,792",549,321.1,9.31,15.43,1.77,-,Banks,2.53%
+Housing Development Finance Corporation Limited,HDFC.NS,"2,417","4,37,861","3,021","2,046",12.5,33.12,3.8,-,Finance,5.84%
+Bharti Airtel Limited,BHARTIARTL.NS,722.8,"4,25,318",781.9,489.9,-16.42,0,5.57,18.4,Telecom - Services,2.22%
+Bajaj Finance Limited,BAJFINANCE.NS,"6,997","4,22,326","8,044","4,362",11.77,80.54,10.66,-,Finance,2.54%
+Kotak Mahindra Bank Limited,KOTAKBANK.NS,"1,819","3,61,007","2,252","1,627",12.47,48.21,5.23,-,Banks,3.69%
+Wipro Limited,WIPRO.NS,601.3,"3,29,626",739.8,398,19.21,27.21,5.09,20.54,Software,1.13%
+HCL Technologies Limited,HCLTECH.NS,"1,197","3,24,704","1,377",891.2,19.87,29.5,5.06,15.61,Software,1.67%
+ITC Limited,ITC.NS,244.8,"3,01,726",265.3,199.1,21.25,20.64,4.76,18.2,Consumer Non Durables,2.58%
+Asian Paints Limited,ASIANPAINT.NS,"3,135","3,00,709","3,588","2,355",27.15,99.17,22.24,61.2,Consumer Non Durables,1.96%
+Bajaj Finserv Limited,BAJAJFINSV.NS,"16,377","2,60,626","19,320","8,962",21.95,62.21,6.48,-,Insurance,1.32%
+Larsen & Toubro Limited,LT.NS,"1,788","2,51,138","2,078","1,306",8.71,36.33,4.02,35.44,Construction Project,2.99%
+Titan Company Limited,TITAN.NS,"2,703","2,39,991","2,687","1,401",12.21,108.2,27.08,-,Consumer Durables,1.45%
+Maruti Suzuki India Limited,MARUTI.NS,"7,692","2,32,349","9,022","6,400",8.57,71.61,4.36,40.92,Auto,1.51%
+Axis Bank Limited,AXISBANK.NS,739.4,"2,26,967",866.6,626.4,7.06,19.59,2.05,-,Banks,2.62%
+Sun Pharmaceutical Industries Limited,SUNPHARMA.NS,910.8,"2,18,519",911.5,562.4,12.82,33.91,4.23,25.13,Pharmaceuticals,1.25%
+Oil & Natural Gas Corporation Limited,ONGC.NS,170.1,"2,13,991",194.6,97.45,4.87,5.6,0.9,15.96,Oil,0.80%
+Ultratech Cement Limited,ULTRACEMCO.NS,"6,373","1,83,967","8,267","5,631",12.96,28.31,3.84,16.57,Cement & Cement Products,1.04%
+Nestle India Limited,NESTLEIND.NS,"18,269","1,76,146","20,600","16,075",105.8,82.12,84.5,52.83,Consumer Non Durables,0.84%
+JSW Steel Limited,JSWSTEEL.NS,685.4,"1,65,676",776.5,410,19.65,9.16,2.7,10.54,Ferrous Metals,0.85%
+Tata Steel Limited,TATASTEEL.NS,"1,303","1,59,313","1,535",681.2,13.64,5.35,1.36,8.22,Ferrous Metals,1.33%
+Adani Ports and Special Economic Zone Limited,ADANIPORTS.NS,740.1,"1,56,347",901,638,15.73,31.15,4.83,23.22,Transportation,0.71%
+Power Grid Corporation Of India Limited,POWERGRID.NS,211.5,"1,47,531",223.3,148.9,18.34,8.92,2.24,8.61,Power,0.97%
+Tech Mahindra Limited,TECHM.NS,"1,492","1,44,920","1,838",936.9,17.53,28.26,5.47,19.73,Software,1.19%
+Tata Motors Limited,TATAMOTORS.NS,433.8,"1,44,050",536.5,268.5,-8.63,0,3.33,7.35,Auto,1.12%
+Hindalco Industries Limited,HINDALCO.NS,576.9,"1,29,639",623.1,305.4,6.91,10.98,1.73,11.26,Non - Ferrous Metals,1.14%
+NTPC Limited,NTPC.NS,132.9,"1,28,869",152.1,97.05,12.69,9.15,1.04,10.39,Power,0.87%
+Divi's Laboratories Limited,DIVISLAB.NS,"4,504","1,19,570","5,425","3,155",23.97,46.6,11.05,40.89,Pharmaceuticals,0.74%
+Indian Oil Corporation Limited,IOC.NS,121.4,"1,14,288",141.8,86.7,20.02,4.24,0.86,5.41,Petroleum Products,0.40%
+SBI Life Insurance Company Limited,SBILIFE.NS,"1,131","1,13,131","1,293",840,0,82.81,10.1,-,Insurance,0.64%
+HDFC Life Insurance Co Limited,HDFCLIFE.NS,530.1,"1,11,985",775.6,497.3,0,95.87,7.39,-,Insurance,0.67%
+Coal India Limited,COALINDIA.NS,176.6,"1,08,834",203.8,123.5,36.97,7.14,2.42,5.12,Minerals/Mining,0.49%
+Grasim Industries Limited,GRASIM.NS,"1,620","1,06,650","1,939","1,262",6.74,16.45,1.46,8.53,Cement & Cement Products,0.82%
+Bajaj Auto Limited,BAJAJ-AUTO.NS,"3,649","1,05,593","4,348","3,028",19.88,17.1,3.74,19.61,Auto,0.63%
+Mahindra & Mahindra Limited,M&M.NS,794.6,"98,784",978.9,671,0.35,26.78,2.6,14.61,Auto,1.03%
+Shree Cement Limited,SHREECEM.NS,"24,080","86,883","32,050","21,668",15.43,34.77,5.18,21.5,Cement & Cement Products,0.43%
+Cipla Limited,CIPLA.NS,"1,048","84,586","1,083",738.2,13.77,32.94,4.19,19.44,Pharmaceuticals,0.65%
+Britannia Industries Limited,BRITANNIA.NS,"3,354","80,793","4,152","3,050",46.86,53.53,37.18,32.4,Consumer Non Durables,0.56%
+Bharat Petroleum Corporation Limited,BPCL.NS,364.2,"79,004",503,331,32.82,4.25,1.59,5.35,Petroleum Products,0.45%
+IndusInd Bank Limited,INDUSINDBK.NS,932.8,"72,260","1,242",811.1,7.39,17.51,1.57,-,Banks,0.82%
+Dr. Reddy's Laboratories Limited,DRREDDY.NS,"4,043","67,281","5,614","3,655",11.24,25.42,3.49,17.26,Pharmaceuticals,0.67%
+GAIL (India) Limited,GAIL.NS,151.1,"67,094",171.3,125.2,10.56,7,1.2,10.71,Oil,0.80%
+Eicher Motors Limited,EICHERMOT.NS,"2,437","66,632","2,995","2,110",12.64,41.84,5.57,33.43,Auto,0.49%
+UPL Limited,UPL.NS,761.4,"58,174",864.8,580.9,14.66,17.58,2.55,8.99,Pesticides,0.50%
+Hero MotoCorp Limited,HEROMOTOCO.NS,"2,419","48,342","3,279","2,148",19.47,17.83,2.96,10.39,Auto,0.45%
