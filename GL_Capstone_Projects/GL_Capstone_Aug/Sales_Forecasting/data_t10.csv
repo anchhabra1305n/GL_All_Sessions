@@ -1,0 +1,4801 @@
+product,date,city,sales
+Mixers,04-01-2014,Mumbai,2679347
+Mixers,05-01-2014,Mumbai,3864612
+Mixers,06-01-2014,Mumbai,2932658
+Mixers,07-01-2014,Mumbai,3703713
+Mixers,08-01-2014,Mumbai,3931029
+Mixers,09-01-2014,Mumbai,4677008
+Mixers,10-01-2014,Mumbai,4331662
+Mixers,11-01-2014,Mumbai,2184730
+Mixers,12-01-2014,Mumbai,4131878
+Mixers,01-01-2015,Mumbai,4043952
+Mixers,02-01-2015,Mumbai,3276885
+Mixers,03-01-2015,Mumbai,5043804
+Mixers,04-01-2015,Mumbai,3625236
+Mixers,05-01-2015,Mumbai,4326062
+Mixers,06-01-2015,Mumbai,2418609
+Mixers,07-01-2015,Mumbai,3937404
+Mixers,08-01-2015,Mumbai,3708630
+Mixers,09-01-2015,Mumbai,3804926
+Mixers,10-01-2015,Mumbai,5417580
+Mixers,11-01-2015,Mumbai,2938341
+Mixers,12-01-2015,Mumbai,4300940
+Mixers,01-01-2016,Mumbai,3229175
+Mixers,02-01-2016,Mumbai,3267240
+Mixers,03-01-2016,Mumbai,6103232
+Mixers,04-01-2016,Mumbai,5736690
+Mixers,05-01-2016,Mumbai,3515403
+Mixers,06-01-2016,Mumbai,1983288
+Mixers,07-01-2016,Mumbai,3723448
+Mixers,08-01-2016,Mumbai,4012728
+Mixers,09-01-2016,Mumbai,5112100
+Mixers,10-01-2016,Mumbai,5203170
+Mixers,11-01-2016,Mumbai,2197132
+Mixers,12-01-2016,Mumbai,2906503
+Mixers,01-01-2017,Mumbai,3926367
+Mixers,02-01-2017,Mumbai,3637237
+Mixers,03-01-2017,Mumbai,5661553
+Mixers,04-01-2017,Mumbai,2173903
+Mixers,05-01-2017,Mumbai,4273063
+Mixers,06-01-2017,Mumbai,3628117
+Mixers,07-01-2017,Mumbai,5514155
+Mixers,08-01-2017,Mumbai,6511352
+Mixers,09-01-2017,Mumbai,7282989
+Mixers,10-01-2017,Mumbai,7769826
+Mixers,11-01-2017,Mumbai,2595569
+Mixers,12-01-2017,Mumbai,4306914
+Mixers,01-01-2018,Mumbai,6261570
+Mixers,02-01-2018,Mumbai,2344462
+Mixers,03-01-2018,Mumbai,3875078
+Induction cookers,04-01-2014,Mumbai,1028092
+Induction cookers,05-01-2014,Mumbai,1482890
+Induction cookers,06-01-2014,Mumbai,1125290
+Induction cookers,07-01-2014,Mumbai,1421152
+Induction cookers,08-01-2014,Mumbai,1508375
+Induction cookers,09-01-2014,Mumbai,1794615
+Induction cookers,10-01-2014,Mumbai,1662102
+Induction cookers,11-01-2014,Mumbai,838303
+Induction cookers,12-01-2014,Mumbai,1585443
+Induction cookers,01-01-2015,Mumbai,1551705
+Induction cookers,02-01-2015,Mumbai,1257373
+Induction cookers,03-01-2015,Mumbai,1935358
+Induction cookers,04-01-2015,Mumbai,1377305
+Induction cookers,05-01-2015,Mumbai,1643564
+Induction cookers,06-01-2015,Mumbai,918881
+Induction cookers,07-01-2015,Mumbai,1495904
+Induction cookers,08-01-2015,Mumbai,1408988
+Induction cookers,09-01-2015,Mumbai,1445573
+Induction cookers,10-01-2015,Mumbai,2058255
+Induction cookers,11-01-2015,Mumbai,1116339
+Induction cookers,12-01-2015,Mumbai,1634019
+Induction cookers,01-01-2016,Mumbai,1226833
+Induction cookers,02-01-2016,Mumbai,1241295
+Induction cookers,03-01-2016,Mumbai,2318749
+Induction cookers,04-01-2016,Mumbai,2371726
+Induction cookers,05-01-2016,Mumbai,1453377
+Induction cookers,06-01-2016,Mumbai,819953
+Induction cookers,07-01-2016,Mumbai,1539389
+Induction cookers,08-01-2016,Mumbai,1658986
+Induction cookers,09-01-2016,Mumbai,2113501
+Induction cookers,10-01-2016,Mumbai,2151152
+Induction cookers,11-01-2016,Mumbai,908362
+Induction cookers,12-01-2016,Mumbai,1201639
+Induction cookers,01-01-2017,Mumbai,1623282
+Induction cookers,02-01-2017,Mumbai,1503747
+Induction cookers,03-01-2017,Mumbai,2340661
+Induction cookers,04-01-2017,Mumbai,1122325
+Induction cookers,05-01-2017,Mumbai,1756603
+Induction cookers,06-01-2017,Mumbai,1543811
+Induction cookers,07-01-2017,Mumbai,2745217
+Induction cookers,08-01-2017,Mumbai,2393410
+Induction cookers,09-01-2017,Mumbai,2868823
+Induction cookers,10-01-2017,Mumbai,3166962
+Induction cookers,11-01-2017,Mumbai,1475462
+Induction cookers,12-01-2017,Mumbai,2134903
+Induction cookers,01-01-2018,Mumbai,1950095
+Induction cookers,02-01-2018,Mumbai,1485612
+Induction cookers,03-01-2018,Mumbai,1999953
+Dry Iron,04-01-2014,Mumbai,719991
+Dry Iron,05-01-2014,Mumbai,1038494
+Dry Iron,06-01-2014,Mumbai,788060
+Dry Iron,07-01-2014,Mumbai,995257
+Dry Iron,08-01-2014,Mumbai,1056341
+Dry Iron,09-01-2014,Mumbai,1256800
+Dry Iron,10-01-2014,Mumbai,1163999
+Dry Iron,11-01-2014,Mumbai,587078
+Dry Iron,12-01-2014,Mumbai,1110313
+Dry Iron,01-01-2015,Mumbai,1086686
+Dry Iron,02-01-2015,Mumbai,880561
+Dry Iron,03-01-2015,Mumbai,1355365
+Dry Iron,04-01-2015,Mumbai,1104253
+Dry Iron,05-01-2015,Mumbai,1317725
+Dry Iron,06-01-2015,Mumbai,736712
+Dry Iron,07-01-2015,Mumbai,1199339
+Dry Iron,08-01-2015,Mumbai,1129654
+Dry Iron,09-01-2015,Mumbai,1158986
+Dry Iron,10-01-2015,Mumbai,1650203
+Dry Iron,11-01-2015,Mumbai,895023
+Dry Iron,12-01-2015,Mumbai,1310073
+Dry Iron,01-01-2016,Mumbai,983612
+Dry Iron,02-01-2016,Mumbai,995207
+Dry Iron,03-01-2016,Mumbai,1859054
+Dry Iron,04-01-2016,Mumbai,2255126
+Dry Iron,05-01-2016,Mumbai,1381925
+Dry Iron,06-01-2016,Mumbai,779642
+Dry Iron,07-01-2016,Mumbai,1463709
+Dry Iron,08-01-2016,Mumbai,1577427
+Dry Iron,09-01-2016,Mumbai,2009596
+Dry Iron,10-01-2016,Mumbai,2045396
+Dry Iron,11-01-2016,Mumbai,863705
+Dry Iron,12-01-2016,Mumbai,1142563
+Dry Iron,01-01-2017,Mumbai,1543478
+Dry Iron,02-01-2017,Mumbai,1429819
+Dry Iron,03-01-2017,Mumbai,2225589
+Dry Iron,04-01-2017,Mumbai,993482
+Dry Iron,05-01-2017,Mumbai,2357459
+Dry Iron,06-01-2017,Mumbai,2674488
+Dry Iron,07-01-2017,Mumbai,2950628
+Dry Iron,08-01-2017,Mumbai,2981664
+Dry Iron,09-01-2017,Mumbai,4052633
+Dry Iron,10-01-2017,Mumbai,4994130
+Dry Iron,11-01-2017,Mumbai,1234741
+Dry Iron,12-01-2017,Mumbai,2331333
+Dry Iron,01-01-2018,Mumbai,2482511
+Dry Iron,02-01-2018,Mumbai,1500296
+Dry Iron,03-01-2018,Mumbai,2401173
+coolers,04-01-2014,Mumbai,5708207
+coolers,05-01-2014,Mumbai,1800665
+coolers,06-01-2014,Mumbai,52333
+coolers,07-01-2014,Mumbai,0
+coolers,08-01-2014,Mumbai,0
+coolers,09-01-2014,Mumbai,0
+coolers,10-01-2014,Mumbai,7749
+coolers,11-01-2014,Mumbai,42085
+coolers,12-01-2014,Mumbai,38851
+coolers,01-01-2015,Mumbai,823352
+coolers,02-01-2015,Mumbai,4503104
+coolers,03-01-2015,Mumbai,6719516
+coolers,04-01-2015,Mumbai,4092334
+coolers,05-01-2015,Mumbai,1290935
+coolers,06-01-2015,Mumbai,37519
+coolers,07-01-2015,Mumbai,0
+coolers,08-01-2015,Mumbai,0
+coolers,09-01-2015,Mumbai,0
+coolers,10-01-2015,Mumbai,5555
+coolers,11-01-2015,Mumbai,30172
+coolers,12-01-2015,Mumbai,27853
+coolers,01-01-2016,Mumbai,590278
+coolers,02-01-2016,Mumbai,3228370
+coolers,03-01-2016,Mumbai,4817362
+coolers,04-01-2016,Mumbai,6884193
+coolers,05-01-2016,Mumbai,2171632
+coolers,06-01-2016,Mumbai,63115
+coolers,07-01-2016,Mumbai,0
+coolers,08-01-2016,Mumbai,0
+coolers,09-01-2016,Mumbai,0
+coolers,10-01-2016,Mumbai,9345
+coolers,11-01-2016,Mumbai,50755
+coolers,12-01-2016,Mumbai,46855
+coolers,01-01-2017,Mumbai,992976
+coolers,02-01-2017,Mumbai,5430818
+coolers,03-01-2017,Mumbai,8103847
+coolers,04-01-2017,Mumbai,8298204
+coolers,05-01-2017,Mumbai,2617685
+coolers,06-01-2017,Mumbai,76078
+coolers,07-01-2017,Mumbai,0
+coolers,08-01-2017,Mumbai,0
+coolers,09-01-2017,Mumbai,0
+coolers,10-01-2017,Mumbai,11264
+coolers,11-01-2017,Mumbai,61180
+coolers,12-01-2017,Mumbai,56479
+coolers,01-01-2018,Mumbai,1196933
+coolers,02-01-2018,Mumbai,6546307
+coolers,03-01-2018,Mumbai,9768376
+Water Heaters,04-01-2014,Mumbai,12382
+Water Heaters,05-01-2014,Mumbai,143939
+Water Heaters,06-01-2014,Mumbai,472318
+Water Heaters,07-01-2014,Mumbai,922109
+Water Heaters,08-01-2014,Mumbai,765103
+Water Heaters,09-01-2014,Mumbai,781821
+Water Heaters,10-01-2014,Mumbai,2015634
+Water Heaters,11-01-2014,Mumbai,1651245
+Water Heaters,12-01-2014,Mumbai,1714006
+Water Heaters,01-01-2015,Mumbai,557041
+Water Heaters,02-01-2015,Mumbai,152313
+Water Heaters,03-01-2015,Mumbai,94409
+Water Heaters,04-01-2015,Mumbai,13747
+Water Heaters,05-01-2015,Mumbai,159817
+Water Heaters,06-01-2015,Mumbai,524421
+Water Heaters,07-01-2015,Mumbai,1023831
+Water Heaters,08-01-2015,Mumbai,849505
+Water Heaters,09-01-2015,Mumbai,868067
+Water Heaters,10-01-2015,Mumbai,2237987
+Water Heaters,11-01-2015,Mumbai,1833401
+Water Heaters,12-01-2015,Mumbai,1903086
+Water Heaters,01-01-2016,Mumbai,618491
+Water Heaters,02-01-2016,Mumbai,169115
+Water Heaters,03-01-2016,Mumbai,104824
+Water Heaters,04-01-2016,Mumbai,4653
+Water Heaters,05-01-2016,Mumbai,54088
+Water Heaters,06-01-2016,Mumbai,177483
+Water Heaters,07-01-2016,Mumbai,346501
+Water Heaters,08-01-2016,Mumbai,287503
+Water Heaters,09-01-2016,Mumbai,293785
+Water Heaters,10-01-2016,Mumbai,757414
+Water Heaters,11-01-2016,Mumbai,620488
+Water Heaters,12-01-2016,Mumbai,644072
+Water Heaters,01-01-2017,Mumbai,209319
+Water Heaters,02-01-2017,Mumbai,57235
+Water Heaters,03-01-2017,Mumbai,35476
+Water Heaters,04-01-2017,Mumbai,20006
+Water Heaters,05-01-2017,Mumbai,232578
+Water Heaters,06-01-2017,Mumbai,763177
+Water Heaters,07-01-2017,Mumbai,1489955
+Water Heaters,08-01-2017,Mumbai,1236263
+Water Heaters,09-01-2017,Mumbai,1263275
+Water Heaters,10-01-2017,Mumbai,3256885
+Water Heaters,11-01-2017,Mumbai,2668102
+Water Heaters,12-01-2017,Mumbai,2769512
+Water Heaters,01-01-2018,Mumbai,900074
+Water Heaters,02-01-2018,Mumbai,246109
+Water Heaters,03-01-2018,Mumbai,152547
+FoodProcessor,04-01-2014,Mumbai,2011087
+FoodProcessor,05-01-2014,Mumbai,2900733
+FoodProcessor,06-01-2014,Mumbai,2201220
+FoodProcessor,07-01-2014,Mumbai,2779964
+FoodProcessor,08-01-2014,Mumbai,2950585
+FoodProcessor,09-01-2014,Mumbai,3510509
+FoodProcessor,10-01-2014,Mumbai,3251296
+FoodProcessor,11-01-2014,Mumbai,1639833
+FoodProcessor,12-01-2014,Mumbai,3101340
+FoodProcessor,01-01-2015,Mumbai,3035344
+FoodProcessor,02-01-2015,Mumbai,2459592
+FoodProcessor,03-01-2015,Mumbai,3785821
+FoodProcessor,04-01-2015,Mumbai,1221106
+FoodProcessor,05-01-2015,Mumbai,1457168
+FoodProcessor,06-01-2015,Mumbai,814672
+FoodProcessor,07-01-2015,Mumbai,1326255
+FoodProcessor,08-01-2015,Mumbai,1249196
+FoodProcessor,09-01-2015,Mumbai,1281632
+FoodProcessor,10-01-2015,Mumbai,1824830
+FoodProcessor,11-01-2015,Mumbai,989735
+FoodProcessor,12-01-2015,Mumbai,1448706
+FoodProcessor,01-01-2016,Mumbai,1087698
+FoodProcessor,02-01-2016,Mumbai,1100520
+FoodProcessor,03-01-2016,Mumbai,2055781
+FoodProcessor,04-01-2016,Mumbai,1778922
+FoodProcessor,05-01-2016,Mumbai,1090111
+FoodProcessor,06-01-2016,Mumbai,615009
+FoodProcessor,07-01-2016,Mumbai,1154624
+FoodProcessor,08-01-2016,Mumbai,1244329
+FoodProcessor,09-01-2016,Mumbai,1585239
+FoodProcessor,10-01-2016,Mumbai,1613479
+FoodProcessor,11-01-2016,Mumbai,681321
+FoodProcessor,12-01-2016,Mumbai,901294
+FoodProcessor,01-01-2017,Mumbai,1217549
+FoodProcessor,02-01-2017,Mumbai,1127891
+FoodProcessor,03-01-2017,Mumbai,1755622
+FoodProcessor,04-01-2017,Mumbai,858861
+FoodProcessor,05-01-2017,Mumbai,2005180
+FoodProcessor,06-01-2017,Mumbai,1608808
+FoodProcessor,07-01-2017,Mumbai,1802362
+FoodProcessor,08-01-2017,Mumbai,1856831
+FoodProcessor,09-01-2017,Mumbai,2042240
+FoodProcessor,10-01-2017,Mumbai,1598109
+FoodProcessor,11-01-2017,Mumbai,754558
+FoodProcessor,12-01-2017,Mumbai,810344
+FoodProcessor,01-01-2018,Mumbai,1247073
+FoodProcessor,02-01-2018,Mumbai,890773
+FoodProcessor,03-01-2018,Mumbai,1250281
+Gas Stove,04-01-2014,Mumbai,526894
+Gas Stove,05-01-2014,Mumbai,759977
+Gas Stove,06-01-2014,Mumbai,576708
+Gas Stove,07-01-2014,Mumbai,728336
+Gas Stove,08-01-2014,Mumbai,773037
+Gas Stove,09-01-2014,Mumbai,919734
+Gas Stove,10-01-2014,Mumbai,851822
+Gas Stove,11-01-2014,Mumbai,429627
+Gas Stove,12-01-2014,Mumbai,812534
+Gas Stove,01-01-2015,Mumbai,795244
+Gas Stove,02-01-2015,Mumbai,644400
+Gas Stove,03-01-2015,Mumbai,991865
+Gas Stove,04-01-2015,Mumbai,1044094
+Gas Stove,05-01-2015,Mumbai,1245936
+Gas Stove,06-01-2015,Mumbai,696576
+Gas Stove,07-01-2015,Mumbai,1134000
+Gas Stove,08-01-2015,Mumbai,1068112
+Gas Stove,09-01-2015,Mumbai,1095846
+Gas Stove,10-01-2015,Mumbai,1560301
+Gas Stove,11-01-2015,Mumbai,846263
+Gas Stove,12-01-2015,Mumbai,1238701
+Gas Stove,01-01-2016,Mumbai,930025
+Gas Stove,02-01-2016,Mumbai,940988
+Gas Stove,03-01-2016,Mumbai,1757774
+Gas Stove,04-01-2016,Mumbai,1908275
+Gas Stove,05-01-2016,Mumbai,1169377
+Gas Stove,06-01-2016,Mumbai,659729
+Gas Stove,07-01-2016,Mumbai,1238582
+Gas Stove,08-01-2016,Mumbai,1334810
+Gas Stove,09-01-2016,Mumbai,1700509
+Gas Stove,10-01-2016,Mumbai,1730803
+Gas Stove,11-01-2016,Mumbai,730862
+Gas Stove,12-01-2016,Mumbai,966831
+Gas Stove,01-01-2017,Mumbai,1306082
+Gas Stove,02-01-2017,Mumbai,1209905
+Gas Stove,03-01-2017,Mumbai,1883281
+Gas Stove,04-01-2017,Mumbai,365169
+Gas Stove,05-01-2017,Mumbai,1013985
+Gas Stove,06-01-2017,Mumbai,1374015
+Gas Stove,07-01-2017,Mumbai,2141626
+Gas Stove,08-01-2017,Mumbai,3138978
+Gas Stove,09-01-2017,Mumbai,2078922
+Gas Stove,10-01-2017,Mumbai,1568948
+Gas Stove,11-01-2017,Mumbai,1079786
+Gas Stove,12-01-2017,Mumbai,1497683
+Gas Stove,01-01-2018,Mumbai,2116298
+Gas Stove,02-01-2018,Mumbai,1025850
+Gas Stove,03-01-2018,Mumbai,774517
+Oven Toaster Grill,04-01-2014,Mumbai,636594
+Oven Toaster Grill,05-01-2014,Mumbai,918205
+Oven Toaster Grill,06-01-2014,Mumbai,696779
+Oven Toaster Grill,07-01-2014,Mumbai,879976
+Oven Toaster Grill,08-01-2014,Mumbai,933985
+Oven Toaster Grill,09-01-2014,Mumbai,1111225
+Oven Toaster Grill,10-01-2014,Mumbai,1029173
+Oven Toaster Grill,11-01-2014,Mumbai,519077
+Oven Toaster Grill,12-01-2014,Mumbai,981705
+Oven Toaster Grill,01-01-2015,Mumbai,960815
+Oven Toaster Grill,02-01-2015,Mumbai,778565
+Oven Toaster Grill,03-01-2015,Mumbai,1198373
+Oven Toaster Grill,04-01-2015,Mumbai,879850
+Oven Toaster Grill,05-01-2015,Mumbai,1049942
+Oven Toaster Grill,06-01-2015,Mumbai,587000
+Oven Toaster Grill,07-01-2015,Mumbai,955614
+Oven Toaster Grill,08-01-2015,Mumbai,900090
+Oven Toaster Grill,09-01-2015,Mumbai,923461
+Oven Toaster Grill,10-01-2015,Mumbai,1314855
+Oven Toaster Grill,11-01-2015,Mumbai,713140
+Oven Toaster Grill,12-01-2015,Mumbai,1043844
+Oven Toaster Grill,01-01-2016,Mumbai,783725
+Oven Toaster Grill,02-01-2016,Mumbai,792964
+Oven Toaster Grill,03-01-2016,Mumbai,1481263
+Oven Toaster Grill,04-01-2016,Mumbai,1714476
+Oven Toaster Grill,05-01-2016,Mumbai,1050618
+Oven Toaster Grill,06-01-2016,Mumbai,592728
+Oven Toaster Grill,07-01-2016,Mumbai,1112795
+Oven Toaster Grill,08-01-2016,Mumbai,1199250
+Oven Toaster Grill,09-01-2016,Mumbai,1527810
+Oven Toaster Grill,10-01-2016,Mumbai,1555027
+Oven Toaster Grill,11-01-2016,Mumbai,656638
+Oven Toaster Grill,12-01-2016,Mumbai,868642
+Oven Toaster Grill,01-01-2017,Mumbai,1173440
+Oven Toaster Grill,02-01-2017,Mumbai,1087030
+Oven Toaster Grill,03-01-2017,Mumbai,1692020
+Oven Toaster Grill,04-01-2017,Mumbai,416915
+Oven Toaster Grill,05-01-2017,Mumbai,1649181
+Oven Toaster Grill,06-01-2017,Mumbai,1250383
+Oven Toaster Grill,07-01-2017,Mumbai,1363142
+Oven Toaster Grill,08-01-2017,Mumbai,1422495
+Oven Toaster Grill,09-01-2017,Mumbai,1818920
+Oven Toaster Grill,10-01-2017,Mumbai,2409451
+Oven Toaster Grill,11-01-2017,Mumbai,614997
+Oven Toaster Grill,12-01-2017,Mumbai,2103019
+Oven Toaster Grill,01-01-2018,Mumbai,1708193
+Oven Toaster Grill,02-01-2018,Mumbai,831972
+Oven Toaster Grill,03-01-2018,Mumbai,1077551
+Steam Iron,04-01-2014,Mumbai,946311
+Steam Iron,05-01-2014,Mumbai,1364932
+Steam Iron,06-01-2014,Mumbai,1035778
+Steam Iron,07-01-2014,Mumbai,1308104
+Steam Iron,08-01-2014,Mumbai,1388389
+Steam Iron,09-01-2014,Mumbai,1651860
+Steam Iron,10-01-2014,Mumbai,1529888
+Steam Iron,11-01-2014,Mumbai,771619
+Steam Iron,12-01-2014,Mumbai,1459327
+Steam Iron,01-01-2015,Mumbai,1428273
+Steam Iron,02-01-2015,Mumbai,1157354
+Steam Iron,03-01-2015,Mumbai,1781407
+Steam Iron,04-01-2015,Mumbai,900866
+Steam Iron,05-01-2015,Mumbai,1075020
+Steam Iron,06-01-2015,Mumbai,601021
+Steam Iron,07-01-2015,Mumbai,978439
+Steam Iron,08-01-2015,Mumbai,921589
+Steam Iron,09-01-2015,Mumbai,945518
+Steam Iron,10-01-2015,Mumbai,1346260
+Steam Iron,11-01-2015,Mumbai,730173
+Steam Iron,12-01-2015,Mumbai,1068777
+Steam Iron,01-01-2016,Mumbai,802445
+Steam Iron,02-01-2016,Mumbai,811904
+Steam Iron,03-01-2016,Mumbai,1516644
+Steam Iron,04-01-2016,Mumbai,1187626
+Steam Iron,05-01-2016,Mumbai,727769
+Steam Iron,06-01-2016,Mumbai,410586
+Steam Iron,07-01-2016,Mumbai,770839
+Steam Iron,08-01-2016,Mumbai,830726
+Steam Iron,09-01-2016,Mumbai,1058321
+Steam Iron,10-01-2016,Mumbai,1077175
+Steam Iron,11-01-2016,Mumbai,454856
+Steam Iron,12-01-2016,Mumbai,601712
+Steam Iron,01-01-2017,Mumbai,812847
+Steam Iron,02-01-2017,Mumbai,752991
+Steam Iron,03-01-2017,Mumbai,1172070
+Steam Iron,04-01-2017,Mumbai,730680
+Steam Iron,05-01-2017,Mumbai,1331748
+Steam Iron,06-01-2017,Mumbai,1678719
+Steam Iron,07-01-2017,Mumbai,2062534
+Steam Iron,08-01-2017,Mumbai,1635874
+Steam Iron,09-01-2017,Mumbai,2363514
+Steam Iron,10-01-2017,Mumbai,2341632
+Steam Iron,11-01-2017,Mumbai,650167
+Steam Iron,12-01-2017,Mumbai,1468291
+Steam Iron,01-01-2018,Mumbai,1359409
+Steam Iron,02-01-2018,Mumbai,868654
+Steam Iron,03-01-2018,Mumbai,1296810
+SECF,04-01-2014,Mumbai,282973
+SECF,05-01-2014,Mumbai,408152
+SECF,06-01-2014,Mumbai,309726
+SECF,07-01-2014,Mumbai,391159
+SECF,08-01-2014,Mumbai,415166
+SECF,09-01-2014,Mumbai,493951
+SECF,10-01-2014,Mumbai,457478
+SECF,11-01-2014,Mumbai,230735
+SECF,12-01-2014,Mumbai,436378
+SECF,01-01-2015,Mumbai,427092
+SECF,02-01-2015,Mumbai,346080
+SECF,03-01-2015,Mumbai,532689
+SECF,04-01-2015,Mumbai,561833
+SECF,05-01-2015,Mumbai,670446
+SECF,06-01-2015,Mumbai,374832
+SECF,07-01-2015,Mumbai,610212
+SECF,08-01-2015,Mumbai,574757
+SECF,09-01-2015,Mumbai,589681
+SECF,10-01-2015,Mumbai,839608
+SECF,11-01-2015,Mumbai,455379
+SECF,12-01-2015,Mumbai,666553
+SECF,01-01-2016,Mumbai,500452
+SECF,02-01-2016,Mumbai,506352
+SECF,03-01-2016,Mumbai,945869
+SECF,04-01-2016,Mumbai,1241004
+SECF,05-01-2016,Mumbai,760479
+SECF,06-01-2016,Mumbai,429040
+SECF,07-01-2016,Mumbai,805484
+SECF,08-01-2016,Mumbai,868064
+SECF,09-01-2016,Mumbai,1105888
+SECF,10-01-2016,Mumbai,1125589
+SECF,11-01-2016,Mumbai,475300
+SECF,12-01-2016,Mumbai,628757
+SECF,01-01-2017,Mumbai,849381
+SECF,02-01-2017,Mumbai,786835
+SECF,03-01-2017,Mumbai,1224750
+SECF,04-01-2017,Mumbai,1611001
+SECF,05-01-2017,Mumbai,2730731
+SECF,06-01-2017,Mumbai,302116
+SECF,07-01-2017,Mumbai,367828
+SECF,08-01-2017,Mumbai,577405
+SECF,09-01-2017,Mumbai,834740
+SECF,10-01-2017,Mumbai,696421
+SECF,11-01-2017,Mumbai,279779
+SECF,12-01-2017,Mumbai,357128
+SECF,01-01-2018,Mumbai,369650
+SECF,02-01-2018,Mumbai,1510961
+SECF,03-01-2018,Mumbai,1731985
+Mixers,04-01-2014,Kolkata,2751118
+Mixers,05-01-2014,Kolkata,3968132
+Mixers,06-01-2014,Kolkata,3011215
+Mixers,07-01-2014,Kolkata,3802924
+Mixers,08-01-2014,Kolkata,4036329
+Mixers,09-01-2014,Kolkata,4802291
+Mixers,10-01-2014,Kolkata,4447694
+Mixers,11-01-2014,Kolkata,2243252
+Mixers,12-01-2014,Kolkata,4242558
+Mixers,01-01-2015,Kolkata,4152277
+Mixers,02-01-2015,Kolkata,3364662
+Mixers,03-01-2015,Kolkata,5178911
+Mixers,04-01-2015,Kolkata,5063500
+Mixers,05-01-2015,Kolkata,6042370
+Mixers,06-01-2015,Kolkata,3378160
+Mixers,07-01-2015,Kolkata,5499516
+Mixers,08-01-2015,Kolkata,5179979
+Mixers,09-01-2015,Kolkata,5314480
+Mixers,10-01-2015,Kolkata,7566933
+Mixers,11-01-2015,Kolkata,4104088
+Mixers,12-01-2015,Kolkata,6007280
+Mixers,01-01-2016,Kolkata,4510306
+Mixers,02-01-2016,Kolkata,4563475
+Mixers,03-01-2016,Kolkata,8524608
+Mixers,04-01-2016,Kolkata,7022955
+Mixers,05-01-2016,Kolkata,4303617
+Mixers,06-01-2016,Kolkata,2427975
+Mixers,07-01-2016,Kolkata,4558309
+Mixers,08-01-2016,Kolkata,4912451
+Mixers,09-01-2016,Kolkata,6258320
+Mixers,10-01-2016,Kolkata,6369809
+Mixers,11-01-2016,Kolkata,2689766
+Mixers,12-01-2016,Kolkata,3558191
+Mixers,01-01-2017,Kolkata,4806726
+Mixers,02-01-2017,Kolkata,4452768
+Mixers,03-01-2017,Kolkata,6930969
+Mixers,04-01-2017,Kolkata,3574460
+Mixers,05-01-2017,Kolkata,7026022
+Mixers,06-01-2017,Kolkata,5965564
+Mixers,07-01-2017,Kolkata,9066698
+Mixers,08-01-2017,Kolkata,10706348
+Mixers,09-01-2017,Kolkata,11975120
+Mixers,10-01-2017,Kolkata,12775606
+Mixers,11-01-2017,Kolkata,4267787
+Mixers,12-01-2017,Kolkata,7081682
+Mixers,01-01-2018,Kolkata,10295642
+Mixers,02-01-2018,Kolkata,3854902
+Mixers,03-01-2018,Kolkata,6371632
+Induction cookers,04-01-2014,Kolkata,766356
+Induction cookers,05-01-2014,Kolkata,1105370
+Induction cookers,06-01-2014,Kolkata,838809
+Induction cookers,07-01-2014,Kolkata,1059349
+Induction cookers,08-01-2014,Kolkata,1124367
+Induction cookers,09-01-2014,Kolkata,1337735
+Induction cookers,10-01-2014,Kolkata,1238958
+Induction cookers,11-01-2014,Kolkata,624884
+Induction cookers,12-01-2014,Kolkata,1181814
+Induction cookers,01-01-2015,Kolkata,1156666
+Induction cookers,02-01-2015,Kolkata,937266
+Induction cookers,03-01-2015,Kolkata,1442647
+Induction cookers,04-01-2015,Kolkata,781453
+Induction cookers,05-01-2015,Kolkata,932523
+Induction cookers,06-01-2015,Kolkata,521354
+Induction cookers,07-01-2015,Kolkata,848744
+Induction cookers,08-01-2015,Kolkata,799430
+Induction cookers,09-01-2015,Kolkata,820187
+Induction cookers,10-01-2015,Kolkata,1167810
+Induction cookers,11-01-2015,Kolkata,633387
+Induction cookers,12-01-2015,Kolkata,927108
+Induction cookers,01-01-2016,Kolkata,696079
+Induction cookers,02-01-2016,Kolkata,704284
+Induction cookers,03-01-2016,Kolkata,1315608
+Induction cookers,04-01-2016,Kolkata,894414
+Induction cookers,05-01-2016,Kolkata,548090
+Induction cookers,06-01-2016,Kolkata,309217
+Induction cookers,07-01-2016,Kolkata,580527
+Induction cookers,08-01-2016,Kolkata,625629
+Induction cookers,09-01-2016,Kolkata,797033
+Induction cookers,10-01-2016,Kolkata,811232
+Induction cookers,11-01-2016,Kolkata,342557
+Induction cookers,12-01-2016,Kolkata,453156
+Induction cookers,01-01-2017,Kolkata,612164
+Induction cookers,02-01-2017,Kolkata,567086
+Induction cookers,03-01-2017,Kolkata,882699
+Induction cookers,04-01-2017,Kolkata,1140471
+Induction cookers,05-01-2017,Kolkata,1785004
+Induction cookers,06-01-2017,Kolkata,1568772
+Induction cookers,07-01-2017,Kolkata,2789602
+Induction cookers,08-01-2017,Kolkata,2432108
+Induction cookers,09-01-2017,Kolkata,2915207
+Induction cookers,10-01-2017,Kolkata,3218166
+Induction cookers,11-01-2017,Kolkata,1499318
+Induction cookers,12-01-2017,Kolkata,2169421
+Induction cookers,01-01-2018,Kolkata,1981625
+Induction cookers,02-01-2018,Kolkata,1509632
+Induction cookers,03-01-2018,Kolkata,2032289
+Dry Iron,04-01-2014,Kolkata,333375
+Dry Iron,05-01-2014,Kolkata,480851
+Dry Iron,06-01-2014,Kolkata,364893
+Dry Iron,07-01-2014,Kolkata,460831
+Dry Iron,08-01-2014,Kolkata,489115
+Dry Iron,09-01-2014,Kolkata,581932
+Dry Iron,10-01-2014,Kolkata,538963
+Dry Iron,11-01-2014,Kolkata,271833
+Dry Iron,12-01-2014,Kolkata,514105
+Dry Iron,01-01-2015,Kolkata,503165
+Dry Iron,02-01-2015,Kolkata,407723
+Dry Iron,03-01-2015,Kolkata,627571
+Dry Iron,04-01-2015,Kolkata,296436
+Dry Iron,05-01-2015,Kolkata,353742
+Dry Iron,06-01-2015,Kolkata,197770
+Dry Iron,07-01-2015,Kolkata,321962
+Dry Iron,08-01-2015,Kolkata,303255
+Dry Iron,09-01-2015,Kolkata,311129
+Dry Iron,10-01-2015,Kolkata,442996
+Dry Iron,11-01-2015,Kolkata,240268
+Dry Iron,12-01-2015,Kolkata,351688
+Dry Iron,01-01-2016,Kolkata,264050
+Dry Iron,02-01-2016,Kolkata,267163
+Dry Iron,03-01-2016,Kolkata,499062
+Dry Iron,04-01-2016,Kolkata,625321
+Dry Iron,05-01-2016,Kolkata,383192
+Dry Iron,06-01-2016,Kolkata,216186
+Dry Iron,07-01-2016,Kolkata,405870
+Dry Iron,08-01-2016,Kolkata,437402
+Dry Iron,09-01-2016,Kolkata,557238
+Dry Iron,10-01-2016,Kolkata,567165
+Dry Iron,11-01-2016,Kolkata,239496
+Dry Iron,12-01-2016,Kolkata,316820
+Dry Iron,01-01-2017,Kolkata,427989
+Dry Iron,02-01-2017,Kolkata,396473
+Dry Iron,03-01-2017,Kolkata,617130
+Dry Iron,04-01-2017,Kolkata,503071
+Dry Iron,05-01-2017,Kolkata,1193750
+Dry Iron,06-01-2017,Kolkata,1354285
+Dry Iron,07-01-2017,Kolkata,1494115
+Dry Iron,08-01-2017,Kolkata,1509830
+Dry Iron,09-01-2017,Kolkata,2052139
+Dry Iron,10-01-2017,Kolkata,2528886
+Dry Iron,11-01-2017,Kolkata,625238
+Dry Iron,12-01-2017,Kolkata,1180521
+Dry Iron,01-01-2018,Kolkata,1257073
+Dry Iron,02-01-2018,Kolkata,759708
+Dry Iron,03-01-2018,Kolkata,1215886
+coolers,04-01-2014,Kolkata,929271
+coolers,05-01-2014,Kolkata,293140
+coolers,06-01-2014,Kolkata,8520
+coolers,07-01-2014,Kolkata,0
+coolers,08-01-2014,Kolkata,0
+coolers,09-01-2014,Kolkata,0
+coolers,10-01-2014,Kolkata,1261
+coolers,11-01-2014,Kolkata,6851
+coolers,12-01-2014,Kolkata,6325
+coolers,01-01-2015,Kolkata,134038
+coolers,02-01-2015,Kolkata,733085
+coolers,03-01-2015,Kolkata,1093907
+coolers,04-01-2015,Kolkata,589187
+coolers,05-01-2015,Kolkata,185860
+coolers,06-01-2015,Kolkata,5402
+coolers,07-01-2015,Kolkata,0
+coolers,08-01-2015,Kolkata,0
+coolers,09-01-2015,Kolkata,0
+coolers,10-01-2015,Kolkata,800
+coolers,11-01-2015,Kolkata,4344
+coolers,12-01-2015,Kolkata,4010
+coolers,01-01-2016,Kolkata,84984
+coolers,02-01-2016,Kolkata,464799
+coolers,03-01-2016,Kolkata,693571
+coolers,04-01-2016,Kolkata,2084239
+coolers,05-01-2016,Kolkata,657477
+coolers,06-01-2016,Kolkata,19108
+coolers,07-01-2016,Kolkata,0
+coolers,08-01-2016,Kolkata,0
+coolers,09-01-2016,Kolkata,0
+coolers,10-01-2016,Kolkata,2829
+coolers,11-01-2016,Kolkata,15367
+coolers,12-01-2016,Kolkata,14186
+coolers,01-01-2017,Kolkata,300631
+coolers,02-01-2017,Kolkata,1644220
+coolers,03-01-2017,Kolkata,2453499
+coolers,04-01-2017,Kolkata,11993548
+coolers,05-01-2017,Kolkata,3783388
+coolers,06-01-2017,Kolkata,109958
+coolers,07-01-2017,Kolkata,0
+coolers,08-01-2017,Kolkata,0
+coolers,09-01-2017,Kolkata,0
+coolers,10-01-2017,Kolkata,16281
+coolers,11-01-2017,Kolkata,88425
+coolers,12-01-2017,Kolkata,81630
+coolers,01-01-2018,Kolkata,1729949
+coolers,02-01-2018,Kolkata,9461499
+coolers,03-01-2018,Kolkata,14118415
+Water Heaters,04-01-2014,Kolkata,7440
+Water Heaters,05-01-2014,Kolkata,86490
+Water Heaters,06-01-2014,Kolkata,283808
+Water Heaters,07-01-2014,Kolkata,554080
+Water Heaters,08-01-2014,Kolkata,459737
+Water Heaters,09-01-2014,Kolkata,469783
+Water Heaters,10-01-2014,Kolkata,1211159
+Water Heaters,11-01-2014,Kolkata,992205
+Water Heaters,12-01-2014,Kolkata,1029917
+Water Heaters,01-01-2015,Kolkata,334716
+Water Heaters,02-01-2015,Kolkata,91522
+Water Heaters,03-01-2015,Kolkata,56729
+Water Heaters,04-01-2015,Kolkata,8332
+Water Heaters,05-01-2015,Kolkata,96867
+Water Heaters,06-01-2015,Kolkata,317858
+Water Heaters,07-01-2015,Kolkata,620557
+Water Heaters,08-01-2015,Kolkata,514895
+Water Heaters,09-01-2015,Kolkata,526146
+Water Heaters,10-01-2015,Kolkata,1356472
+Water Heaters,11-01-2015,Kolkata,1111247
+Water Heaters,12-01-2015,Kolkata,1153484
+Water Heaters,01-01-2016,Kolkata,374875
+Water Heaters,02-01-2016,Kolkata,102503
+Water Heaters,03-01-2016,Kolkata,63535
+Water Heaters,04-01-2016,Kolkata,25203
+Water Heaters,05-01-2016,Kolkata,292987
+Water Heaters,06-01-2016,Kolkata,961404
+Water Heaters,07-01-2016,Kolkata,1876956
+Water Heaters,08-01-2016,Kolkata,1557370
+Water Heaters,09-01-2016,Kolkata,1591398
+Water Heaters,10-01-2016,Kolkata,4102828
+Water Heaters,11-01-2016,Kolkata,3361114
+Water Heaters,12-01-2016,Kolkata,3488865
+Water Heaters,01-01-2017,Kolkata,1133859
+Water Heaters,02-01-2017,Kolkata,310034
+Water Heaters,03-01-2017,Kolkata,192170
+Water Heaters,04-01-2017,Kolkata,67329
+Water Heaters,05-01-2017,Kolkata,782719
+Water Heaters,06-01-2017,Kolkata,2568405
+Water Heaters,07-01-2017,Kolkata,5014313
+Water Heaters,08-01-2017,Kolkata,4160533
+Water Heaters,09-01-2017,Kolkata,4251442
+Water Heaters,10-01-2017,Kolkata,10960760
+Water Heaters,11-01-2017,Kolkata,8979262
+Water Heaters,12-01-2017,Kolkata,9320549
+Water Heaters,01-01-2018,Kolkata,3029118
+Water Heaters,02-01-2018,Kolkata,828259
+Water Heaters,03-01-2018,Kolkata,513384
+FoodProcessor,04-01-2014,Kolkata,248304
+FoodProcessor,05-01-2014,Kolkata,358146
+FoodProcessor,06-01-2014,Kolkata,271779
+FoodProcessor,07-01-2014,Kolkata,343235
+FoodProcessor,08-01-2014,Kolkata,364301
+FoodProcessor,09-01-2014,Kolkata,433434
+FoodProcessor,10-01-2014,Kolkata,401429
+FoodProcessor,11-01-2014,Kolkata,202466
+FoodProcessor,12-01-2014,Kolkata,382915
+FoodProcessor,01-01-2015,Kolkata,374766
+FoodProcessor,02-01-2015,Kolkata,303680
+FoodProcessor,03-01-2015,Kolkata,467426
+FoodProcessor,04-01-2015,Kolkata,213432
+FoodProcessor,05-01-2015,Kolkata,254693
+FoodProcessor,06-01-2015,Kolkata,142393
+FoodProcessor,07-01-2015,Kolkata,231811
+FoodProcessor,08-01-2015,Kolkata,218342
+FoodProcessor,09-01-2015,Kolkata,224011
+FoodProcessor,10-01-2015,Kolkata,318955
+FoodProcessor,11-01-2015,Kolkata,172992
+FoodProcessor,12-01-2015,Kolkata,253214
+FoodProcessor,01-01-2016,Kolkata,190114
+FoodProcessor,02-01-2016,Kolkata,192356
+FoodProcessor,03-01-2016,Kolkata,359322
+FoodProcessor,04-01-2016,Kolkata,285307
+FoodProcessor,05-01-2016,Kolkata,174834
+FoodProcessor,06-01-2016,Kolkata,98636
+FoodProcessor,07-01-2016,Kolkata,185181
+FoodProcessor,08-01-2016,Kolkata,199568
+FoodProcessor,09-01-2016,Kolkata,254243
+FoodProcessor,10-01-2016,Kolkata,258773
+FoodProcessor,11-01-2016,Kolkata,109271
+FoodProcessor,12-01-2016,Kolkata,144551
+FoodProcessor,01-01-2017,Kolkata,195273
+FoodProcessor,02-01-2017,Kolkata,180893
+FoodProcessor,03-01-2017,Kolkata,281570
+FoodProcessor,04-01-2017,Kolkata,155139
+FoodProcessor,05-01-2017,Kolkata,362203
+FoodProcessor,06-01-2017,Kolkata,290605
+FoodProcessor,07-01-2017,Kolkata,325567
+FoodProcessor,08-01-2017,Kolkata,335406
+FoodProcessor,09-01-2017,Kolkata,368897
+FoodProcessor,10-01-2017,Kolkata,288672
+FoodProcessor,11-01-2017,Kolkata,136298
+FoodProcessor,12-01-2017,Kolkata,146375
+FoodProcessor,01-01-2018,Kolkata,225263
+FoodProcessor,02-01-2018,Kolkata,160903
+FoodProcessor,03-01-2018,Kolkata,225843
+Gas Stove,04-01-2014,Kolkata,187954
+Gas Stove,05-01-2014,Kolkata,271100
+Gas Stove,06-01-2014,Kolkata,205724
+Gas Stove,07-01-2014,Kolkata,259813
+Gas Stove,08-01-2014,Kolkata,275759
+Gas Stove,09-01-2014,Kolkata,328089
+Gas Stove,10-01-2014,Kolkata,303863
+Gas Stove,11-01-2014,Kolkata,153257
+Gas Stove,12-01-2014,Kolkata,289848
+Gas Stove,01-01-2015,Kolkata,283680
+Gas Stove,02-01-2015,Kolkata,229871
+Gas Stove,03-01-2015,Kolkata,353819
+Gas Stove,04-01-2015,Kolkata,515530
+Gas Stove,05-01-2015,Kolkata,615192
+Gas Stove,06-01-2015,Kolkata,343940
+Gas Stove,07-01-2015,Kolkata,559922
+Gas Stove,08-01-2015,Kolkata,527389
+Gas Stove,09-01-2015,Kolkata,541083
+Gas Stove,10-01-2015,Kolkata,770412
+Gas Stove,11-01-2015,Kolkata,417849
+Gas Stove,12-01-2015,Kolkata,611619
+Gas Stove,01-01-2016,Kolkata,459208
+Gas Stove,02-01-2016,Kolkata,464621
+Gas Stove,03-01-2016,Kolkata,867916
+Gas Stove,04-01-2016,Kolkata,609182
+Gas Stove,05-01-2016,Kolkata,373303
+Gas Stove,06-01-2016,Kolkata,210606
+Gas Stove,07-01-2016,Kolkata,395395
+Gas Stove,08-01-2016,Kolkata,426114
+Gas Stove,09-01-2016,Kolkata,542857
+Gas Stove,10-01-2016,Kolkata,552527
+Gas Stove,11-01-2016,Kolkata,233315
+Gas Stove,12-01-2016,Kolkata,308643
+Gas Stove,01-01-2017,Kolkata,416943
+Gas Stove,02-01-2017,Kolkata,386240
+Gas Stove,03-01-2017,Kolkata,601203
+Gas Stove,04-01-2017,Kolkata,155363
+Gas Stove,05-01-2017,Kolkata,431406
+Gas Stove,06-01-2017,Kolkata,584582
+Gas Stove,07-01-2017,Kolkata,911167
+Gas Stove,08-01-2017,Kolkata,1335496
+Gas Stove,09-01-2017,Kolkata,884489
+Gas Stove,10-01-2017,Kolkata,667518
+Gas Stove,11-01-2017,Kolkata,459401
+Gas Stove,12-01-2017,Kolkata,637198
+Gas Stove,01-01-2018,Kolkata,900391
+Gas Stove,02-01-2018,Kolkata,436454
+Gas Stove,03-01-2018,Kolkata,329522
+Oven Toaster Grill,04-01-2014,Kolkata,171092
+Oven Toaster Grill,05-01-2014,Kolkata,246777
+Oven Toaster Grill,06-01-2014,Kolkata,187267
+Oven Toaster Grill,07-01-2014,Kolkata,236503
+Oven Toaster Grill,08-01-2014,Kolkata,251019
+Oven Toaster Grill,09-01-2014,Kolkata,298654
+Oven Toaster Grill,10-01-2014,Kolkata,276601
+Oven Toaster Grill,11-01-2014,Kolkata,139507
+Oven Toaster Grill,12-01-2014,Kolkata,263844
+Oven Toaster Grill,01-01-2015,Kolkata,258229
+Oven Toaster Grill,02-01-2015,Kolkata,209248
+Oven Toaster Grill,03-01-2015,Kolkata,322076
+Oven Toaster Grill,04-01-2015,Kolkata,211765
+Oven Toaster Grill,05-01-2015,Kolkata,252703
+Oven Toaster Grill,06-01-2015,Kolkata,141281
+Oven Toaster Grill,07-01-2015,Kolkata,230000
+Oven Toaster Grill,08-01-2015,Kolkata,216636
+Oven Toaster Grill,09-01-2015,Kolkata,222261
+Oven Toaster Grill,10-01-2015,Kolkata,316463
+Oven Toaster Grill,11-01-2015,Kolkata,171641
+Oven Toaster Grill,12-01-2015,Kolkata,251236
+Oven Toaster Grill,01-01-2016,Kolkata,188629
+Oven Toaster Grill,02-01-2016,Kolkata,190853
+Oven Toaster Grill,03-01-2016,Kolkata,356515
+Oven Toaster Grill,04-01-2016,Kolkata,518622
+Oven Toaster Grill,05-01-2016,Kolkata,317808
+Oven Toaster Grill,06-01-2016,Kolkata,179298
+Oven Toaster Grill,07-01-2016,Kolkata,336616
+Oven Toaster Grill,08-01-2016,Kolkata,362768
+Oven Toaster Grill,09-01-2016,Kolkata,462156
+Oven Toaster Grill,10-01-2016,Kolkata,470389
+Oven Toaster Grill,11-01-2016,Kolkata,198630
+Oven Toaster Grill,12-01-2016,Kolkata,262761
+Oven Toaster Grill,01-01-2017,Kolkata,354961
+Oven Toaster Grill,02-01-2017,Kolkata,328822
+Oven Toaster Grill,03-01-2017,Kolkata,511829
+Oven Toaster Grill,04-01-2017,Kolkata,187614
+Oven Toaster Grill,05-01-2017,Kolkata,742139
+Oven Toaster Grill,06-01-2017,Kolkata,562678
+Oven Toaster Grill,07-01-2017,Kolkata,613420
+Oven Toaster Grill,08-01-2017,Kolkata,640129
+Oven Toaster Grill,09-01-2017,Kolkata,818523
+Oven Toaster Grill,10-01-2017,Kolkata,1084264
+Oven Toaster Grill,11-01-2017,Kolkata,276751
+Oven Toaster Grill,12-01-2017,Kolkata,946368
+Oven Toaster Grill,01-01-2018,Kolkata,768695
+Oven Toaster Grill,02-01-2018,Kolkata,374391
+Oven Toaster Grill,03-01-2018,Kolkata,484903
+Steam Iron,04-01-2014,Kolkata,224120
+Steam Iron,05-01-2014,Kolkata,323264
+Steam Iron,06-01-2014,Kolkata,245309
+Steam Iron,07-01-2014,Kolkata,309805
+Steam Iron,08-01-2014,Kolkata,328819
+Steam Iron,09-01-2014,Kolkata,391218
+Steam Iron,10-01-2014,Kolkata,362331
+Steam Iron,11-01-2014,Kolkata,182746
+Steam Iron,12-01-2014,Kolkata,345620
+Steam Iron,01-01-2015,Kolkata,338265
+Steam Iron,02-01-2015,Kolkata,274102
+Steam Iron,03-01-2015,Kolkata,421900
+Steam Iron,04-01-2015,Kolkata,255738
+Steam Iron,05-01-2015,Kolkata,305178
+Steam Iron,06-01-2015,Kolkata,170618
+Steam Iron,07-01-2015,Kolkata,277760
+Steam Iron,08-01-2015,Kolkata,261621
+Steam Iron,09-01-2015,Kolkata,268415
+Steam Iron,10-01-2015,Kolkata,382178
+Steam Iron,11-01-2015,Kolkata,207282
+Steam Iron,12-01-2015,Kolkata,303405
+Steam Iron,01-01-2016,Kolkata,227799
+Steam Iron,02-01-2016,Kolkata,230484
+Steam Iron,03-01-2016,Kolkata,430546
+Steam Iron,04-01-2016,Kolkata,315610
+Steam Iron,05-01-2016,Kolkata,193404
+Steam Iron,06-01-2016,Kolkata,109113
+Steam Iron,07-01-2016,Kolkata,204849
+Steam Iron,08-01-2016,Kolkata,220765
+Steam Iron,09-01-2016,Kolkata,281248
+Steam Iron,10-01-2016,Kolkata,286258
+Steam Iron,11-01-2016,Kolkata,120878
+Steam Iron,12-01-2016,Kolkata,159904
+Steam Iron,01-01-2017,Kolkata,216013
+Steam Iron,02-01-2017,Kolkata,200107
+Steam Iron,03-01-2017,Kolkata,311476
+Steam Iron,04-01-2017,Kolkata,165821
+Steam Iron,05-01-2017,Kolkata,302229
+Steam Iron,06-01-2017,Kolkata,380970
+Steam Iron,07-01-2017,Kolkata,468074
+Steam Iron,08-01-2017,Kolkata,371247
+Steam Iron,09-01-2017,Kolkata,536379
+Steam Iron,10-01-2017,Kolkata,531413
+Steam Iron,11-01-2017,Kolkata,147550
+Steam Iron,12-01-2017,Kolkata,333216
+Steam Iron,01-01-2018,Kolkata,308506
+Steam Iron,02-01-2018,Kolkata,197133
+Steam Iron,03-01-2018,Kolkata,294300
+SECF,04-01-2014,Kolkata,12092
+SECF,05-01-2014,Kolkata,17441
+SECF,06-01-2014,Kolkata,13235
+SECF,07-01-2014,Kolkata,16715
+SECF,08-01-2014,Kolkata,17740
+SECF,09-01-2014,Kolkata,21107
+SECF,10-01-2014,Kolkata,19548
+SECF,11-01-2014,Kolkata,9859
+SECF,12-01-2014,Kolkata,18647
+SECF,01-01-2015,Kolkata,18250
+SECF,02-01-2015,Kolkata,14788
+SECF,03-01-2015,Kolkata,22762
+SECF,04-01-2015,Kolkata,81945
+SECF,05-01-2015,Kolkata,97787
+SECF,06-01-2015,Kolkata,54671
+SECF,07-01-2015,Kolkata,89002
+SECF,08-01-2015,Kolkata,83831
+SECF,09-01-2015,Kolkata,86007
+SECF,10-01-2015,Kolkata,122460
+SECF,11-01-2015,Kolkata,66419
+SECF,12-01-2015,Kolkata,97219
+SECF,01-01-2016,Kolkata,72993
+SECF,02-01-2016,Kolkata,73853
+SECF,03-01-2016,Kolkata,137959
+SECF,04-01-2016,Kolkata,116477
+SECF,05-01-2016,Kolkata,71377
+SECF,06-01-2016,Kolkata,40269
+SECF,07-01-2016,Kolkata,75601
+SECF,08-01-2016,Kolkata,81474
+SECF,09-01-2016,Kolkata,103796
+SECF,10-01-2016,Kolkata,105645
+SECF,11-01-2016,Kolkata,44610
+SECF,12-01-2016,Kolkata,59013
+SECF,01-01-2017,Kolkata,79721
+SECF,02-01-2017,Kolkata,73850
+SECF,03-01-2017,Kolkata,114952
+SECF,04-01-2017,Kolkata,251396
+SECF,05-01-2017,Kolkata,426129
+SECF,06-01-2017,Kolkata,47145
+SECF,07-01-2017,Kolkata,57399
+SECF,08-01-2017,Kolkata,90104
+SECF,09-01-2017,Kolkata,130261
+SECF,10-01-2017,Kolkata,108676
+SECF,11-01-2017,Kolkata,43659
+SECF,12-01-2017,Kolkata,55730
+SECF,01-01-2018,Kolkata,57684
+SECF,02-01-2018,Kolkata,235785
+SECF,03-01-2018,Kolkata,270275
+Mixers,04-01-2014,Hyderabad,1456858
+Mixers,05-01-2014,Hyderabad,2101329
+Mixers,06-01-2014,Hyderabad,1594593
+Mixers,07-01-2014,Hyderabad,2013843
+Mixers,08-01-2014,Hyderabad,2137443
+Mixers,09-01-2014,Hyderabad,2543059
+Mixers,10-01-2014,Hyderabad,2355282
+Mixers,11-01-2014,Hyderabad,1187917
+Mixers,12-01-2014,Hyderabad,2246652
+Mixers,01-01-2015,Hyderabad,2198843
+Mixers,02-01-2015,Hyderabad,1781761
+Mixers,03-01-2015,Hyderabad,2742499
+Mixers,04-01-2015,Hyderabad,2524099
+Mixers,05-01-2015,Hyderabad,3012055
+Mixers,06-01-2015,Hyderabad,1683976
+Mixers,07-01-2015,Hyderabad,2741449
+Mixers,08-01-2015,Hyderabad,2582163
+Mixers,09-01-2015,Hyderabad,2649210
+Mixers,10-01-2015,Hyderabad,3772033
+Mixers,11-01-2015,Hyderabad,2045843
+Mixers,12-01-2015,Hyderabad,2994564
+Mixers,01-01-2016,Hyderabad,2248338
+Mixers,02-01-2016,Hyderabad,2274842
+Mixers,03-01-2016,Hyderabad,4249424
+Mixers,04-01-2016,Hyderabad,3284146
+Mixers,05-01-2016,Hyderabad,2012501
+Mixers,06-01-2016,Hyderabad,1135394
+Mixers,07-01-2016,Hyderabad,2131603
+Mixers,08-01-2016,Hyderabad,2297210
+Mixers,09-01-2016,Hyderabad,2926579
+Mixers,10-01-2016,Hyderabad,2978715
+Mixers,11-01-2016,Hyderabad,1257816
+Mixers,12-01-2016,Hyderabad,1663918
+Mixers,01-01-2017,Hyderabad,2247770
+Mixers,02-01-2017,Hyderabad,2082249
+Mixers,03-01-2017,Hyderabad,3241131
+Mixers,04-01-2017,Hyderabad,1343721
+Mixers,05-01-2017,Hyderabad,2641241
+Mixers,06-01-2017,Hyderabad,2242591
+Mixers,07-01-2017,Hyderabad,3408378
+Mixers,08-01-2017,Hyderabad,4024760
+Mixers,09-01-2017,Hyderabad,4501720
+Mixers,10-01-2017,Hyderabad,4802641
+Mixers,11-01-2017,Hyderabad,1604358
+Mixers,12-01-2017,Hyderabad,2662165
+Mixers,01-01-2018,Hyderabad,3870366
+Mixers,02-01-2018,Hyderabad,1449145
+Mixers,03-01-2018,Hyderabad,2395241
+Induction cookers,04-01-2014,Hyderabad,241240
+Induction cookers,05-01-2014,Hyderabad,347958
+Induction cookers,06-01-2014,Hyderabad,264048
+Induction cookers,07-01-2014,Hyderabad,333471
+Induction cookers,08-01-2014,Hyderabad,353938
+Induction cookers,09-01-2014,Hyderabad,421104
+Induction cookers,10-01-2014,Hyderabad,390010
+Induction cookers,11-01-2014,Hyderabad,196707
+Induction cookers,12-01-2014,Hyderabad,372022
+Induction cookers,01-01-2015,Hyderabad,364105
+Induction cookers,02-01-2015,Hyderabad,295041
+Induction cookers,03-01-2015,Hyderabad,454129
+Induction cookers,04-01-2015,Hyderabad,432613
+Induction cookers,05-01-2015,Hyderabad,516246
+Induction cookers,06-01-2015,Hyderabad,288622
+Induction cookers,07-01-2015,Hyderabad,469865
+Induction cookers,08-01-2015,Hyderabad,442565
+Induction cookers,09-01-2015,Hyderabad,454056
+Induction cookers,10-01-2015,Hyderabad,646501
+Induction cookers,11-01-2015,Hyderabad,350643
+Induction cookers,12-01-2015,Hyderabad,513248
+Induction cookers,01-01-2016,Hyderabad,385350
+Induction cookers,02-01-2016,Hyderabad,389892
+Induction cookers,03-01-2016,Hyderabad,728322
+Induction cookers,04-01-2016,Hyderabad,698459
+Induction cookers,05-01-2016,Hyderabad,428010
+Induction cookers,06-01-2016,Hyderabad,241471
+Induction cookers,07-01-2016,Hyderabad,453341
+Induction cookers,08-01-2016,Hyderabad,488561
+Induction cookers,09-01-2016,Hyderabad,622413
+Induction cookers,10-01-2016,Hyderabad,633501
+Induction cookers,11-01-2016,Hyderabad,267507
+Induction cookers,12-01-2016,Hyderabad,353875
+Induction cookers,01-01-2017,Hyderabad,478047
+Induction cookers,02-01-2017,Hyderabad,442844
+Induction cookers,03-01-2017,Hyderabad,689310
+Induction cookers,04-01-2017,Hyderabad,350924
+Induction cookers,05-01-2017,Hyderabad,549248
+Induction cookers,06-01-2017,Hyderabad,482713
+Induction cookers,07-01-2017,Hyderabad,858364
+Induction cookers,08-01-2017,Hyderabad,748362
+Induction cookers,09-01-2017,Hyderabad,897012
+Induction cookers,10-01-2017,Hyderabad,990233
+Induction cookers,11-01-2017,Hyderabad,461342
+Induction cookers,12-01-2017,Hyderabad,667533
+Induction cookers,01-01-2018,Hyderabad,609748
+Induction cookers,02-01-2018,Hyderabad,464515
+Induction cookers,03-01-2018,Hyderabad,625337
+Dry Iron,04-01-2014,Hyderabad,316671
+Dry Iron,05-01-2014,Hyderabad,456757
+Dry Iron,06-01-2014,Hyderabad,346610
+Dry Iron,07-01-2014,Hyderabad,437741
+Dry Iron,08-01-2014,Hyderabad,464607
+Dry Iron,09-01-2014,Hyderabad,552774
+Dry Iron,10-01-2014,Hyderabad,511958
+Dry Iron,11-01-2014,Hyderabad,258213
+Dry Iron,12-01-2014,Hyderabad,488345
+Dry Iron,01-01-2015,Hyderabad,477954
+Dry Iron,02-01-2015,Hyderabad,387294
+Dry Iron,03-01-2015,Hyderabad,596126
+Dry Iron,04-01-2015,Hyderabad,497690
+Dry Iron,05-01-2015,Hyderabad,593902
+Dry Iron,06-01-2015,Hyderabad,332038
+Dry Iron,07-01-2015,Hyderabad,540545
+Dry Iron,08-01-2015,Hyderabad,509138
+Dry Iron,09-01-2015,Hyderabad,522358
+Dry Iron,10-01-2015,Hyderabad,743751
+Dry Iron,11-01-2015,Hyderabad,403389
+Dry Iron,12-01-2015,Hyderabad,590453
+Dry Iron,01-01-2016,Hyderabad,443316
+Dry Iron,02-01-2016,Hyderabad,448542
+Dry Iron,03-01-2016,Hyderabad,837881
+Dry Iron,04-01-2016,Hyderabad,984107
+Dry Iron,05-01-2016,Hyderabad,603054
+Dry Iron,06-01-2016,Hyderabad,340225
+Dry Iron,07-01-2016,Hyderabad,638743
+Dry Iron,08-01-2016,Hyderabad,688368
+Dry Iron,09-01-2016,Hyderabad,876961
+Dry Iron,10-01-2016,Hyderabad,892583
+Dry Iron,11-01-2016,Hyderabad,376909
+Dry Iron,12-01-2016,Hyderabad,498599
+Dry Iron,01-01-2017,Hyderabad,673553
+Dry Iron,02-01-2017,Hyderabad,623954
+Dry Iron,03-01-2017,Hyderabad,971217
+Dry Iron,04-01-2017,Hyderabad,399841
+Dry Iron,05-01-2017,Hyderabad,948792
+Dry Iron,06-01-2017,Hyderabad,1076385
+Dry Iron,07-01-2017,Hyderabad,1187521
+Dry Iron,08-01-2017,Hyderabad,1200012
+Dry Iron,09-01-2017,Hyderabad,1631038
+Dry Iron,10-01-2017,Hyderabad,2009957
+Dry Iron,11-01-2017,Hyderabad,496939
+Dry Iron,12-01-2017,Hyderabad,938277
+Dry Iron,01-01-2018,Hyderabad,999121
+Dry Iron,02-01-2018,Hyderabad,603815
+Dry Iron,03-01-2018,Hyderabad,966385
+coolers,04-01-2014,Hyderabad,2313914
+coolers,05-01-2014,Hyderabad,729929
+coolers,06-01-2014,Hyderabad,21214
+coolers,07-01-2014,Hyderabad,0
+coolers,08-01-2014,Hyderabad,0
+coolers,09-01-2014,Hyderabad,0
+coolers,10-01-2014,Hyderabad,3141
+coolers,11-01-2014,Hyderabad,17060
+coolers,12-01-2014,Hyderabad,15749
+coolers,01-01-2015,Hyderabad,333759
+coolers,02-01-2015,Hyderabad,1825406
+coolers,03-01-2015,Hyderabad,2723865
+coolers,04-01-2015,Hyderabad,2543568
+coolers,05-01-2015,Hyderabad,802374
+coolers,06-01-2015,Hyderabad,23320
+coolers,07-01-2015,Hyderabad,0
+coolers,08-01-2015,Hyderabad,0
+coolers,09-01-2015,Hyderabad,0
+coolers,10-01-2015,Hyderabad,3453
+coolers,11-01-2015,Hyderabad,18753
+coolers,12-01-2015,Hyderabad,17312
+coolers,01-01-2016,Hyderabad,366884
+coolers,02-01-2016,Hyderabad,2006576
+coolers,03-01-2016,Hyderabad,2994206
+coolers,04-01-2016,Hyderabad,6369430
+coolers,05-01-2016,Hyderabad,2009249
+coolers,06-01-2016,Hyderabad,58395
+coolers,07-01-2016,Hyderabad,0
+coolers,08-01-2016,Hyderabad,0
+coolers,09-01-2016,Hyderabad,0
+coolers,10-01-2016,Hyderabad,8646
+coolers,11-01-2016,Hyderabad,46960
+coolers,12-01-2016,Hyderabad,43351
+coolers,01-01-2017,Hyderabad,918726
+coolers,02-01-2017,Hyderabad,5024731
+coolers,03-01-2017,Hyderabad,7497885
+coolers,04-01-2017,Hyderabad,5890558
+coolers,05-01-2017,Hyderabad,1858188
+coolers,06-01-2017,Hyderabad,54005
+coolers,07-01-2017,Hyderabad,0
+coolers,08-01-2017,Hyderabad,0
+coolers,09-01-2017,Hyderabad,0
+coolers,10-01-2017,Hyderabad,7996
+coolers,11-01-2017,Hyderabad,43430
+coolers,12-01-2017,Hyderabad,40092
+coolers,01-01-2018,Hyderabad,849654
+coolers,02-01-2018,Hyderabad,4646958
+coolers,03-01-2018,Hyderabad,6934173
+Water Heaters,04-01-2014,Hyderabad,11043
+Water Heaters,05-01-2014,Hyderabad,128380
+Water Heaters,06-01-2014,Hyderabad,421263
+Water Heaters,07-01-2014,Hyderabad,822434
+Water Heaters,08-01-2014,Hyderabad,682400
+Water Heaters,09-01-2014,Hyderabad,697310
+Water Heaters,10-01-2014,Hyderabad,1797755
+Water Heaters,11-01-2014,Hyderabad,1472754
+Water Heaters,12-01-2014,Hyderabad,1528731
+Water Heaters,01-01-2015,Hyderabad,496828
+Water Heaters,02-01-2015,Hyderabad,135849
+Water Heaters,03-01-2015,Hyderabad,84204
+Water Heaters,04-01-2015,Hyderabad,10930
+Water Heaters,05-01-2015,Hyderabad,127061
+Water Heaters,06-01-2015,Hyderabad,416935
+Water Heaters,07-01-2015,Hyderabad,813984
+Water Heaters,08-01-2015,Hyderabad,675388
+Water Heaters,09-01-2015,Hyderabad,690146
+Water Heaters,10-01-2015,Hyderabad,1779284
+Water Heaters,11-01-2015,Hyderabad,1457623
+Water Heaters,12-01-2015,Hyderabad,1513025
+Water Heaters,01-01-2016,Hyderabad,491723
+Water Heaters,02-01-2016,Hyderabad,134453
+Water Heaters,03-01-2016,Hyderabad,83339
+Water Heaters,04-01-2016,Hyderabad,3549
+Water Heaters,05-01-2016,Hyderabad,41261
+Water Heaters,06-01-2016,Hyderabad,135392
+Water Heaters,07-01-2016,Hyderabad,264326
+Water Heaters,08-01-2016,Hyderabad,219320
+Water Heaters,09-01-2016,Hyderabad,224112
+Water Heaters,10-01-2016,Hyderabad,577789
+Water Heaters,11-01-2016,Hyderabad,473336
+Water Heaters,12-01-2016,Hyderabad,491326
+Water Heaters,01-01-2017,Hyderabad,159678
+Water Heaters,02-01-2017,Hyderabad,43661
+Water Heaters,03-01-2017,Hyderabad,27063
+Water Heaters,04-01-2017,Hyderabad,18224
+Water Heaters,05-01-2017,Hyderabad,211859
+Water Heaters,06-01-2017,Hyderabad,695190
+Water Heaters,07-01-2017,Hyderabad,1357224
+Water Heaters,08-01-2017,Hyderabad,1126132
+Water Heaters,09-01-2017,Hyderabad,1150738
+Water Heaters,10-01-2017,Hyderabad,2966749
+Water Heaters,11-01-2017,Hyderabad,2430417
+Water Heaters,12-01-2017,Hyderabad,2522793
+Water Heaters,01-01-2018,Hyderabad,819891
+Water Heaters,02-01-2018,Hyderabad,224185
+Water Heaters,03-01-2018,Hyderabad,138958
+FoodProcessor,04-01-2014,Hyderabad,228776
+FoodProcessor,05-01-2014,Hyderabad,329980
+FoodProcessor,06-01-2014,Hyderabad,250405
+FoodProcessor,07-01-2014,Hyderabad,316241
+FoodProcessor,08-01-2014,Hyderabad,335651
+FoodProcessor,09-01-2014,Hyderabad,399346
+FoodProcessor,10-01-2014,Hyderabad,369859
+FoodProcessor,11-01-2014,Hyderabad,186543
+FoodProcessor,12-01-2014,Hyderabad,352800
+FoodProcessor,01-01-2015,Hyderabad,345293
+FoodProcessor,02-01-2015,Hyderabad,279797
+FoodProcessor,03-01-2015,Hyderabad,430665
+FoodProcessor,04-01-2015,Hyderabad,205884
+FoodProcessor,05-01-2015,Hyderabad,245685
+FoodProcessor,06-01-2015,Hyderabad,137357
+FoodProcessor,07-01-2015,Hyderabad,223612
+FoodProcessor,08-01-2015,Hyderabad,210620
+FoodProcessor,09-01-2015,Hyderabad,216089
+FoodProcessor,10-01-2015,Hyderabad,307674
+FoodProcessor,11-01-2015,Hyderabad,166874
+FoodProcessor,12-01-2015,Hyderabad,244258
+FoodProcessor,01-01-2016,Hyderabad,183391
+FoodProcessor,02-01-2016,Hyderabad,185553
+FoodProcessor,03-01-2016,Hyderabad,346614
+FoodProcessor,04-01-2016,Hyderabad,270352
+FoodProcessor,05-01-2016,Hyderabad,165670
+FoodProcessor,06-01-2016,Hyderabad,93466
+FoodProcessor,07-01-2016,Hyderabad,175474
+FoodProcessor,08-01-2016,Hyderabad,189107
+FoodProcessor,09-01-2016,Hyderabad,240917
+FoodProcessor,10-01-2016,Hyderabad,245209
+FoodProcessor,11-01-2016,Hyderabad,103544
+FoodProcessor,12-01-2016,Hyderabad,136974
+FoodProcessor,01-01-2017,Hyderabad,185037
+FoodProcessor,02-01-2017,Hyderabad,171411
+FoodProcessor,03-01-2017,Hyderabad,266811
+FoodProcessor,04-01-2017,Hyderabad,152492
+FoodProcessor,05-01-2017,Hyderabad,356024
+FoodProcessor,06-01-2017,Hyderabad,285647
+FoodProcessor,07-01-2017,Hyderabad,320013
+FoodProcessor,08-01-2017,Hyderabad,329684
+FoodProcessor,09-01-2017,Hyderabad,362604
+FoodProcessor,10-01-2017,Hyderabad,283747
+FoodProcessor,11-01-2017,Hyderabad,133973
+FoodProcessor,12-01-2017,Hyderabad,143878
+FoodProcessor,01-01-2018,Hyderabad,221420
+FoodProcessor,02-01-2018,Hyderabad,158159
+FoodProcessor,03-01-2018,Hyderabad,221990
+Gas Stove,04-01-2014,Hyderabad,202678
+Gas Stove,05-01-2014,Hyderabad,292337
+Gas Stove,06-01-2014,Hyderabad,221840
+Gas Stove,07-01-2014,Hyderabad,280166
+Gas Stove,08-01-2014,Hyderabad,297361
+Gas Stove,09-01-2014,Hyderabad,353791
+Gas Stove,10-01-2014,Hyderabad,327667
+Gas Stove,11-01-2014,Hyderabad,165263
+Gas Stove,12-01-2014,Hyderabad,312554
+Gas Stove,01-01-2015,Hyderabad,305903
+Gas Stove,02-01-2015,Hyderabad,247879
+Gas Stove,03-01-2015,Hyderabad,381537
+Gas Stove,04-01-2015,Hyderabad,399181
+Gas Stove,05-01-2015,Hyderabad,476350
+Gas Stove,06-01-2015,Hyderabad,266317
+Gas Stove,07-01-2015,Hyderabad,433554
+Gas Stove,08-01-2015,Hyderabad,408364
+Gas Stove,09-01-2015,Hyderabad,418967
+Gas Stove,10-01-2015,Hyderabad,596539
+Gas Stove,11-01-2015,Hyderabad,323546
+Gas Stove,12-01-2015,Hyderabad,473584
+Gas Stove,01-01-2016,Hyderabad,355570
+Gas Stove,02-01-2016,Hyderabad,359761
+Gas Stove,03-01-2016,Hyderabad,672037
+Gas Stove,04-01-2016,Hyderabad,478051
+Gas Stove,05-01-2016,Hyderabad,292946
+Gas Stove,06-01-2016,Hyderabad,165272
+Gas Stove,07-01-2016,Hyderabad,310283
+Gas Stove,08-01-2016,Hyderabad,334389
+Gas Stove,09-01-2016,Hyderabad,426002
+Gas Stove,10-01-2016,Hyderabad,433591
+Gas Stove,11-01-2016,Hyderabad,183092
+Gas Stove,12-01-2016,Hyderabad,242205
+Gas Stove,01-01-2017,Hyderabad,327192
+Gas Stove,02-01-2017,Hyderabad,303099
+Gas Stove,03-01-2017,Hyderabad,471789
+Gas Stove,04-01-2017,Hyderabad,111553
+Gas Stove,05-01-2017,Hyderabad,309755
+Gas Stove,06-01-2017,Hyderabad,419738
+Gas Stove,07-01-2017,Hyderabad,654229
+Gas Stove,08-01-2017,Hyderabad,958903
+Gas Stove,09-01-2017,Hyderabad,635074
+Gas Stove,10-01-2017,Hyderabad,479286
+Gas Stove,11-01-2017,Hyderabad,329856
+Gas Stove,12-01-2017,Hyderabad,457516
+Gas Stove,01-01-2018,Hyderabad,646492
+Gas Stove,02-01-2018,Hyderabad,313379
+Gas Stove,03-01-2018,Hyderabad,236601
+Oven Toaster Grill,04-01-2014,Hyderabad,71644
+Oven Toaster Grill,05-01-2014,Hyderabad,103337
+Oven Toaster Grill,06-01-2014,Hyderabad,78417
+Oven Toaster Grill,07-01-2014,Hyderabad,99035
+Oven Toaster Grill,08-01-2014,Hyderabad,105113
+Oven Toaster Grill,09-01-2014,Hyderabad,125060
+Oven Toaster Grill,10-01-2014,Hyderabad,115826
+Oven Toaster Grill,11-01-2014,Hyderabad,58418
+Oven Toaster Grill,12-01-2014,Hyderabad,110484
+Oven Toaster Grill,01-01-2015,Hyderabad,108132
+Oven Toaster Grill,02-01-2015,Hyderabad,87622
+Oven Toaster Grill,03-01-2015,Hyderabad,134868
+Oven Toaster Grill,04-01-2015,Hyderabad,76546
+Oven Toaster Grill,05-01-2015,Hyderabad,91344
+Oven Toaster Grill,06-01-2015,Hyderabad,51068
+Oven Toaster Grill,07-01-2015,Hyderabad,83137
+Oven Toaster Grill,08-01-2015,Hyderabad,78307
+Oven Toaster Grill,09-01-2015,Hyderabad,80340
+Oven Toaster Grill,10-01-2015,Hyderabad,114391
+Oven Toaster Grill,11-01-2015,Hyderabad,62042
+Oven Toaster Grill,12-01-2015,Hyderabad,90813
+Oven Toaster Grill,01-01-2016,Hyderabad,68183
+Oven Toaster Grill,02-01-2016,Hyderabad,68987
+Oven Toaster Grill,03-01-2016,Hyderabad,128868
+Oven Toaster Grill,04-01-2016,Hyderabad,131666
+Oven Toaster Grill,05-01-2016,Hyderabad,80684
+Oven Toaster Grill,06-01-2016,Hyderabad,45520
+Oven Toaster Grill,07-01-2016,Hyderabad,85459
+Oven Toaster Grill,08-01-2016,Hyderabad,92098
+Oven Toaster Grill,09-01-2016,Hyderabad,117331
+Oven Toaster Grill,10-01-2016,Hyderabad,119421
+Oven Toaster Grill,11-01-2016,Hyderabad,50428
+Oven Toaster Grill,12-01-2016,Hyderabad,66709
+Oven Toaster Grill,01-01-2017,Hyderabad,90116
+Oven Toaster Grill,02-01-2017,Hyderabad,83480
+Oven Toaster Grill,03-01-2017,Hyderabad,129941
+Oven Toaster Grill,04-01-2017,Hyderabad,74325
+Oven Toaster Grill,05-01-2017,Hyderabad,294007
+Oven Toaster Grill,06-01-2017,Hyderabad,222912
+Oven Toaster Grill,07-01-2017,Hyderabad,243014
+Oven Toaster Grill,08-01-2017,Hyderabad,253595
+Oven Toaster Grill,09-01-2017,Hyderabad,324268
+Oven Toaster Grill,10-01-2017,Hyderabad,429544
+Oven Toaster Grill,11-01-2017,Hyderabad,109638
+Oven Toaster Grill,12-01-2017,Hyderabad,374915
+Oven Toaster Grill,01-01-2018,Hyderabad,304528
+Oven Toaster Grill,02-01-2018,Hyderabad,148320
+Oven Toaster Grill,03-01-2018,Hyderabad,192100
+Steam Iron,04-01-2014,Hyderabad,407395
+Steam Iron,05-01-2014,Hyderabad,587615
+Steam Iron,06-01-2014,Hyderabad,445912
+Steam Iron,07-01-2014,Hyderabad,563151
+Steam Iron,08-01-2014,Hyderabad,597714
+Steam Iron,09-01-2014,Hyderabad,711140
+Steam Iron,10-01-2014,Hyderabad,658631
+Steam Iron,11-01-2014,Hyderabad,332189
+Steam Iron,12-01-2014,Hyderabad,628253
+Steam Iron,01-01-2015,Hyderabad,614884
+Steam Iron,02-01-2015,Hyderabad,498251
+Steam Iron,03-01-2015,Hyderabad,766912
+Steam Iron,04-01-2015,Hyderabad,409051
+Steam Iron,05-01-2015,Hyderabad,488128
+Steam Iron,06-01-2015,Hyderabad,272902
+Steam Iron,07-01-2015,Hyderabad,444274
+Steam Iron,08-01-2015,Hyderabad,418461
+Steam Iron,09-01-2015,Hyderabad,429326
+Steam Iron,10-01-2015,Hyderabad,611289
+Steam Iron,11-01-2015,Hyderabad,331546
+Steam Iron,12-01-2015,Hyderabad,485294
+Steam Iron,01-01-2016,Hyderabad,364362
+Steam Iron,02-01-2016,Hyderabad,368657
+Steam Iron,03-01-2016,Hyderabad,688654
+Steam Iron,04-01-2016,Hyderabad,603389
+Steam Iron,05-01-2016,Hyderabad,369752
+Steam Iron,06-01-2016,Hyderabad,208604
+Steam Iron,07-01-2016,Hyderabad,391635
+Steam Iron,08-01-2016,Hyderabad,422061
+Steam Iron,09-01-2016,Hyderabad,537694
+Steam Iron,10-01-2016,Hyderabad,547273
+Steam Iron,11-01-2016,Hyderabad,231096
+Steam Iron,12-01-2016,Hyderabad,305708
+Steam Iron,01-01-2017,Hyderabad,412978
+Steam Iron,02-01-2017,Hyderabad,382567
+Steam Iron,03-01-2017,Hyderabad,595486
+Steam Iron,04-01-2017,Hyderabad,353574
+Steam Iron,05-01-2017,Hyderabad,644430
+Steam Iron,06-01-2017,Hyderabad,812328
+Steam Iron,07-01-2017,Hyderabad,998055
+Steam Iron,08-01-2017,Hyderabad,791595
+Steam Iron,09-01-2017,Hyderabad,1143698
+Steam Iron,10-01-2017,Hyderabad,1133110
+Steam Iron,11-01-2017,Hyderabad,314614
+Steam Iron,12-01-2017,Hyderabad,710502
+Steam Iron,01-01-2018,Hyderabad,657815
+Steam Iron,02-01-2018,Hyderabad,420340
+Steam Iron,03-01-2018,Hyderabad,627523
+SECF,04-01-2014,Hyderabad,150086
+SECF,05-01-2014,Hyderabad,216480
+SECF,06-01-2014,Hyderabad,164276
+SECF,07-01-2014,Hyderabad,207467
+SECF,08-01-2014,Hyderabad,220200
+SECF,09-01-2014,Hyderabad,261987
+SECF,10-01-2014,Hyderabad,242642
+SECF,11-01-2014,Hyderabad,122380
+SECF,12-01-2014,Hyderabad,231451
+SECF,01-01-2015,Hyderabad,226526
+SECF,02-01-2015,Hyderabad,183558
+SECF,03-01-2015,Hyderabad,282534
+SECF,04-01-2015,Hyderabad,510716
+SECF,05-01-2015,Hyderabad,609447
+SECF,06-01-2015,Hyderabad,340729
+SECF,07-01-2015,Hyderabad,554694
+SECF,08-01-2015,Hyderabad,522464
+SECF,09-01-2015,Hyderabad,536030
+SECF,10-01-2015,Hyderabad,763218
+SECF,11-01-2015,Hyderabad,413948
+SECF,12-01-2015,Hyderabad,605908
+SECF,01-01-2016,Hyderabad,454920
+SECF,02-01-2016,Hyderabad,460282
+SECF,03-01-2016,Hyderabad,859811
+SECF,04-01-2016,Hyderabad,813745
+SECF,05-01-2016,Hyderabad,498657
+SECF,06-01-2016,Hyderabad,281328
+SECF,07-01-2016,Hyderabad,528168
+SECF,08-01-2016,Hyderabad,569202
+SECF,09-01-2016,Hyderabad,725147
+SECF,10-01-2016,Hyderabad,738065
+SECF,11-01-2016,Hyderabad,311661
+SECF,12-01-2016,Hyderabad,412285
+SECF,01-01-2017,Hyderabad,556952
+SECF,02-01-2017,Hyderabad,515939
+SECF,03-01-2017,Hyderabad,803086
+SECF,04-01-2017,Hyderabad,1184962
+SECF,05-01-2017,Hyderabad,2008572
+SECF,06-01-2017,Hyderabad,222220
+SECF,07-01-2017,Hyderabad,270553
+SECF,08-01-2017,Hyderabad,424706
+SECF,09-01-2017,Hyderabad,613988
+SECF,10-01-2017,Hyderabad,512248
+SECF,11-01-2017,Hyderabad,205790
+SECF,12-01-2017,Hyderabad,262683
+SECF,01-01-2018,Hyderabad,271893
+SECF,02-01-2018,Hyderabad,1111378
+SECF,03-01-2018,Hyderabad,1273951
+Mixers,04-01-2014,Bangalore,1854633
+Mixers,05-01-2014,Bangalore,2675069
+Mixers,06-01-2014,Bangalore,2029975
+Mixers,07-01-2014,Bangalore,2563696
+Mixers,08-01-2014,Bangalore,2721043
+Mixers,09-01-2014,Bangalore,3237407
+Mixers,10-01-2014,Bangalore,2998360
+Mixers,11-01-2014,Bangalore,1512261
+Mixers,12-01-2014,Bangalore,2860070
+Mixers,01-01-2015,Bangalore,2799208
+Mixers,02-01-2015,Bangalore,2268247
+Mixers,03-01-2015,Bangalore,3491301
+Mixers,04-01-2015,Bangalore,3217428
+Mixers,05-01-2015,Bangalore,3839417
+Mixers,06-01-2015,Bangalore,2146536
+Mixers,07-01-2015,Bangalore,3494479
+Mixers,08-01-2015,Bangalore,3291440
+Mixers,09-01-2015,Bangalore,3376904
+Mixers,10-01-2015,Bangalore,4808148
+Mixers,11-01-2015,Bangalore,2607802
+Mixers,12-01-2015,Bangalore,3817120
+Mixers,01-01-2016,Bangalore,2865920
+Mixers,02-01-2016,Bangalore,2899704
+Mixers,03-01-2016,Bangalore,5416670
+Mixers,04-01-2016,Bangalore,4792843
+Mixers,05-01-2016,Bangalore,2937020
+Mixers,06-01-2016,Bangalore,1656981
+Mixers,07-01-2016,Bangalore,3110836
+Mixers,08-01-2016,Bangalore,3352521
+Mixers,09-01-2016,Bangalore,4271015
+Mixers,10-01-2016,Bangalore,4347101
+Mixers,11-01-2016,Bangalore,1835641
+Mixers,12-01-2016,Bangalore,2428301
+Mixers,01-01-2017,Bangalore,3280369
+Mixers,02-01-2017,Bangalore,3038809
+Mixers,03-01-2017,Bangalore,4730067
+Mixers,04-01-2017,Bangalore,1364128
+Mixers,05-01-2017,Bangalore,2681354
+Mixers,06-01-2017,Bangalore,2276650
+Mixers,07-01-2017,Bangalore,3460142
+Mixers,08-01-2017,Bangalore,4085884
+Mixers,09-01-2017,Bangalore,4570088
+Mixers,10-01-2017,Bangalore,4875579
+Mixers,11-01-2017,Bangalore,1628724
+Mixers,12-01-2017,Bangalore,2702596
+Mixers,01-01-2018,Bangalore,3929146
+Mixers,02-01-2018,Bangalore,1471154
+Mixers,03-01-2018,Bangalore,2431618
+Induction cookers,04-01-2014,Bangalore,560892
+Induction cookers,05-01-2014,Bangalore,809014
+Induction cookers,06-01-2014,Bangalore,613920
+Induction cookers,07-01-2014,Bangalore,775332
+Induction cookers,08-01-2014,Bangalore,822918
+Induction cookers,09-01-2014,Bangalore,979081
+Induction cookers,10-01-2014,Bangalore,906786
+Induction cookers,11-01-2014,Bangalore,457349
+Induction cookers,12-01-2014,Bangalore,864963
+Induction cookers,01-01-2015,Bangalore,846557
+Induction cookers,02-01-2015,Bangalore,685980
+Induction cookers,03-01-2015,Bangalore,1055865
+Induction cookers,04-01-2015,Bangalore,664090
+Induction cookers,05-01-2015,Bangalore,792471
+Induction cookers,06-01-2015,Bangalore,443054
+Induction cookers,07-01-2015,Bangalore,721274
+Induction cookers,08-01-2015,Bangalore,679366
+Induction cookers,09-01-2015,Bangalore,697007
+Induction cookers,10-01-2015,Bangalore,992421
+Induction cookers,11-01-2015,Bangalore,538261
+Induction cookers,12-01-2015,Bangalore,787869
+Induction cookers,01-01-2016,Bangalore,591537
+Induction cookers,02-01-2016,Bangalore,598510
+Induction cookers,03-01-2016,Bangalore,1118022
+Induction cookers,04-01-2016,Bangalore,1748778
+Induction cookers,05-01-2016,Bangalore,1071639
+Induction cookers,06-01-2016,Bangalore,604587
+Induction cookers,07-01-2016,Bangalore,1135059
+Induction cookers,08-01-2016,Bangalore,1223244
+Induction cookers,09-01-2016,Bangalore,1558377
+Induction cookers,10-01-2016,Bangalore,1586139
+Induction cookers,11-01-2016,Bangalore,669776
+Induction cookers,12-01-2016,Bangalore,886021
+Induction cookers,01-01-2017,Bangalore,1196917
+Induction cookers,02-01-2017,Bangalore,1108779
+Induction cookers,03-01-2017,Bangalore,1725873
+Induction cookers,04-01-2017,Bangalore,411590
+Induction cookers,05-01-2017,Bangalore,644199
+Induction cookers,06-01-2017,Bangalore,566162
+Induction cookers,07-01-2017,Bangalore,1006754
+Induction cookers,08-01-2017,Bangalore,877736
+Induction cookers,09-01-2017,Bangalore,1052084
+Induction cookers,10-01-2017,Bangalore,1161420
+Induction cookers,11-01-2017,Bangalore,541096
+Induction cookers,12-01-2017,Bangalore,782933
+Induction cookers,01-01-2018,Bangalore,715159
+Induction cookers,02-01-2018,Bangalore,544819
+Induction cookers,03-01-2018,Bangalore,733443
+Dry Iron,04-01-2014,Bangalore,521820
+Dry Iron,05-01-2014,Bangalore,752658
+Dry Iron,06-01-2014,Bangalore,571154
+Dry Iron,07-01-2014,Bangalore,721322
+Dry Iron,08-01-2014,Bangalore,765594
+Dry Iron,09-01-2014,Bangalore,910878
+Dry Iron,10-01-2014,Bangalore,843620
+Dry Iron,11-01-2014,Bangalore,425490
+Dry Iron,12-01-2014,Bangalore,804710
+Dry Iron,01-01-2015,Bangalore,787586
+Dry Iron,02-01-2015,Bangalore,638195
+Dry Iron,03-01-2015,Bangalore,982314
+Dry Iron,04-01-2015,Bangalore,563092
+Dry Iron,05-01-2015,Bangalore,671948
+Dry Iron,06-01-2015,Bangalore,375672
+Dry Iron,07-01-2015,Bangalore,611580
+Dry Iron,08-01-2015,Bangalore,576045
+Dry Iron,09-01-2015,Bangalore,591003
+Dry Iron,10-01-2015,Bangalore,841489
+Dry Iron,11-01-2015,Bangalore,456400
+Dry Iron,12-01-2015,Bangalore,668046
+Dry Iron,01-01-2016,Bangalore,501574
+Dry Iron,02-01-2016,Bangalore,507486
+Dry Iron,03-01-2016,Bangalore,947989
+Dry Iron,04-01-2016,Bangalore,1060422
+Dry Iron,05-01-2016,Bangalore,649819
+Dry Iron,06-01-2016,Bangalore,366609
+Dry Iron,07-01-2016,Bangalore,688276
+Dry Iron,08-01-2016,Bangalore,741749
+Dry Iron,09-01-2016,Bangalore,944967
+Dry Iron,10-01-2016,Bangalore,961801
+Dry Iron,11-01-2016,Bangalore,406138
+Dry Iron,12-01-2016,Bangalore,537265
+Dry Iron,01-01-2017,Bangalore,725786
+Dry Iron,02-01-2017,Bangalore,672340
+Dry Iron,03-01-2017,Bangalore,1046533
+Dry Iron,04-01-2017,Bangalore,269828
+Dry Iron,05-01-2017,Bangalore,640281
+Dry Iron,06-01-2017,Bangalore,726386
+Dry Iron,07-01-2017,Bangalore,801385
+Dry Iron,08-01-2017,Bangalore,809814
+Dry Iron,09-01-2017,Bangalore,1100687
+Dry Iron,10-01-2017,Bangalore,1356396
+Dry Iron,11-01-2017,Bangalore,335353
+Dry Iron,12-01-2017,Bangalore,633185
+Dry Iron,01-01-2018,Bangalore,674245
+Dry Iron,02-01-2018,Bangalore,407478
+Dry Iron,03-01-2018,Bangalore,652154
+coolers,04-01-2014,Bangalore,5202792
+coolers,05-01-2014,Bangalore,1641231
+coolers,06-01-2014,Bangalore,47700
+coolers,07-01-2014,Bangalore,0
+coolers,08-01-2014,Bangalore,0
+coolers,09-01-2014,Bangalore,0
+coolers,10-01-2014,Bangalore,7062
+coolers,11-01-2014,Bangalore,38359
+coolers,12-01-2014,Bangalore,35411
+coolers,01-01-2015,Bangalore,750451
+coolers,02-01-2015,Bangalore,4104391
+coolers,03-01-2015,Bangalore,6124558
+coolers,04-01-2015,Bangalore,4591302
+coolers,05-01-2015,Bangalore,1448335
+coolers,06-01-2015,Bangalore,42093
+coolers,07-01-2015,Bangalore,0
+coolers,08-01-2015,Bangalore,0
+coolers,09-01-2015,Bangalore,0
+coolers,10-01-2015,Bangalore,6232
+coolers,11-01-2015,Bangalore,33850
+coolers,12-01-2015,Bangalore,31249
+coolers,01-01-2016,Bangalore,662249
+coolers,02-01-2016,Bangalore,3621998
+coolers,03-01-2016,Bangalore,5404732
+coolers,04-01-2016,Bangalore,4935627
+coolers,05-01-2016,Bangalore,1556953
+coolers,06-01-2016,Bangalore,45250
+coolers,07-01-2016,Bangalore,0
+coolers,08-01-2016,Bangalore,0
+coolers,09-01-2016,Bangalore,0
+coolers,10-01-2016,Bangalore,6700
+coolers,11-01-2016,Bangalore,36389
+coolers,12-01-2016,Bangalore,33593
+coolers,01-01-2017,Bangalore,711915
+coolers,02-01-2017,Bangalore,3893629
+coolers,03-01-2017,Bangalore,5810059
+coolers,04-01-2017,Bangalore,6937942
+coolers,05-01-2017,Bangalore,2188587
+coolers,06-01-2017,Bangalore,63608
+coolers,07-01-2017,Bangalore,0
+coolers,08-01-2017,Bangalore,0
+coolers,09-01-2017,Bangalore,0
+coolers,10-01-2017,Bangalore,9418
+coolers,11-01-2017,Bangalore,51152
+coolers,12-01-2017,Bangalore,47221
+coolers,01-01-2018,Bangalore,1000729
+coolers,02-01-2018,Bangalore,5473220
+coolers,03-01-2018,Bangalore,8167119
+Water Heaters,04-01-2014,Bangalore,13645
+Water Heaters,05-01-2014,Bangalore,158623
+Water Heaters,06-01-2014,Bangalore,520505
+Water Heaters,07-01-2014,Bangalore,1016185
+Water Heaters,08-01-2014,Bangalore,843161
+Water Heaters,09-01-2014,Bangalore,861584
+Water Heaters,10-01-2014,Bangalore,2221273
+Water Heaters,11-01-2014,Bangalore,1819709
+Water Heaters,12-01-2014,Bangalore,1888873
+Water Heaters,01-01-2015,Bangalore,613872
+Water Heaters,02-01-2015,Bangalore,167852
+Water Heaters,03-01-2015,Bangalore,104041
+Water Heaters,04-01-2015,Bangalore,13265
+Water Heaters,05-01-2015,Bangalore,154210
+Water Heaters,06-01-2015,Bangalore,506024
+Water Heaters,07-01-2015,Bangalore,987914
+Water Heaters,08-01-2015,Bangalore,819703
+Water Heaters,09-01-2015,Bangalore,837614
+Water Heaters,10-01-2015,Bangalore,2159476
+Water Heaters,11-01-2015,Bangalore,1769084
+Water Heaters,12-01-2015,Bangalore,1836324
+Water Heaters,01-01-2016,Bangalore,596793
+Water Heaters,02-01-2016,Bangalore,163183
+Water Heaters,03-01-2016,Bangalore,101146
+Water Heaters,04-01-2016,Bangalore,18224
+Water Heaters,05-01-2016,Bangalore,211859
+Water Heaters,06-01-2016,Bangalore,695190
+Water Heaters,07-01-2016,Bangalore,1357224
+Water Heaters,08-01-2016,Bangalore,1126132
+Water Heaters,09-01-2016,Bangalore,1150738
+Water Heaters,10-01-2016,Bangalore,2966749
+Water Heaters,11-01-2016,Bangalore,2430417
+Water Heaters,12-01-2016,Bangalore,2522793
+Water Heaters,01-01-2017,Bangalore,819891
+Water Heaters,02-01-2017,Bangalore,224185
+Water Heaters,03-01-2017,Bangalore,138958
+Water Heaters,04-01-2017,Bangalore,14052
+Water Heaters,05-01-2017,Bangalore,163361
+Water Heaters,06-01-2017,Bangalore,536049
+Water Heaters,07-01-2017,Bangalore,1046532
+Water Heaters,08-01-2017,Bangalore,868341
+Water Heaters,09-01-2017,Bangalore,887314
+Water Heaters,10-01-2017,Bangalore,2287609
+Water Heaters,11-01-2017,Bangalore,1874053
+Water Heaters,12-01-2017,Bangalore,1945283
+Water Heaters,01-01-2018,Bangalore,632204
+Water Heaters,02-01-2018,Bangalore,172865
+Water Heaters,03-01-2018,Bangalore,107148
+FoodProcessor,04-01-2014,Bangalore,594544
+FoodProcessor,05-01-2014,Bangalore,857552
+FoodProcessor,06-01-2014,Bangalore,650753
+FoodProcessor,07-01-2014,Bangalore,821849
+FoodProcessor,08-01-2014,Bangalore,872290
+FoodProcessor,09-01-2014,Bangalore,1037822
+FoodProcessor,10-01-2014,Bangalore,961190
+FoodProcessor,11-01-2014,Bangalore,484789
+FoodProcessor,12-01-2014,Bangalore,916858
+FoodProcessor,01-01-2015,Bangalore,897348
+FoodProcessor,02-01-2015,Bangalore,727137
+FoodProcessor,03-01-2015,Bangalore,1119214
+FoodProcessor,04-01-2015,Bangalore,369303
+FoodProcessor,05-01-2015,Bangalore,440697
+FoodProcessor,06-01-2015,Bangalore,246384
+FoodProcessor,07-01-2015,Bangalore,401104
+FoodProcessor,08-01-2015,Bangalore,377799
+FoodProcessor,09-01-2015,Bangalore,387608
+FoodProcessor,10-01-2015,Bangalore,551890
+FoodProcessor,11-01-2015,Bangalore,299329
+FoodProcessor,12-01-2015,Bangalore,438137
+FoodProcessor,01-01-2016,Bangalore,328957
+FoodProcessor,02-01-2016,Bangalore,332834
+FoodProcessor,03-01-2016,Bangalore,621737
+FoodProcessor,04-01-2016,Bangalore,439787
+FoodProcessor,05-01-2016,Bangalore,269498
+FoodProcessor,06-01-2016,Bangalore,152043
+FoodProcessor,07-01-2016,Bangalore,285448
+FoodProcessor,08-01-2016,Bangalore,307624
+FoodProcessor,09-01-2016,Bangalore,391905
+FoodProcessor,10-01-2016,Bangalore,398886
+FoodProcessor,11-01-2016,Bangalore,168437
+FoodProcessor,12-01-2016,Bangalore,222819
+FoodProcessor,01-01-2017,Bangalore,301004
+FoodProcessor,02-01-2017,Bangalore,278838
+FoodProcessor,03-01-2017,Bangalore,434027
+FoodProcessor,04-01-2017,Bangalore,245310
+FoodProcessor,05-01-2017,Bangalore,572725
+FoodProcessor,06-01-2017,Bangalore,459512
+FoodProcessor,07-01-2017,Bangalore,514796
+FoodProcessor,08-01-2017,Bangalore,530353
+FoodProcessor,09-01-2017,Bangalore,583310
+FoodProcessor,10-01-2017,Bangalore,456456
+FoodProcessor,11-01-2017,Bangalore,215519
+FoodProcessor,12-01-2017,Bangalore,231453
+FoodProcessor,01-01-2018,Bangalore,356192
+FoodProcessor,02-01-2018,Bangalore,254425
+FoodProcessor,03-01-2018,Bangalore,357109
+Gas Stove,04-01-2014,Bangalore,64988
+Gas Stove,05-01-2014,Bangalore,93737
+Gas Stove,06-01-2014,Bangalore,71132
+Gas Stove,07-01-2014,Bangalore,89835
+Gas Stove,08-01-2014,Bangalore,95348
+Gas Stove,09-01-2014,Bangalore,113442
+Gas Stove,10-01-2014,Bangalore,105066
+Gas Stove,11-01-2014,Bangalore,52991
+Gas Stove,12-01-2014,Bangalore,100220
+Gas Stove,01-01-2015,Bangalore,98087
+Gas Stove,02-01-2015,Bangalore,79482
+Gas Stove,03-01-2015,Bangalore,122339
+Gas Stove,04-01-2015,Bangalore,116878
+Gas Stove,05-01-2015,Bangalore,139473
+Gas Stove,06-01-2015,Bangalore,77976
+Gas Stove,07-01-2015,Bangalore,126942
+Gas Stove,08-01-2015,Bangalore,119567
+Gas Stove,09-01-2015,Bangalore,122671
+Gas Stove,10-01-2015,Bangalore,174663
+Gas Stove,11-01-2015,Bangalore,94732
+Gas Stove,12-01-2015,Bangalore,138663
+Gas Stove,01-01-2016,Bangalore,104109
+Gas Stove,02-01-2016,Bangalore,105336
+Gas Stove,03-01-2016,Bangalore,196769
+Gas Stove,04-01-2016,Bangalore,63127
+Gas Stove,05-01-2016,Bangalore,38684
+Gas Stove,06-01-2016,Bangalore,21824
+Gas Stove,07-01-2016,Bangalore,40973
+Gas Stove,08-01-2016,Bangalore,44156
+Gas Stove,09-01-2016,Bangalore,56254
+Gas Stove,10-01-2016,Bangalore,57256
+Gas Stove,11-01-2016,Bangalore,24177
+Gas Stove,12-01-2016,Bangalore,31983
+Gas Stove,01-01-2017,Bangalore,43206
+Gas Stove,02-01-2017,Bangalore,40024
+Gas Stove,03-01-2017,Bangalore,62300
+Gas Stove,04-01-2017,Bangalore,30372
+Gas Stove,05-01-2017,Bangalore,84336
+Gas Stove,06-01-2017,Bangalore,114280
+Gas Stove,07-01-2017,Bangalore,178125
+Gas Stove,08-01-2017,Bangalore,261077
+Gas Stove,09-01-2017,Bangalore,172909
+Gas Stove,10-01-2017,Bangalore,130493
+Gas Stove,11-01-2017,Bangalore,89809
+Gas Stove,12-01-2017,Bangalore,124566
+Gas Stove,01-01-2018,Bangalore,176018
+Gas Stove,02-01-2018,Bangalore,85323
+Gas Stove,03-01-2018,Bangalore,64419
+Oven Toaster Grill,04-01-2014,Bangalore,177423
+Oven Toaster Grill,05-01-2014,Bangalore,255909
+Oven Toaster Grill,06-01-2014,Bangalore,194197
+Oven Toaster Grill,07-01-2014,Bangalore,245255
+Oven Toaster Grill,08-01-2014,Bangalore,260307
+Oven Toaster Grill,09-01-2014,Bangalore,309705
+Oven Toaster Grill,10-01-2014,Bangalore,286837
+Oven Toaster Grill,11-01-2014,Bangalore,144670
+Oven Toaster Grill,12-01-2014,Bangalore,273607
+Oven Toaster Grill,01-01-2015,Bangalore,267785
+Oven Toaster Grill,02-01-2015,Bangalore,216991
+Oven Toaster Grill,03-01-2015,Bangalore,333994
+Oven Toaster Grill,04-01-2015,Bangalore,231019
+Oven Toaster Grill,05-01-2015,Bangalore,275679
+Oven Toaster Grill,06-01-2015,Bangalore,154126
+Oven Toaster Grill,07-01-2015,Bangalore,250912
+Oven Toaster Grill,08-01-2015,Bangalore,236333
+Oven Toaster Grill,09-01-2015,Bangalore,242470
+Oven Toaster Grill,10-01-2015,Bangalore,345237
+Oven Toaster Grill,11-01-2015,Bangalore,187246
+Oven Toaster Grill,12-01-2015,Bangalore,274078
+Oven Toaster Grill,01-01-2016,Bangalore,205780
+Oven Toaster Grill,02-01-2016,Bangalore,208206
+Oven Toaster Grill,03-01-2016,Bangalore,388930
+Oven Toaster Grill,04-01-2016,Bangalore,460794
+Oven Toaster Grill,05-01-2016,Bangalore,282371
+Oven Toaster Grill,06-01-2016,Bangalore,159306
+Oven Toaster Grill,07-01-2016,Bangalore,299082
+Oven Toaster Grill,08-01-2016,Bangalore,322318
+Oven Toaster Grill,09-01-2016,Bangalore,410624
+Oven Toaster Grill,10-01-2016,Bangalore,417940
+Oven Toaster Grill,11-01-2016,Bangalore,176482
+Oven Toaster Grill,12-01-2016,Bangalore,233462
+Oven Toaster Grill,01-01-2017,Bangalore,315382
+Oven Toaster Grill,02-01-2017,Bangalore,292158
+Oven Toaster Grill,03-01-2017,Bangalore,454759
+Oven Toaster Grill,04-01-2017,Bangalore,112360
+Oven Toaster Grill,05-01-2017,Bangalore,444460
+Oven Toaster Grill,06-01-2017,Bangalore,336983
+Oven Toaster Grill,07-01-2017,Bangalore,367372
+Oven Toaster Grill,08-01-2017,Bangalore,383367
+Oven Toaster Grill,09-01-2017,Bangalore,490205
+Oven Toaster Grill,10-01-2017,Bangalore,649356
+Oven Toaster Grill,11-01-2017,Bangalore,165744
+Oven Toaster Grill,12-01-2017,Bangalore,566771
+Oven Toaster Grill,01-01-2018,Bangalore,460364
+Oven Toaster Grill,02-01-2018,Bangalore,224219
+Oven Toaster Grill,03-01-2018,Bangalore,290404
+Steam Iron,04-01-2014,Bangalore,720885
+Steam Iron,05-01-2014,Bangalore,1039784
+Steam Iron,06-01-2014,Bangalore,789040
+Steam Iron,07-01-2014,Bangalore,996494
+Steam Iron,08-01-2014,Bangalore,1057654
+Steam Iron,09-01-2014,Bangalore,1258362
+Steam Iron,10-01-2014,Bangalore,1165445
+Steam Iron,11-01-2014,Bangalore,587807
+Steam Iron,12-01-2014,Bangalore,1111693
+Steam Iron,01-01-2015,Bangalore,1088036
+Steam Iron,02-01-2015,Bangalore,881655
+Steam Iron,03-01-2015,Bangalore,1357049
+Steam Iron,04-01-2015,Bangalore,525796
+Steam Iron,05-01-2015,Bangalore,627442
+Steam Iron,06-01-2015,Bangalore,350789
+Steam Iron,07-01-2015,Bangalore,571072
+Steam Iron,08-01-2015,Bangalore,537891
+Steam Iron,09-01-2015,Bangalore,551858
+Steam Iron,10-01-2015,Bangalore,785753
+Steam Iron,11-01-2015,Bangalore,426170
+Steam Iron,12-01-2015,Bangalore,623798
+Steam Iron,01-01-2016,Bangalore,468352
+Steam Iron,02-01-2016,Bangalore,473873
+Steam Iron,03-01-2016,Bangalore,885198
+Steam Iron,04-01-2016,Bangalore,749743
+Steam Iron,05-01-2016,Bangalore,459437
+Steam Iron,06-01-2016,Bangalore,259201
+Steam Iron,07-01-2016,Bangalore,486627
+Steam Iron,08-01-2016,Bangalore,524434
+Steam Iron,09-01-2016,Bangalore,668114
+Steam Iron,10-01-2016,Bangalore,680016
+Steam Iron,11-01-2016,Bangalore,287149
+Steam Iron,12-01-2016,Bangalore,379859
+Steam Iron,01-01-2017,Bangalore,513147
+Steam Iron,02-01-2017,Bangalore,475360
+Steam Iron,03-01-2017,Bangalore,739923
+Steam Iron,04-01-2017,Bangalore,389968
+Steam Iron,05-01-2017,Bangalore,710760
+Steam Iron,06-01-2017,Bangalore,895940
+Steam Iron,07-01-2017,Bangalore,1100784
+Steam Iron,08-01-2017,Bangalore,873074
+Steam Iron,09-01-2017,Bangalore,1261419
+Steam Iron,10-01-2017,Bangalore,1249740
+Steam Iron,11-01-2017,Bangalore,346997
+Steam Iron,12-01-2017,Bangalore,783634
+Steam Iron,01-01-2018,Bangalore,725523
+Steam Iron,02-01-2018,Bangalore,463605
+Steam Iron,03-01-2018,Bangalore,692114
+SECF,04-01-2014,Bangalore,79993
+SECF,05-01-2014,Bangalore,115380
+SECF,06-01-2014,Bangalore,87556
+SECF,07-01-2014,Bangalore,110577
+SECF,08-01-2014,Bangalore,117363
+SECF,09-01-2014,Bangalore,139635
+SECF,10-01-2014,Bangalore,129324
+SECF,11-01-2014,Bangalore,65226
+SECF,12-01-2014,Bangalore,123360
+SECF,01-01-2015,Bangalore,120735
+SECF,02-01-2015,Bangalore,97833
+SECF,03-01-2015,Bangalore,150586
+SECF,04-01-2015,Bangalore,211821
+SECF,05-01-2015,Bangalore,252770
+SECF,06-01-2015,Bangalore,141318
+SECF,07-01-2015,Bangalore,230061
+SECF,08-01-2015,Bangalore,216694
+SECF,09-01-2015,Bangalore,222320
+SECF,10-01-2015,Bangalore,316547
+SECF,11-01-2015,Bangalore,171686
+SECF,12-01-2015,Bangalore,251302
+SECF,01-01-2016,Bangalore,188679
+SECF,02-01-2016,Bangalore,190904
+SECF,03-01-2016,Bangalore,356609
+SECF,04-01-2016,Bangalore,419446
+SECF,05-01-2016,Bangalore,257034
+SECF,06-01-2016,Bangalore,145011
+SECF,07-01-2016,Bangalore,272245
+SECF,08-01-2016,Bangalore,293396
+SECF,09-01-2016,Bangalore,373778
+SECF,10-01-2016,Bangalore,380437
+SECF,11-01-2016,Bangalore,160646
+SECF,12-01-2016,Bangalore,212513
+SECF,01-01-2017,Bangalore,287082
+SECF,02-01-2017,Bangalore,265942
+SECF,03-01-2017,Bangalore,413953
+SECF,04-01-2017,Bangalore,596217
+SECF,05-01-2017,Bangalore,1010618
+SECF,06-01-2017,Bangalore,111811
+SECF,07-01-2017,Bangalore,136130
+SECF,08-01-2017,Bangalore,213692
+SECF,09-01-2017,Bangalore,308930
+SECF,10-01-2017,Bangalore,257739
+SECF,11-01-2017,Bangalore,103544
+SECF,12-01-2017,Bangalore,132170
+SECF,01-01-2018,Bangalore,136804
+SECF,02-01-2018,Bangalore,559193
+SECF,03-01-2018,Bangalore,640992
+Mixers,04-01-2014,Chennai,352951
+Mixers,05-01-2014,Chennai,509086
+Mixers,06-01-2014,Chennai,386320
+Mixers,07-01-2014,Chennai,487891
+Mixers,08-01-2014,Chennai,517836
+Mixers,09-01-2014,Chennai,616104
+Mixers,10-01-2014,Chennai,570611
+Mixers,11-01-2014,Chennai,287795
+Mixers,12-01-2014,Chennai,544293
+Mixers,01-01-2015,Chennai,532711
+Mixers,02-01-2015,Chennai,431665
+Mixers,03-01-2015,Chennai,664422
+Mixers,04-01-2015,Chennai,556104
+Mixers,05-01-2015,Chennai,663609
+Mixers,06-01-2015,Chennai,371010
+Mixers,07-01-2015,Chennai,603990
+Mixers,08-01-2015,Chennai,568896
+Mixers,09-01-2015,Chennai,583668
+Mixers,10-01-2015,Chennai,831046
+Mixers,11-01-2015,Chennai,450735
+Mixers,12-01-2015,Chennai,659755
+Mixers,01-01-2016,Chennai,495349
+Mixers,02-01-2016,Chennai,501188
+Mixers,03-01-2016,Chennai,936223
+Mixers,04-01-2016,Chennai,760010
+Mixers,05-01-2016,Chennai,465729
+Mixers,06-01-2016,Chennai,262751
+Mixers,07-01-2016,Chennai,493291
+Mixers,08-01-2016,Chennai,531615
+Mixers,09-01-2016,Chennai,677263
+Mixers,10-01-2016,Chennai,689328
+Mixers,11-01-2016,Chennai,291081
+Mixers,12-01-2016,Chennai,385060
+Mixers,01-01-2017,Chennai,520174
+Mixers,02-01-2017,Chennai,481870
+Mixers,03-01-2017,Chennai,750055
+Mixers,04-01-2017,Chennai,304101
+Mixers,05-01-2017,Chennai,597746
+Mixers,06-01-2017,Chennai,507526
+Mixers,07-01-2017,Chennai,771358
+Mixers,08-01-2017,Chennai,910853
+Mixers,09-01-2017,Chennai,1018795
+Mixers,10-01-2017,Chennai,1086897
+Mixers,11-01-2017,Chennai,363086
+Mixers,12-01-2017,Chennai,602481
+Mixers,01-01-2018,Chennai,875912
+Mixers,02-01-2018,Chennai,327960
+Mixers,03-01-2018,Chennai,542073
+Induction cookers,04-01-2014,Chennai,176951
+Induction cookers,05-01-2014,Chennai,255230
+Induction cookers,06-01-2014,Chennai,193681
+Induction cookers,07-01-2014,Chennai,244603
+Induction cookers,08-01-2014,Chennai,259616
+Induction cookers,09-01-2014,Chennai,308882
+Induction cookers,10-01-2014,Chennai,286075
+Induction cookers,11-01-2014,Chennai,144286
+Induction cookers,12-01-2014,Chennai,272880
+Induction cookers,01-01-2015,Chennai,267074
+Induction cookers,02-01-2015,Chennai,216414
+Induction cookers,03-01-2015,Chennai,333107
+Induction cookers,04-01-2015,Chennai,258142
+Induction cookers,05-01-2015,Chennai,308046
+Induction cookers,06-01-2015,Chennai,172222
+Induction cookers,07-01-2015,Chennai,280370
+Induction cookers,08-01-2015,Chennai,264080
+Induction cookers,09-01-2015,Chennai,270937
+Induction cookers,10-01-2015,Chennai,385769
+Induction cookers,11-01-2015,Chennai,209230
+Induction cookers,12-01-2015,Chennai,306257
+Induction cookers,01-01-2016,Chennai,229940
+Induction cookers,02-01-2016,Chennai,232650
+Induction cookers,03-01-2016,Chennai,434592
+Induction cookers,04-01-2016,Chennai,338910
+Induction cookers,05-01-2016,Chennai,207681
+Induction cookers,06-01-2016,Chennai,117168
+Induction cookers,07-01-2016,Chennai,219972
+Induction cookers,08-01-2016,Chennai,237062
+Induction cookers,09-01-2016,Chennai,302010
+Induction cookers,10-01-2016,Chennai,307391
+Induction cookers,11-01-2016,Chennai,129801
+Induction cookers,12-01-2016,Chennai,171709
+Induction cookers,01-01-2017,Chennai,231960
+Induction cookers,02-01-2017,Chennai,214879
+Induction cookers,03-01-2017,Chennai,334471
+Induction cookers,04-01-2017,Chennai,163164
+Induction cookers,05-01-2017,Chennai,255375
+Induction cookers,06-01-2017,Chennai,224439
+Induction cookers,07-01-2017,Chennai,399100
+Induction cookers,08-01-2017,Chennai,347954
+Induction cookers,09-01-2017,Chennai,417069
+Induction cookers,10-01-2017,Chennai,460413
+Induction cookers,11-01-2017,Chennai,214503
+Induction cookers,12-01-2017,Chennai,310372
+Induction cookers,01-01-2018,Chennai,283505
+Induction cookers,02-01-2018,Chennai,215978
+Induction cookers,03-01-2018,Chennai,290753
+Dry Iron,04-01-2014,Chennai,190128
+Dry Iron,05-01-2014,Chennai,274235
+Dry Iron,06-01-2014,Chennai,208103
+Dry Iron,07-01-2014,Chennai,262818
+Dry Iron,08-01-2014,Chennai,278948
+Dry Iron,09-01-2014,Chennai,331883
+Dry Iron,10-01-2014,Chennai,307377
+Dry Iron,11-01-2014,Chennai,155030
+Dry Iron,12-01-2014,Chennai,293200
+Dry Iron,01-01-2015,Chennai,286961
+Dry Iron,02-01-2015,Chennai,232530
+Dry Iron,03-01-2015,Chennai,357911
+Dry Iron,04-01-2015,Chennai,352943
+Dry Iron,05-01-2015,Chennai,421173
+Dry Iron,06-01-2015,Chennai,235469
+Dry Iron,07-01-2015,Chennai,383334
+Dry Iron,08-01-2015,Chennai,361062
+Dry Iron,09-01-2015,Chennai,370437
+Dry Iron,10-01-2015,Chennai,527440
+Dry Iron,11-01-2015,Chennai,286068
+Dry Iron,12-01-2015,Chennai,418727
+Dry Iron,01-01-2016,Chennai,314383
+Dry Iron,02-01-2016,Chennai,318089
+Dry Iron,03-01-2016,Chennai,594193
+Dry Iron,04-01-2016,Chennai,595900
+Dry Iron,05-01-2016,Chennai,365163
+Dry Iron,06-01-2016,Chennai,206015
+Dry Iron,07-01-2016,Chennai,386774
+Dry Iron,08-01-2016,Chennai,416823
+Dry Iron,09-01-2016,Chennai,531021
+Dry Iron,10-01-2016,Chennai,540481
+Dry Iron,11-01-2016,Chennai,228228
+Dry Iron,12-01-2016,Chennai,301914
+Dry Iron,01-01-2017,Chennai,407852
+Dry Iron,02-01-2017,Chennai,377819
+Dry Iron,03-01-2017,Chennai,588095
+Dry Iron,04-01-2017,Chennai,195792
+Dry Iron,05-01-2017,Chennai,464600
+Dry Iron,06-01-2017,Chennai,527079
+Dry Iron,07-01-2017,Chennai,581500
+Dry Iron,08-01-2017,Chennai,587617
+Dry Iron,09-01-2017,Chennai,798680
+Dry Iron,10-01-2017,Chennai,984227
+Dry Iron,11-01-2017,Chennai,243339
+Dry Iron,12-01-2017,Chennai,459452
+Dry Iron,01-01-2018,Chennai,489245
+Dry Iron,02-01-2018,Chennai,295674
+Dry Iron,03-01-2018,Chennai,473215
+coolers,04-01-2014,Chennai,9404582
+coolers,05-01-2014,Chennai,2966694
+coolers,06-01-2014,Chennai,86222
+coolers,07-01-2014,Chennai,0
+coolers,08-01-2014,Chennai,0
+coolers,09-01-2014,Chennai,0
+coolers,10-01-2014,Chennai,12766
+coolers,11-01-2014,Chennai,69338
+coolers,12-01-2014,Chennai,64009
+coolers,01-01-2015,Chennai,1356517
+coolers,02-01-2015,Chennai,7419109
+coolers,03-01-2015,Chennai,11070768
+coolers,04-01-2015,Chennai,9484598
+coolers,05-01-2015,Chennai,2991935
+coolers,06-01-2015,Chennai,86955
+coolers,07-01-2015,Chennai,0
+coolers,08-01-2015,Chennai,0
+coolers,09-01-2015,Chennai,0
+coolers,10-01-2015,Chennai,12875
+coolers,11-01-2015,Chennai,69927
+coolers,12-01-2015,Chennai,64554
+coolers,01-01-2016,Chennai,1368058
+coolers,02-01-2016,Chennai,7482232
+coolers,03-01-2016,Chennai,11164960
+coolers,04-01-2016,Chennai,13230313
+coolers,05-01-2016,Chennai,4173528
+coolers,06-01-2016,Chennai,121296
+coolers,07-01-2016,Chennai,0
+coolers,08-01-2016,Chennai,0
+coolers,09-01-2016,Chennai,0
+coolers,10-01-2016,Chennai,17959
+coolers,11-01-2016,Chennai,97544
+coolers,12-01-2016,Chennai,90047
+coolers,01-01-2017,Chennai,1908340
+coolers,02-01-2017,Chennai,10437161
+coolers,03-01-2017,Chennai,15574294
+coolers,04-01-2017,Chennai,13491138
+coolers,05-01-2017,Chennai,4255806
+coolers,06-01-2017,Chennai,123688
+coolers,07-01-2017,Chennai,0
+coolers,08-01-2017,Chennai,0
+coolers,09-01-2017,Chennai,0
+coolers,10-01-2017,Chennai,18313
+coolers,11-01-2017,Chennai,99467
+coolers,12-01-2017,Chennai,91823
+coolers,01-01-2018,Chennai,1945961
+coolers,02-01-2018,Chennai,10642921
+coolers,03-01-2018,Chennai,15881328
+Water Heaters,04-01-2014,Chennai,20003
+Water Heaters,05-01-2014,Chennai,232535
+Water Heaters,06-01-2014,Chennai,763039
+Water Heaters,07-01-2014,Chennai,1489686
+Water Heaters,08-01-2014,Chennai,1236039
+Water Heaters,09-01-2014,Chennai,1263047
+Water Heaters,10-01-2014,Chennai,3256296
+Water Heaters,11-01-2014,Chennai,2667619
+Water Heaters,12-01-2014,Chennai,2769011
+Water Heaters,01-01-2015,Chennai,899911
+Water Heaters,02-01-2015,Chennai,246065
+Water Heaters,03-01-2015,Chennai,152520
+Water Heaters,04-01-2015,Chennai,20841
+Water Heaters,05-01-2015,Chennai,242286
+Water Heaters,06-01-2015,Chennai,795035
+Water Heaters,07-01-2015,Chennai,1552152
+Water Heaters,08-01-2015,Chennai,1287870
+Water Heaters,09-01-2015,Chennai,1316010
+Water Heaters,10-01-2015,Chennai,3392841
+Water Heaters,11-01-2015,Chennai,2779480
+Water Heaters,12-01-2015,Chennai,2885123
+Water Heaters,01-01-2016,Chennai,937646
+Water Heaters,02-01-2016,Chennai,256383
+Water Heaters,03-01-2016,Chennai,158915
+Water Heaters,04-01-2016,Chennai,14052
+Water Heaters,05-01-2016,Chennai,163361
+Water Heaters,06-01-2016,Chennai,536049
+Water Heaters,07-01-2016,Chennai,1046532
+Water Heaters,08-01-2016,Chennai,868341
+Water Heaters,09-01-2016,Chennai,887314
+Water Heaters,10-01-2016,Chennai,2287609
+Water Heaters,11-01-2016,Chennai,1874053
+Water Heaters,12-01-2016,Chennai,1945283
+Water Heaters,01-01-2017,Chennai,632204
+Water Heaters,02-01-2017,Chennai,172865
+Water Heaters,03-01-2017,Chennai,107148
+Water Heaters,04-01-2017,Chennai,28349
+Water Heaters,05-01-2017,Chennai,329568
+Water Heaters,06-01-2017,Chennai,1081439
+Water Heaters,07-01-2017,Chennai,2111300
+Water Heaters,08-01-2017,Chennai,1751812
+Water Heaters,09-01-2017,Chennai,1790090
+Water Heaters,10-01-2017,Chennai,4615080
+Water Heaters,11-01-2017,Chennai,3780761
+Water Heaters,12-01-2017,Chennai,3924461
+Water Heaters,01-01-2018,Chennai,1275425
+Water Heaters,02-01-2018,Chennai,348742
+Water Heaters,03-01-2018,Chennai,216163
+FoodProcessor,04-01-2014,Chennai,158678
+FoodProcessor,05-01-2014,Chennai,228872
+FoodProcessor,06-01-2014,Chennai,173679
+FoodProcessor,07-01-2014,Chennai,219343
+FoodProcessor,08-01-2014,Chennai,232805
+FoodProcessor,09-01-2014,Chennai,276984
+FoodProcessor,10-01-2014,Chennai,256532
+FoodProcessor,11-01-2014,Chennai,129385
+FoodProcessor,12-01-2014,Chennai,244700
+FoodProcessor,01-01-2015,Chennai,239493
+FoodProcessor,02-01-2015,Chennai,194065
+FoodProcessor,03-01-2015,Chennai,298707
+FoodProcessor,04-01-2015,Chennai,154727
+FoodProcessor,05-01-2015,Chennai,184638
+FoodProcessor,06-01-2015,Chennai,103227
+FoodProcessor,07-01-2015,Chennai,168050
+FoodProcessor,08-01-2015,Chennai,158286
+FoodProcessor,09-01-2015,Chennai,162396
+FoodProcessor,10-01-2015,Chennai,231225
+FoodProcessor,11-01-2015,Chennai,125410
+FoodProcessor,12-01-2015,Chennai,183566
+FoodProcessor,01-01-2016,Chennai,137823
+FoodProcessor,02-01-2016,Chennai,139447
+FoodProcessor,03-01-2016,Chennai,260489
+FoodProcessor,04-01-2016,Chennai,130790
+FoodProcessor,05-01-2016,Chennai,80147
+FoodProcessor,06-01-2016,Chennai,45217
+FoodProcessor,07-01-2016,Chennai,84891
+FoodProcessor,08-01-2016,Chennai,91486
+FoodProcessor,09-01-2016,Chennai,116550
+FoodProcessor,10-01-2016,Chennai,118627
+FoodProcessor,11-01-2016,Chennai,50092
+FoodProcessor,12-01-2016,Chennai,66265
+FoodProcessor,01-01-2017,Chennai,89517
+FoodProcessor,02-01-2017,Chennai,82925
+FoodProcessor,03-01-2017,Chennai,129077
+FoodProcessor,04-01-2017,Chennai,93670
+FoodProcessor,05-01-2017,Chennai,218691
+FoodProcessor,06-01-2017,Chennai,175462
+FoodProcessor,07-01-2017,Chennai,196571
+FoodProcessor,08-01-2017,Chennai,202512
+FoodProcessor,09-01-2017,Chennai,222733
+FoodProcessor,10-01-2017,Chennai,174295
+FoodProcessor,11-01-2017,Chennai,82294
+FoodProcessor,12-01-2017,Chennai,88379
+FoodProcessor,01-01-2018,Chennai,136010
+FoodProcessor,02-01-2018,Chennai,97151
+FoodProcessor,03-01-2018,Chennai,136360
+Gas Stove,04-01-2014,Chennai,27750
+Gas Stove,05-01-2014,Chennai,40026
+Gas Stove,06-01-2014,Chennai,30374
+Gas Stove,07-01-2014,Chennai,38360
+Gas Stove,08-01-2014,Chennai,40714
+Gas Stove,09-01-2014,Chennai,48440
+Gas Stove,10-01-2014,Chennai,44863
+Gas Stove,11-01-2014,Chennai,22627
+Gas Stove,12-01-2014,Chennai,42794
+Gas Stove,01-01-2015,Chennai,41884
+Gas Stove,02-01-2015,Chennai,33939
+Gas Stove,03-01-2015,Chennai,52239
+Gas Stove,04-01-2015,Chennai,94878
+Gas Stove,05-01-2015,Chennai,113220
+Gas Stove,06-01-2015,Chennai,63299
+Gas Stove,07-01-2015,Chennai,103048
+Gas Stove,08-01-2015,Chennai,97061
+Gas Stove,09-01-2015,Chennai,99581
+Gas Stove,10-01-2015,Chennai,141787
+Gas Stove,11-01-2015,Chennai,76901
+Gas Stove,12-01-2015,Chennai,112562
+Gas Stove,01-01-2016,Chennai,84513
+Gas Stove,02-01-2016,Chennai,85509
+Gas Stove,03-01-2016,Chennai,159731
+Gas Stove,04-01-2016,Chennai,219907
+Gas Stove,05-01-2016,Chennai,134758
+Gas Stove,06-01-2016,Chennai,76026
+Gas Stove,07-01-2016,Chennai,142733
+Gas Stove,08-01-2016,Chennai,153822
+Gas Stove,09-01-2016,Chennai,195965
+Gas Stove,10-01-2016,Chennai,199456
+Gas Stove,11-01-2016,Chennai,84224
+Gas Stove,12-01-2016,Chennai,111416
+Gas Stove,01-01-2017,Chennai,150511
+Gas Stove,02-01-2017,Chennai,139428
+Gas Stove,03-01-2017,Chennai,217027
+Gas Stove,04-01-2017,Chennai,45189
+Gas Stove,05-01-2017,Chennai,125478
+Gas Stove,06-01-2017,Chennai,170030
+Gas Stove,07-01-2017,Chennai,265020
+Gas Stove,08-01-2017,Chennai,388439
+Gas Stove,09-01-2017,Chennai,257260
+Gas Stove,10-01-2017,Chennai,194153
+Gas Stove,11-01-2017,Chennai,133620
+Gas Stove,12-01-2017,Chennai,185334
+Gas Stove,01-01-2018,Chennai,261886
+Gas Stove,02-01-2018,Chennai,126946
+Gas Stove,03-01-2018,Chennai,95844
+Oven Toaster Grill,04-01-2014,Chennai,62010
+Oven Toaster Grill,05-01-2014,Chennai,89441
+Oven Toaster Grill,06-01-2014,Chennai,67873
+Oven Toaster Grill,07-01-2014,Chennai,85718
+Oven Toaster Grill,08-01-2014,Chennai,90979
+Oven Toaster Grill,09-01-2014,Chennai,108243
+Oven Toaster Grill,10-01-2014,Chennai,100251
+Oven Toaster Grill,11-01-2014,Chennai,50563
+Oven Toaster Grill,12-01-2014,Chennai,95627
+Oven Toaster Grill,01-01-2015,Chennai,93592
+Oven Toaster Grill,02-01-2015,Chennai,75839
+Oven Toaster Grill,03-01-2015,Chennai,116732
+Oven Toaster Grill,04-01-2015,Chennai,94353
+Oven Toaster Grill,05-01-2015,Chennai,112593
+Oven Toaster Grill,06-01-2015,Chennai,62948
+Oven Toaster Grill,07-01-2015,Chennai,102477
+Oven Toaster Grill,08-01-2015,Chennai,96523
+Oven Toaster Grill,09-01-2015,Chennai,99029
+Oven Toaster Grill,10-01-2015,Chennai,141001
+Oven Toaster Grill,11-01-2015,Chennai,76475
+Oven Toaster Grill,12-01-2015,Chennai,111939
+Oven Toaster Grill,01-01-2016,Chennai,84044
+Oven Toaster Grill,02-01-2016,Chennai,85035
+Oven Toaster Grill,03-01-2016,Chennai,158846
+Oven Toaster Grill,04-01-2016,Chennai,156494
+Oven Toaster Grill,05-01-2016,Chennai,95899
+Oven Toaster Grill,06-01-2016,Chennai,54103
+Oven Toaster Grill,07-01-2016,Chennai,101574
+Oven Toaster Grill,08-01-2016,Chennai,109465
+Oven Toaster Grill,09-01-2016,Chennai,139456
+Oven Toaster Grill,10-01-2016,Chennai,141940
+Oven Toaster Grill,11-01-2016,Chennai,59937
+Oven Toaster Grill,12-01-2016,Chennai,79288
+Oven Toaster Grill,01-01-2017,Chennai,107109
+Oven Toaster Grill,02-01-2017,Chennai,99222
+Oven Toaster Grill,03-01-2017,Chennai,154445
+Oven Toaster Grill,04-01-2017,Chennai,44662
+Oven Toaster Grill,05-01-2017,Chennai,176669
+Oven Toaster Grill,06-01-2017,Chennai,133948
+Oven Toaster Grill,07-01-2017,Chennai,146027
+Oven Toaster Grill,08-01-2017,Chennai,152385
+Oven Toaster Grill,09-01-2017,Chennai,194853
+Oven Toaster Grill,10-01-2017,Chennai,258113
+Oven Toaster Grill,11-01-2017,Chennai,65882
+Oven Toaster Grill,12-01-2017,Chennai,225287
+Oven Toaster Grill,01-01-2018,Chennai,182991
+Oven Toaster Grill,02-01-2018,Chennai,89125
+Oven Toaster Grill,03-01-2018,Chennai,115433
+Steam Iron,04-01-2014,Chennai,156034
+Steam Iron,05-01-2014,Chennai,225059
+Steam Iron,06-01-2014,Chennai,170786
+Steam Iron,07-01-2014,Chennai,215689
+Steam Iron,08-01-2014,Chennai,228927
+Steam Iron,09-01-2014,Chennai,272370
+Steam Iron,10-01-2014,Chennai,252258
+Steam Iron,11-01-2014,Chennai,127230
+Steam Iron,12-01-2014,Chennai,240624
+Steam Iron,01-01-2015,Chennai,235503
+Steam Iron,02-01-2015,Chennai,190832
+Steam Iron,03-01-2015,Chennai,293731
+Steam Iron,04-01-2015,Chennai,183783
+Steam Iron,05-01-2015,Chennai,219311
+Steam Iron,06-01-2015,Chennai,122612
+Steam Iron,07-01-2015,Chennai,199608
+Steam Iron,08-01-2015,Chennai,188010
+Steam Iron,09-01-2015,Chennai,192892
+Steam Iron,10-01-2015,Chennai,274646
+Steam Iron,11-01-2015,Chennai,148960
+Steam Iron,12-01-2015,Chennai,218038
+Steam Iron,01-01-2016,Chennai,163704
+Steam Iron,02-01-2016,Chennai,165634
+Steam Iron,03-01-2016,Chennai,309406
+Steam Iron,04-01-2016,Chennai,229464
+Steam Iron,05-01-2016,Chennai,140614
+Steam Iron,06-01-2016,Chennai,79330
+Steam Iron,07-01-2016,Chennai,148936
+Steam Iron,08-01-2016,Chennai,160507
+Steam Iron,09-01-2016,Chennai,204481
+Steam Iron,10-01-2016,Chennai,208123
+Steam Iron,11-01-2016,Chennai,87884
+Steam Iron,12-01-2016,Chennai,116258
+Steam Iron,01-01-2017,Chennai,157052
+Steam Iron,02-01-2017,Chennai,145487
+Steam Iron,03-01-2017,Chennai,226459
+Steam Iron,04-01-2017,Chennai,127754
+Steam Iron,05-01-2017,Chennai,232846
+Steam Iron,06-01-2017,Chennai,293511
+Steam Iron,07-01-2017,Chennai,360619
+Steam Iron,08-01-2017,Chennai,286020
+Steam Iron,09-01-2017,Chennai,413243
+Steam Iron,10-01-2017,Chennai,409417
+Steam Iron,11-01-2017,Chennai,113677
+Steam Iron,12-01-2017,Chennai,256720
+Steam Iron,01-01-2018,Chennai,237682
+Steam Iron,02-01-2018,Chennai,151878
+Steam Iron,03-01-2018,Chennai,226737
+SECF,04-01-2014,Chennai,10867
+SECF,05-01-2014,Chennai,15674
+SECF,06-01-2014,Chennai,11894
+SECF,07-01-2014,Chennai,15022
+SECF,08-01-2014,Chennai,15944
+SECF,09-01-2014,Chennai,18969
+SECF,10-01-2014,Chennai,17569
+SECF,11-01-2014,Chennai,8861
+SECF,12-01-2014,Chennai,16758
+SECF,01-01-2015,Chennai,16402
+SECF,02-01-2015,Chennai,13291
+SECF,03-01-2015,Chennai,20457
+SECF,04-01-2015,Chennai,55406
+SECF,05-01-2015,Chennai,66117
+SECF,06-01-2015,Chennai,36964
+SECF,07-01-2015,Chennai,60177
+SECF,08-01-2015,Chennai,56680
+SECF,09-01-2015,Chennai,58152
+SECF,10-01-2015,Chennai,82799
+SECF,11-01-2015,Chennai,44908
+SECF,12-01-2015,Chennai,65733
+SECF,01-01-2016,Chennai,49352
+SECF,02-01-2016,Chennai,49934
+SECF,03-01-2016,Chennai,93278
+SECF,04-01-2016,Chennai,250460
+SECF,05-01-2016,Chennai,153480
+SECF,06-01-2016,Chennai,86589
+SECF,07-01-2016,Chennai,162563
+SECF,08-01-2016,Chennai,175193
+SECF,09-01-2016,Chennai,223191
+SECF,10-01-2016,Chennai,227167
+SECF,11-01-2016,Chennai,95925
+SECF,12-01-2016,Chennai,126896
+SECF,01-01-2017,Chennai,171423
+SECF,02-01-2017,Chennai,158800
+SECF,03-01-2017,Chennai,247180
+SECF,04-01-2017,Chennai,459253
+SECF,05-01-2017,Chennai,778458
+SECF,06-01-2017,Chennai,86125
+SECF,07-01-2017,Chennai,104858
+SECF,08-01-2017,Chennai,164603
+SECF,09-01-2017,Chennai,237962
+SECF,10-01-2017,Chennai,198531
+SECF,11-01-2017,Chennai,79758
+SECF,12-01-2017,Chennai,101808
+SECF,01-01-2018,Chennai,105377
+SECF,02-01-2018,Chennai,430735
+SECF,03-01-2018,Chennai,493743
+Mixers,04-01-2014,Cochin,891429
+Mixers,05-01-2014,Cochin,1285771
+Mixers,06-01-2014,Cochin,975706
+Mixers,07-01-2014,Cochin,1232239
+Mixers,08-01-2014,Cochin,1307868
+Mixers,09-01-2014,Cochin,1556058
+Mixers,10-01-2014,Cochin,1441160
+Mixers,11-01-2014,Cochin,726868
+Mixers,12-01-2014,Cochin,1374691
+Mixers,01-01-2015,Cochin,1345438
+Mixers,02-01-2015,Cochin,1090232
+Mixers,03-01-2015,Cochin,1678092
+Mixers,04-01-2015,Cochin,1199031
+Mixers,05-01-2015,Cochin,1430826
+Mixers,06-01-2015,Cochin,799944
+Mixers,07-01-2015,Cochin,1302279
+Mixers,08-01-2015,Cochin,1226613
+Mixers,09-01-2015,Cochin,1258463
+Mixers,10-01-2015,Cochin,1791841
+Mixers,11-01-2015,Cochin,971843
+Mixers,12-01-2015,Cochin,1422517
+Mixers,01-01-2016,Cochin,1068035
+Mixers,02-01-2016,Cochin,1080626
+Mixers,03-01-2016,Cochin,2018617
+Mixers,04-01-2016,Cochin,2119194
+Mixers,05-01-2016,Cochin,1298627
+Mixers,06-01-2016,Cochin,732648
+Mixers,07-01-2016,Cochin,1375481
+Mixers,08-01-2016,Cochin,1482344
+Mixers,09-01-2016,Cochin,1888464
+Mixers,10-01-2016,Cochin,1922106
+Mixers,11-01-2016,Cochin,811644
+Mixers,12-01-2016,Cochin,1073693
+Mixers,01-01-2017,Cochin,1450442
+Mixers,02-01-2017,Cochin,1343634
+Mixers,03-01-2017,Cochin,2091437
+Mixers,04-01-2017,Cochin,653917
+Mixers,05-01-2017,Cochin,1285351
+Mixers,06-01-2017,Cochin,1091349
+Mixers,07-01-2017,Cochin,1658675
+Mixers,08-01-2017,Cochin,1958635
+Mixers,09-01-2017,Cochin,2190746
+Mixers,10-01-2017,Cochin,2337188
+Mixers,11-01-2017,Cochin,780755
+Mixers,12-01-2017,Cochin,1295533
+Mixers,01-01-2018,Cochin,1883500
+Mixers,02-01-2018,Cochin,705221
+Mixers,03-01-2018,Cochin,1165636
+FoodProcessor,04-01-2014,Cochin,41140
+FoodProcessor,05-01-2014,Cochin,59340
+FoodProcessor,06-01-2014,Cochin,45030
+FoodProcessor,07-01-2014,Cochin,56869
+FoodProcessor,08-01-2014,Cochin,60359
+FoodProcessor,09-01-2014,Cochin,71814
+FoodProcessor,10-01-2014,Cochin,66511
+FoodProcessor,11-01-2014,Cochin,33546
+FoodProcessor,12-01-2014,Cochin,63443
+FoodProcessor,01-01-2015,Cochin,62093
+FoodProcessor,02-01-2015,Cochin,50315
+FoodProcessor,03-01-2015,Cochin,77446
+FoodProcessor,04-01-2015,Cochin,52824
+FoodProcessor,05-01-2015,Cochin,63036
+FoodProcessor,06-01-2015,Cochin,35242
+FoodProcessor,07-01-2015,Cochin,57372
+FoodProcessor,08-01-2015,Cochin,54039
+FoodProcessor,09-01-2015,Cochin,55442
+FoodProcessor,10-01-2015,Cochin,78940
+FoodProcessor,11-01-2015,Cochin,42815
+FoodProcessor,12-01-2015,Cochin,62670
+FoodProcessor,01-01-2016,Cochin,47053
+FoodProcessor,02-01-2016,Cochin,47607
+FoodProcessor,03-01-2016,Cochin,88931
+FoodProcessor,04-01-2016,Cochin,38888
+FoodProcessor,05-01-2016,Cochin,23830
+FoodProcessor,06-01-2016,Cochin,13444
+FoodProcessor,07-01-2016,Cochin,25241
+FoodProcessor,08-01-2016,Cochin,27201
+FoodProcessor,09-01-2016,Cochin,34654
+FoodProcessor,10-01-2016,Cochin,35271
+FoodProcessor,11-01-2016,Cochin,14894
+FoodProcessor,12-01-2016,Cochin,19703
+FoodProcessor,01-01-2017,Cochin,26616
+FoodProcessor,02-01-2017,Cochin,24656
+FoodProcessor,03-01-2017,Cochin,38379
+FoodProcessor,04-01-2017,Cochin,43635
+FoodProcessor,05-01-2017,Cochin,101874
+FoodProcessor,06-01-2017,Cochin,81736
+FoodProcessor,07-01-2017,Cochin,91570
+FoodProcessor,08-01-2017,Cochin,94337
+FoodProcessor,09-01-2017,Cochin,103757
+FoodProcessor,10-01-2017,Cochin,81193
+FoodProcessor,11-01-2017,Cochin,38336
+FoodProcessor,12-01-2017,Cochin,41170
+FoodProcessor,01-01-2018,Cochin,63358
+FoodProcessor,02-01-2018,Cochin,45256
+FoodProcessor,03-01-2018,Cochin,63521
+Induction cookers,04-01-2014,Cochin,142666
+Induction cookers,05-01-2014,Cochin,205777
+Induction cookers,06-01-2014,Cochin,156154
+Induction cookers,07-01-2014,Cochin,197210
+Induction cookers,08-01-2014,Cochin,209313
+Induction cookers,09-01-2014,Cochin,249034
+Induction cookers,10-01-2014,Cochin,230646
+Induction cookers,11-01-2014,Cochin,116329
+Induction cookers,12-01-2014,Cochin,220008
+Induction cookers,01-01-2015,Cochin,215326
+Induction cookers,02-01-2015,Cochin,174483
+Induction cookers,03-01-2015,Cochin,268565
+Induction cookers,04-01-2015,Cochin,143175
+Induction cookers,05-01-2015,Cochin,170853
+Induction cookers,06-01-2015,Cochin,95520
+Induction cookers,07-01-2015,Cochin,155504
+Induction cookers,08-01-2015,Cochin,146468
+Induction cookers,09-01-2015,Cochin,150272
+Induction cookers,10-01-2015,Cochin,213962
+Induction cookers,11-01-2015,Cochin,116047
+Induction cookers,12-01-2015,Cochin,169861
+Induction cookers,01-01-2016,Cochin,127533
+Induction cookers,02-01-2016,Cochin,129036
+Induction cookers,03-01-2016,Cochin,241041
+Induction cookers,04-01-2016,Cochin,111791
+Induction cookers,05-01-2016,Cochin,68505
+Induction cookers,06-01-2016,Cochin,38648
+Induction cookers,07-01-2016,Cochin,72559
+Induction cookers,08-01-2016,Cochin,78196
+Induction cookers,09-01-2016,Cochin,99619
+Induction cookers,10-01-2016,Cochin,101394
+Induction cookers,11-01-2016,Cochin,42815
+Induction cookers,12-01-2016,Cochin,56639
+Induction cookers,01-01-2017,Cochin,76513
+Induction cookers,02-01-2017,Cochin,70879
+Induction cookers,03-01-2017,Cochin,110327
+Induction cookers,04-01-2017,Cochin,101771
+Induction cookers,05-01-2017,Cochin,159286
+Induction cookers,06-01-2017,Cochin,139991
+Induction cookers,07-01-2017,Cochin,248933
+Induction cookers,08-01-2017,Cochin,217031
+Induction cookers,09-01-2017,Cochin,260141
+Induction cookers,10-01-2017,Cochin,287176
+Induction cookers,11-01-2017,Cochin,133793
+Induction cookers,12-01-2017,Cochin,193590
+Induction cookers,01-01-2018,Cochin,176832
+Induction cookers,02-01-2018,Cochin,134713
+Induction cookers,03-01-2018,Cochin,181353
+Gas Stove,04-01-2014,Cochin,264800
+Gas Stove,05-01-2014,Cochin,381940
+Gas Stove,06-01-2014,Cochin,289835
+Gas Stove,07-01-2014,Cochin,366039
+Gas Stove,08-01-2014,Cochin,388504
+Gas Stove,09-01-2014,Cochin,462230
+Gas Stove,10-01-2014,Cochin,428099
+Gas Stove,11-01-2014,Cochin,215917
+Gas Stove,12-01-2014,Cochin,408354
+Gas Stove,01-01-2015,Cochin,399665
+Gas Stove,02-01-2015,Cochin,323855
+Gas Stove,03-01-2015,Cochin,498480
+Gas Stove,04-01-2015,Cochin,626469
+Gas Stove,05-01-2015,Cochin,747578
+Gas Stove,06-01-2015,Cochin,417955
+Gas Stove,07-01-2015,Cochin,680414
+Gas Stove,08-01-2015,Cochin,640881
+Gas Stove,09-01-2015,Cochin,657521
+Gas Stove,10-01-2015,Cochin,936201
+Gas Stove,11-01-2015,Cochin,507768
+Gas Stove,12-01-2015,Cochin,743236
+Gas Stove,01-01-2016,Cochin,558027
+Gas Stove,02-01-2016,Cochin,564605
+Gas Stove,03-01-2016,Cochin,1054687
+Gas Stove,04-01-2016,Cochin,1141390
+Gas Stove,05-01-2016,Cochin,699436
+Gas Stove,06-01-2016,Cochin,394601
+Gas Stove,07-01-2016,Cochin,740829
+Gas Stove,08-01-2016,Cochin,798385
+Gas Stove,09-01-2016,Cochin,1017119
+Gas Stove,10-01-2016,Cochin,1035239
+Gas Stove,11-01-2016,Cochin,437148
+Gas Stove,12-01-2016,Cochin,578287
+Gas Stove,01-01-2017,Cochin,781202
+Gas Stove,02-01-2017,Cochin,723676
+Gas Stove,03-01-2017,Cochin,1126440
+Gas Stove,04-01-2017,Cochin,210110
+Gas Stove,05-01-2017,Cochin,583424
+Gas Stove,06-01-2017,Cochin,790577
+Gas Stove,07-01-2017,Cochin,1232242
+Gas Stove,08-01-2017,Cochin,1806096
+Gas Stove,09-01-2017,Cochin,1196164
+Gas Stove,10-01-2017,Cochin,902737
+Gas Stove,11-01-2017,Cochin,621284
+Gas Stove,12-01-2017,Cochin,861733
+Gas Stove,01-01-2018,Cochin,1217670
+Gas Stove,02-01-2018,Cochin,590251
+Gas Stove,03-01-2018,Cochin,445639
+Oven Toaster Grill,04-01-2014,Cochin,58233
+Oven Toaster Grill,05-01-2014,Cochin,83993
+Oven Toaster Grill,06-01-2014,Cochin,63738
+Oven Toaster Grill,07-01-2014,Cochin,80496
+Oven Toaster Grill,08-01-2014,Cochin,85437
+Oven Toaster Grill,09-01-2014,Cochin,101650
+Oven Toaster Grill,10-01-2014,Cochin,94144
+Oven Toaster Grill,11-01-2014,Cochin,47483
+Oven Toaster Grill,12-01-2014,Cochin,89802
+Oven Toaster Grill,01-01-2015,Cochin,87891
+Oven Toaster Grill,02-01-2015,Cochin,71220
+Oven Toaster Grill,03-01-2015,Cochin,109622
+Oven Toaster Grill,04-01-2015,Cochin,129500
+Oven Toaster Grill,05-01-2015,Cochin,154534
+Oven Toaster Grill,06-01-2015,Cochin,86397
+Oven Toaster Grill,07-01-2015,Cochin,140651
+Oven Toaster Grill,08-01-2015,Cochin,132479
+Oven Toaster Grill,09-01-2015,Cochin,135919
+Oven Toaster Grill,10-01-2015,Cochin,193525
+Oven Toaster Grill,11-01-2015,Cochin,104963
+Oven Toaster Grill,12-01-2015,Cochin,153637
+Oven Toaster Grill,01-01-2016,Cochin,115352
+Oven Toaster Grill,02-01-2016,Cochin,116711
+Oven Toaster Grill,03-01-2016,Cochin,218018
+Oven Toaster Grill,04-01-2016,Cochin,424358
+Oven Toaster Grill,05-01-2016,Cochin,260043
+Oven Toaster Grill,06-01-2016,Cochin,146709
+Oven Toaster Grill,07-01-2016,Cochin,275433
+Oven Toaster Grill,08-01-2016,Cochin,296832
+Oven Toaster Grill,09-01-2016,Cochin,378155
+Oven Toaster Grill,10-01-2016,Cochin,384892
+Oven Toaster Grill,11-01-2016,Cochin,162528
+Oven Toaster Grill,12-01-2016,Cochin,215002
+Oven Toaster Grill,01-01-2017,Cochin,290444
+Oven Toaster Grill,02-01-2017,Cochin,269056
+Oven Toaster Grill,03-01-2017,Cochin,418800
+Oven Toaster Grill,04-01-2017,Cochin,88527
+Oven Toaster Grill,05-01-2017,Cochin,350184
+Oven Toaster Grill,06-01-2017,Cochin,265504
+Oven Toaster Grill,07-01-2017,Cochin,289447
+Oven Toaster Grill,08-01-2017,Cochin,302050
+Oven Toaster Grill,09-01-2017,Cochin,386227
+Oven Toaster Grill,10-01-2017,Cochin,511619
+Oven Toaster Grill,11-01-2017,Cochin,130587
+Oven Toaster Grill,12-01-2017,Cochin,446552
+Oven Toaster Grill,01-01-2018,Cochin,362715
+Oven Toaster Grill,02-01-2018,Cochin,176659
+Oven Toaster Grill,03-01-2018,Cochin,228805
+Dry Iron,04-01-2014,Cochin,240875
+Dry Iron,05-01-2014,Cochin,347431
+Dry Iron,06-01-2014,Cochin,263648
+Dry Iron,07-01-2014,Cochin,332966
+Dry Iron,08-01-2014,Cochin,353402
+Dry Iron,09-01-2014,Cochin,420466
+Dry Iron,10-01-2014,Cochin,389420
+Dry Iron,11-01-2014,Cochin,196409
+Dry Iron,12-01-2014,Cochin,371459
+Dry Iron,01-01-2015,Cochin,363554
+Dry Iron,02-01-2015,Cochin,294594
+Dry Iron,03-01-2015,Cochin,453442
+Dry Iron,04-01-2015,Cochin,335772
+Dry Iron,05-01-2015,Cochin,400683
+Dry Iron,06-01-2015,Cochin,224014
+Dry Iron,07-01-2015,Cochin,364686
+Dry Iron,08-01-2015,Cochin,343496
+Dry Iron,09-01-2015,Cochin,352415
+Dry Iron,10-01-2015,Cochin,501781
+Dry Iron,11-01-2015,Cochin,272152
+Dry Iron,12-01-2015,Cochin,398357
+Dry Iron,01-01-2016,Cochin,299089
+Dry Iron,02-01-2016,Cochin,302615
+Dry Iron,03-01-2016,Cochin,565286
+Dry Iron,04-01-2016,Cochin,734852
+Dry Iron,05-01-2016,Cochin,450312
+Dry Iron,06-01-2016,Cochin,254053
+Dry Iron,07-01-2016,Cochin,476962
+Dry Iron,08-01-2016,Cochin,514018
+Dry Iron,09-01-2016,Cochin,654844
+Dry Iron,10-01-2016,Cochin,666510
+Dry Iron,11-01-2016,Cochin,281446
+Dry Iron,12-01-2016,Cochin,372314
+Dry Iron,01-01-2017,Cochin,502955
+Dry Iron,02-01-2017,Cochin,465919
+Dry Iron,03-01-2017,Cochin,725227
+Dry Iron,04-01-2017,Cochin,260790
+Dry Iron,05-01-2017,Cochin,618834
+Dry Iron,06-01-2017,Cochin,702055
+Dry Iron,07-01-2017,Cochin,774542
+Dry Iron,08-01-2017,Cochin,782688
+Dry Iron,09-01-2017,Cochin,1063819
+Dry Iron,10-01-2017,Cochin,1310962
+Dry Iron,11-01-2017,Cochin,324120
+Dry Iron,12-01-2017,Cochin,611976
+Dry Iron,01-01-2018,Cochin,651661
+Dry Iron,02-01-2018,Cochin,393829
+Dry Iron,03-01-2018,Cochin,630309
+Steam Iron,04-01-2014,Cochin,84575
+Steam Iron,05-01-2014,Cochin,121988
+Steam Iron,06-01-2014,Cochin,92570
+Steam Iron,07-01-2014,Cochin,116909
+Steam Iron,08-01-2014,Cochin,124084
+Steam Iron,09-01-2014,Cochin,147632
+Steam Iron,10-01-2014,Cochin,136731
+Steam Iron,11-01-2014,Cochin,68962
+Steam Iron,12-01-2014,Cochin,130424
+Steam Iron,01-01-2015,Cochin,127649
+Steam Iron,02-01-2015,Cochin,103436
+Steam Iron,03-01-2015,Cochin,159210
+Steam Iron,04-01-2015,Cochin,99228
+Steam Iron,05-01-2015,Cochin,118411
+Steam Iron,06-01-2015,Cochin,66201
+Steam Iron,07-01-2015,Cochin,107773
+Steam Iron,08-01-2015,Cochin,101511
+Steam Iron,09-01-2015,Cochin,104146
+Steam Iron,10-01-2015,Cochin,148287
+Steam Iron,11-01-2015,Cochin,80427
+Steam Iron,12-01-2015,Cochin,117723
+Steam Iron,01-01-2016,Cochin,88387
+Steam Iron,02-01-2016,Cochin,89429
+Steam Iron,03-01-2016,Cochin,167054
+Steam Iron,04-01-2016,Cochin,204517
+Steam Iron,05-01-2016,Cochin,125326
+Steam Iron,06-01-2016,Cochin,70706
+Steam Iron,07-01-2016,Cochin,132743
+Steam Iron,08-01-2016,Cochin,143056
+Steam Iron,09-01-2016,Cochin,182250
+Steam Iron,10-01-2016,Cochin,185497
+Steam Iron,11-01-2016,Cochin,78329
+Steam Iron,12-01-2016,Cochin,103619
+Steam Iron,01-01-2017,Cochin,139978
+Steam Iron,02-01-2017,Cochin,129670
+Steam Iron,03-01-2017,Cochin,201838
+Steam Iron,04-01-2017,Cochin,92409
+Steam Iron,05-01-2017,Cochin,168426
+Steam Iron,06-01-2017,Cochin,212308
+Steam Iron,07-01-2017,Cochin,260849
+Steam Iron,08-01-2017,Cochin,206889
+Steam Iron,09-01-2017,Cochin,298914
+Steam Iron,10-01-2017,Cochin,296147
+Steam Iron,11-01-2017,Cochin,82227
+Steam Iron,12-01-2017,Cochin,185695
+Steam Iron,01-01-2018,Cochin,171925
+Steam Iron,02-01-2018,Cochin,109859
+Steam Iron,03-01-2018,Cochin,164008
+coolers,04-01-2014,Cochin,3829083
+coolers,05-01-2014,Cochin,1207892
+coolers,06-01-2014,Cochin,35105
+coolers,07-01-2014,Cochin,0
+coolers,08-01-2014,Cochin,0
+coolers,09-01-2014,Cochin,0
+coolers,10-01-2014,Cochin,5198
+coolers,11-01-2014,Cochin,28231
+coolers,12-01-2014,Cochin,26061
+coolers,01-01-2015,Cochin,552307
+coolers,02-01-2015,Cochin,3020696
+coolers,03-01-2015,Cochin,4507472
+coolers,04-01-2015,Cochin,4286659
+coolers,05-01-2015,Cochin,1352235
+coolers,06-01-2015,Cochin,39300
+coolers,07-01-2015,Cochin,0
+coolers,08-01-2015,Cochin,0
+coolers,09-01-2015,Cochin,0
+coolers,10-01-2015,Cochin,5819
+coolers,11-01-2015,Cochin,31604
+coolers,12-01-2015,Cochin,29176
+coolers,01-01-2016,Cochin,618308
+coolers,02-01-2016,Cochin,3381670
+coolers,03-01-2016,Cochin,5046115
+coolers,04-01-2016,Cochin,6422680
+coolers,05-01-2016,Cochin,2026047
+coolers,06-01-2016,Cochin,58884
+coolers,07-01-2016,Cochin,0
+coolers,08-01-2016,Cochin,0
+coolers,09-01-2016,Cochin,0
+coolers,10-01-2016,Cochin,8718
+coolers,11-01-2016,Cochin,47353
+coolers,12-01-2016,Cochin,43714
+coolers,01-01-2017,Cochin,926407
+coolers,02-01-2017,Cochin,5066739
+coolers,03-01-2017,Cochin,7560570
+coolers,04-01-2017,Cochin,7167752
+coolers,05-01-2017,Cochin,2261082
+coolers,06-01-2017,Cochin,65714
+coolers,07-01-2017,Cochin,0
+coolers,08-01-2017,Cochin,0
+coolers,09-01-2017,Cochin,0
+coolers,10-01-2017,Cochin,9730
+coolers,11-01-2017,Cochin,52846
+coolers,12-01-2017,Cochin,48785
+coolers,01-01-2018,Cochin,1033876
+coolers,02-01-2018,Cochin,5654514
+coolers,03-01-2018,Cochin,8437645
+Water Heaters,04-01-2014,Cochin,2863
+Water Heaters,05-01-2014,Cochin,33281
+Water Heaters,06-01-2014,Cochin,109208
+Water Heaters,07-01-2014,Cochin,213207
+Water Heaters,08-01-2014,Cochin,176904
+Water Heaters,09-01-2014,Cochin,180770
+Water Heaters,10-01-2014,Cochin,466047
+Water Heaters,11-01-2014,Cochin,381795
+Water Heaters,12-01-2014,Cochin,396306
+Water Heaters,01-01-2015,Cochin,128797
+Water Heaters,02-01-2015,Cochin,35217
+Water Heaters,03-01-2015,Cochin,21829
+Water Heaters,04-01-2015,Cochin,2638
+Water Heaters,05-01-2015,Cochin,30669
+Water Heaters,06-01-2015,Cochin,100637
+Water Heaters,07-01-2015,Cochin,196474
+Water Heaters,08-01-2015,Cochin,163021
+Water Heaters,09-01-2015,Cochin,166583
+Water Heaters,10-01-2015,Cochin,429471
+Water Heaters,11-01-2015,Cochin,351831
+Water Heaters,12-01-2015,Cochin,365203
+Water Heaters,01-01-2016,Cochin,118689
+Water Heaters,02-01-2016,Cochin,32453
+Water Heaters,03-01-2016,Cochin,20116
+Water Heaters,04-01-2016,Cochin,64175
+Water Heaters,05-01-2016,Cochin,746047
+Water Heaters,06-01-2016,Cochin,2448070
+Water Heaters,07-01-2016,Cochin,4779383
+Water Heaters,08-01-2016,Cochin,3965604
+Water Heaters,09-01-2016,Cochin,4052254
+Water Heaters,10-01-2016,Cochin,10447227
+Water Heaters,11-01-2016,Cochin,8558566
+Water Heaters,12-01-2016,Cochin,8883863
+Water Heaters,01-01-2017,Cochin,2887198
+Water Heaters,02-01-2017,Cochin,789454
+Water Heaters,03-01-2017,Cochin,489331
+Water Heaters,04-01-2017,Cochin,3549
+Water Heaters,05-01-2017,Cochin,41261
+Water Heaters,06-01-2017,Cochin,135392
+Water Heaters,07-01-2017,Cochin,264326
+Water Heaters,08-01-2017,Cochin,219320
+Water Heaters,09-01-2017,Cochin,224112
+Water Heaters,10-01-2017,Cochin,577789
+Water Heaters,11-01-2017,Cochin,473336
+Water Heaters,12-01-2017,Cochin,491326
+Water Heaters,01-01-2018,Cochin,159678
+Water Heaters,02-01-2018,Cochin,43661
+Water Heaters,03-01-2018,Cochin,27063
+SECF,04-01-2014,Cochin,23059
+SECF,05-01-2014,Cochin,33259
+SECF,06-01-2014,Cochin,25239
+SECF,07-01-2014,Cochin,31875
+SECF,08-01-2014,Cochin,33831
+SECF,09-01-2014,Cochin,40251
+SECF,10-01-2014,Cochin,37279
+SECF,11-01-2014,Cochin,18802
+SECF,12-01-2014,Cochin,35559
+SECF,01-01-2015,Cochin,34803
+SECF,02-01-2015,Cochin,28201
+SECF,03-01-2015,Cochin,43407
+SECF,04-01-2015,Cochin,84867
+SECF,05-01-2015,Cochin,101273
+SECF,06-01-2015,Cochin,56620
+SECF,07-01-2015,Cochin,92175
+SECF,08-01-2015,Cochin,86819
+SECF,09-01-2015,Cochin,89074
+SECF,10-01-2015,Cochin,126826
+SECF,11-01-2015,Cochin,68787
+SECF,12-01-2015,Cochin,100685
+SECF,01-01-2016,Cochin,75595
+SECF,02-01-2016,Cochin,76486
+SECF,03-01-2016,Cochin,142877
+SECF,04-01-2016,Cochin,1482266
+SECF,05-01-2016,Cochin,908322
+SECF,06-01-2016,Cochin,512449
+SECF,07-01-2016,Cochin,962078
+SECF,08-01-2016,Cochin,1036823
+SECF,09-01-2016,Cochin,1320882
+SECF,10-01-2016,Cochin,1344413
+SECF,11-01-2016,Cochin,567703
+SECF,12-01-2016,Cochin,750993
+SECF,01-01-2017,Cochin,1014509
+SECF,02-01-2017,Cochin,939802
+SECF,03-01-2017,Cochin,1462852
+SECF,04-01-2017,Cochin,1753219
+SECF,05-01-2017,Cochin,2971797
+SECF,06-01-2017,Cochin,328787
+SECF,07-01-2017,Cochin,400299
+SECF,08-01-2017,Cochin,628377
+SECF,09-01-2017,Cochin,908430
+SECF,10-01-2017,Cochin,757900
+SECF,11-01-2017,Cochin,304478
+SECF,12-01-2017,Cochin,388655
+SECF,01-01-2018,Cochin,402282
+SECF,02-01-2018,Cochin,1644347
+SECF,03-01-2018,Cochin,1884883
+Mixers,04-01-2014,Ahmd,641078
+Mixers,05-01-2014,Ahmd,924673
+Mixers,06-01-2014,Ahmd,701687
+Mixers,07-01-2014,Ahmd,886175
+Mixers,08-01-2014,Ahmd,940564
+Mixers,09-01-2014,Ahmd,1119052
+Mixers,10-01-2014,Ahmd,1036422
+Mixers,11-01-2014,Ahmd,522733
+Mixers,12-01-2014,Ahmd,988621
+Mixers,01-01-2015,Ahmd,967583
+Mixers,02-01-2015,Ahmd,784049
+Mixers,03-01-2015,Ahmd,1206814
+Mixers,04-01-2015,Ahmd,1210816
+Mixers,05-01-2015,Ahmd,1444889
+Mixers,06-01-2015,Ahmd,807807
+Mixers,07-01-2015,Ahmd,1315079
+Mixers,08-01-2015,Ahmd,1238669
+Mixers,09-01-2015,Ahmd,1270832
+Mixers,10-01-2015,Ahmd,1809452
+Mixers,11-01-2015,Ahmd,981395
+Mixers,12-01-2015,Ahmd,1436498
+Mixers,01-01-2016,Ahmd,1078533
+Mixers,02-01-2016,Ahmd,1091246
+Mixers,03-01-2016,Ahmd,2038457
+Mixers,04-01-2016,Ahmd,1819594
+Mixers,05-01-2016,Ahmd,1115034
+Mixers,06-01-2016,Ahmd,629070
+Mixers,07-01-2016,Ahmd,1181023
+Mixers,08-01-2016,Ahmd,1272778
+Mixers,09-01-2016,Ahmd,1621483
+Mixers,10-01-2016,Ahmd,1650369
+Mixers,11-01-2016,Ahmd,696898
+Mixers,12-01-2016,Ahmd,921900
+Mixers,01-01-2017,Ahmd,1245386
+Mixers,02-01-2017,Ahmd,1153678
+Mixers,03-01-2017,Ahmd,1795761
+Mixers,04-01-2017,Ahmd,562690
+Mixers,05-01-2017,Ahmd,1106033
+Mixers,06-01-2017,Ahmd,939096
+Mixers,07-01-2017,Ahmd,1427275
+Mixers,08-01-2017,Ahmd,1685388
+Mixers,09-01-2017,Ahmd,1885117
+Mixers,10-01-2017,Ahmd,2011129
+Mixers,11-01-2017,Ahmd,671833
+Mixers,12-01-2017,Ahmd,1114795
+Mixers,01-01-2018,Ahmd,1620735
+Mixers,02-01-2018,Ahmd,606837
+Mixers,03-01-2018,Ahmd,1003019
+FoodProcessor,04-01-2014,Ahmd,471052
+FoodProcessor,05-01-2014,Ahmd,679432
+FoodProcessor,06-01-2014,Ahmd,515586
+FoodProcessor,07-01-2014,Ahmd,651144
+FoodProcessor,08-01-2014,Ahmd,691108
+FoodProcessor,09-01-2014,Ahmd,822258
+FoodProcessor,10-01-2014,Ahmd,761543
+FoodProcessor,11-01-2014,Ahmd,384094
+FoodProcessor,12-01-2014,Ahmd,726419
+FoodProcessor,01-01-2015,Ahmd,710961
+FoodProcessor,02-01-2015,Ahmd,576104
+FoodProcessor,03-01-2015,Ahmd,886744
+FoodProcessor,04-01-2015,Ahmd,408643
+FoodProcessor,05-01-2015,Ahmd,487641
+FoodProcessor,06-01-2015,Ahmd,272630
+FoodProcessor,07-01-2015,Ahmd,443831
+FoodProcessor,08-01-2015,Ahmd,418043
+FoodProcessor,09-01-2015,Ahmd,428898
+FoodProcessor,10-01-2015,Ahmd,610679
+FoodProcessor,11-01-2015,Ahmd,331215
+FoodProcessor,12-01-2015,Ahmd,484809
+FoodProcessor,01-01-2016,Ahmd,363998
+FoodProcessor,02-01-2016,Ahmd,368289
+FoodProcessor,03-01-2016,Ahmd,687966
+FoodProcessor,04-01-2016,Ahmd,594048
+FoodProcessor,05-01-2016,Ahmd,364028
+FoodProcessor,06-01-2016,Ahmd,205374
+FoodProcessor,07-01-2016,Ahmd,385572
+FoodProcessor,08-01-2016,Ahmd,415528
+FoodProcessor,09-01-2016,Ahmd,529370
+FoodProcessor,10-01-2016,Ahmd,538801
+FoodProcessor,11-01-2016,Ahmd,227518
+FoodProcessor,12-01-2016,Ahmd,300975
+FoodProcessor,01-01-2017,Ahmd,406585
+FoodProcessor,02-01-2017,Ahmd,376645
+FoodProcessor,03-01-2017,Ahmd,586267
+FoodProcessor,04-01-2017,Ahmd,241671
+FoodProcessor,05-01-2017,Ahmd,564228
+FoodProcessor,06-01-2017,Ahmd,452695
+FoodProcessor,07-01-2017,Ahmd,507158
+FoodProcessor,08-01-2017,Ahmd,522484
+FoodProcessor,09-01-2017,Ahmd,574656
+FoodProcessor,10-01-2017,Ahmd,449684
+FoodProcessor,11-01-2017,Ahmd,212321
+FoodProcessor,12-01-2017,Ahmd,228019
+FoodProcessor,01-01-2018,Ahmd,350908
+FoodProcessor,02-01-2018,Ahmd,250650
+FoodProcessor,03-01-2018,Ahmd,351810
+Induction cookers,04-01-2014,Ahmd,293041
+Induction cookers,05-01-2014,Ahmd,422673
+Induction cookers,06-01-2014,Ahmd,320745
+Induction cookers,07-01-2014,Ahmd,405076
+Induction cookers,08-01-2014,Ahmd,429937
+Induction cookers,09-01-2014,Ahmd,511525
+Induction cookers,10-01-2014,Ahmd,473755
+Induction cookers,11-01-2014,Ahmd,238944
+Induction cookers,12-01-2014,Ahmd,451904
+Induction cookers,01-01-2015,Ahmd,442288
+Induction cookers,02-01-2015,Ahmd,358394
+Induction cookers,03-01-2015,Ahmd,551642
+Induction cookers,04-01-2015,Ahmd,388694
+Induction cookers,05-01-2015,Ahmd,463836
+Induction cookers,06-01-2015,Ahmd,259321
+Induction cookers,07-01-2015,Ahmd,422164
+Induction cookers,08-01-2015,Ahmd,397635
+Induction cookers,09-01-2015,Ahmd,407960
+Induction cookers,10-01-2015,Ahmd,580867
+Induction cookers,11-01-2015,Ahmd,315046
+Induction cookers,12-01-2015,Ahmd,461142
+Induction cookers,01-01-2016,Ahmd,346229
+Induction cookers,02-01-2016,Ahmd,350310
+Induction cookers,03-01-2016,Ahmd,654382
+Induction cookers,04-01-2016,Ahmd,661720
+Induction cookers,05-01-2016,Ahmd,405497
+Induction cookers,06-01-2016,Ahmd,228770
+Induction cookers,07-01-2016,Ahmd,429495
+Induction cookers,08-01-2016,Ahmd,462863
+Induction cookers,09-01-2016,Ahmd,589674
+Induction cookers,10-01-2016,Ahmd,600179
+Induction cookers,11-01-2016,Ahmd,253436
+Induction cookers,12-01-2016,Ahmd,335261
+Induction cookers,01-01-2017,Ahmd,452901
+Induction cookers,02-01-2017,Ahmd,419550
+Induction cookers,03-01-2017,Ahmd,653053
+Induction cookers,04-01-2017,Ahmd,278390
+Induction cookers,05-01-2017,Ahmd,435721
+Induction cookers,06-01-2017,Ahmd,382939
+Induction cookers,07-01-2017,Ahmd,680944
+Induction cookers,08-01-2017,Ahmd,593679
+Induction cookers,09-01-2017,Ahmd,711604
+Induction cookers,10-01-2017,Ahmd,785557
+Induction cookers,11-01-2017,Ahmd,365985
+Induction cookers,12-01-2017,Ahmd,529557
+Induction cookers,01-01-2018,Ahmd,483716
+Induction cookers,02-01-2018,Ahmd,368502
+Induction cookers,03-01-2018,Ahmd,496083
+Gas Stove,04-01-2014,Ahmd,163492
+Gas Stove,05-01-2014,Ahmd,235816
+Gas Stove,06-01-2014,Ahmd,178949
+Gas Stove,07-01-2014,Ahmd,225998
+Gas Stove,08-01-2014,Ahmd,239869
+Gas Stove,09-01-2014,Ahmd,285388
+Gas Stove,10-01-2014,Ahmd,264315
+Gas Stove,11-01-2014,Ahmd,133311
+Gas Stove,12-01-2014,Ahmd,252124
+Gas Stove,01-01-2015,Ahmd,246759
+Gas Stove,02-01-2015,Ahmd,199953
+Gas Stove,03-01-2015,Ahmd,307769
+Gas Stove,04-01-2015,Ahmd,194028
+Gas Stove,05-01-2015,Ahmd,231537
+Gas Stove,06-01-2015,Ahmd,129447
+Gas Stove,07-01-2015,Ahmd,210736
+Gas Stove,08-01-2015,Ahmd,198491
+Gas Stove,09-01-2015,Ahmd,203645
+Gas Stove,10-01-2015,Ahmd,289957
+Gas Stove,11-01-2015,Ahmd,157264
+Gas Stove,12-01-2015,Ahmd,230193
+Gas Stove,01-01-2016,Ahmd,172830
+Gas Stove,02-01-2016,Ahmd,174867
+Gas Stove,03-01-2016,Ahmd,326654
+Gas Stove,04-01-2016,Ahmd,457590
+Gas Stove,05-01-2016,Ahmd,280408
+Gas Stove,06-01-2016,Ahmd,158198
+Gas Stove,07-01-2016,Ahmd,297003
+Gas Stove,08-01-2016,Ahmd,320077
+Gas Stove,09-01-2016,Ahmd,407769
+Gas Stove,10-01-2016,Ahmd,415033
+Gas Stove,11-01-2016,Ahmd,175255
+Gas Stove,12-01-2016,Ahmd,231839
+Gas Stove,01-01-2017,Ahmd,313188
+Gas Stove,02-01-2017,Ahmd,290126
+Gas Stove,03-01-2017,Ahmd,451596
+Gas Stove,04-01-2017,Ahmd,88350
+Gas Stove,05-01-2017,Ahmd,245326
+Gas Stove,06-01-2017,Ahmd,332432
+Gas Stove,07-01-2017,Ahmd,518149
+Gas Stove,08-01-2017,Ahmd,759450
+Gas Stove,09-01-2017,Ahmd,502978
+Gas Stove,10-01-2017,Ahmd,379594
+Gas Stove,11-01-2017,Ahmd,261246
+Gas Stove,12-01-2017,Ahmd,362352
+Gas Stove,01-01-2018,Ahmd,512021
+Gas Stove,02-01-2018,Ahmd,248196
+Gas Stove,03-01-2018,Ahmd,187388
+Oven Toaster Grill,04-01-2014,Ahmd,185707
+Oven Toaster Grill,05-01-2014,Ahmd,267859
+Oven Toaster Grill,06-01-2014,Ahmd,203264
+Oven Toaster Grill,07-01-2014,Ahmd,256707
+Oven Toaster Grill,08-01-2014,Ahmd,272462
+Oven Toaster Grill,09-01-2014,Ahmd,324166
+Oven Toaster Grill,10-01-2014,Ahmd,300230
+Oven Toaster Grill,11-01-2014,Ahmd,151425
+Oven Toaster Grill,12-01-2014,Ahmd,286383
+Oven Toaster Grill,01-01-2015,Ahmd,280289
+Oven Toaster Grill,02-01-2015,Ahmd,227123
+Oven Toaster Grill,03-01-2015,Ahmd,349589
+Oven Toaster Grill,04-01-2015,Ahmd,328211
+Oven Toaster Grill,05-01-2015,Ahmd,391660
+Oven Toaster Grill,06-01-2015,Ahmd,218969
+Oven Toaster Grill,07-01-2015,Ahmd,356473
+Oven Toaster Grill,08-01-2015,Ahmd,335761
+Oven Toaster Grill,09-01-2015,Ahmd,344479
+Oven Toaster Grill,10-01-2015,Ahmd,490480
+Oven Toaster Grill,11-01-2015,Ahmd,266022
+Oven Toaster Grill,12-01-2015,Ahmd,389385
+Oven Toaster Grill,01-01-2016,Ahmd,292353
+Oven Toaster Grill,02-01-2016,Ahmd,295799
+Oven Toaster Grill,03-01-2016,Ahmd,552556
+Oven Toaster Grill,04-01-2016,Ahmd,559331
+Oven Toaster Grill,05-01-2016,Ahmd,342754
+Oven Toaster Grill,06-01-2016,Ahmd,193372
+Oven Toaster Grill,07-01-2016,Ahmd,363039
+Oven Toaster Grill,08-01-2016,Ahmd,391244
+Oven Toaster Grill,09-01-2016,Ahmd,498433
+Oven Toaster Grill,10-01-2016,Ahmd,507313
+Oven Toaster Grill,11-01-2016,Ahmd,214222
+Oven Toaster Grill,12-01-2016,Ahmd,283386
+Oven Toaster Grill,01-01-2017,Ahmd,382824
+Oven Toaster Grill,02-01-2017,Ahmd,354633
+Oven Toaster Grill,03-01-2017,Ahmd,552005
+Oven Toaster Grill,04-01-2017,Ahmd,138004
+Oven Toaster Grill,05-01-2017,Ahmd,545900
+Oven Toaster Grill,06-01-2017,Ahmd,413893
+Oven Toaster Grill,07-01-2017,Ahmd,451218
+Oven Toaster Grill,08-01-2017,Ahmd,470864
+Oven Toaster Grill,09-01-2017,Ahmd,602086
+Oven Toaster Grill,10-01-2017,Ahmd,797559
+Oven Toaster Grill,11-01-2017,Ahmd,203572
+Oven Toaster Grill,12-01-2017,Ahmd,696126
+Oven Toaster Grill,01-01-2018,Ahmd,565434
+Oven Toaster Grill,02-01-2018,Ahmd,275393
+Oven Toaster Grill,03-01-2018,Ahmd,356683
+Dry Iron,04-01-2014,Ahmd,194200
+Dry Iron,05-01-2014,Ahmd,280109
+Dry Iron,06-01-2014,Ahmd,212560
+Dry Iron,07-01-2014,Ahmd,268447
+Dry Iron,08-01-2014,Ahmd,284923
+Dry Iron,09-01-2014,Ahmd,338992
+Dry Iron,10-01-2014,Ahmd,313961
+Dry Iron,11-01-2014,Ahmd,158350
+Dry Iron,12-01-2014,Ahmd,299480
+Dry Iron,01-01-2015,Ahmd,293107
+Dry Iron,02-01-2015,Ahmd,237510
+Dry Iron,03-01-2015,Ahmd,365577
+Dry Iron,04-01-2015,Ahmd,276970
+Dry Iron,05-01-2015,Ahmd,330514
+Dry Iron,06-01-2015,Ahmd,184783
+Dry Iron,07-01-2015,Ahmd,300820
+Dry Iron,08-01-2015,Ahmd,283341
+Dry Iron,09-01-2015,Ahmd,290699
+Dry Iron,10-01-2015,Ahmd,413906
+Dry Iron,11-01-2015,Ahmd,224491
+Dry Iron,12-01-2015,Ahmd,328594
+Dry Iron,01-01-2016,Ahmd,246711
+Dry Iron,02-01-2016,Ahmd,249619
+Dry Iron,03-01-2016,Ahmd,466290
+Dry Iron,04-01-2016,Ahmd,667264
+Dry Iron,05-01-2016,Ahmd,408895
+Dry Iron,06-01-2016,Ahmd,230686
+Dry Iron,07-01-2016,Ahmd,433093
+Dry Iron,08-01-2016,Ahmd,466741
+Dry Iron,09-01-2016,Ahmd,594615
+Dry Iron,10-01-2016,Ahmd,605207
+Dry Iron,11-01-2016,Ahmd,255560
+Dry Iron,12-01-2016,Ahmd,338070
+Dry Iron,01-01-2017,Ahmd,456696
+Dry Iron,02-01-2017,Ahmd,423066
+Dry Iron,03-01-2017,Ahmd,658524
+Dry Iron,04-01-2017,Ahmd,195246
+Dry Iron,05-01-2017,Ahmd,463304
+Dry Iron,06-01-2017,Ahmd,525609
+Dry Iron,07-01-2017,Ahmd,579878
+Dry Iron,08-01-2017,Ahmd,585978
+Dry Iron,09-01-2017,Ahmd,796452
+Dry Iron,10-01-2017,Ahmd,981482
+Dry Iron,11-01-2017,Ahmd,242660
+Dry Iron,12-01-2017,Ahmd,458170
+Dry Iron,01-01-2018,Ahmd,487881
+Dry Iron,02-01-2018,Ahmd,294849
+Dry Iron,03-01-2018,Ahmd,471895
+Steam Iron,04-01-2014,Ahmd,205351
+Steam Iron,05-01-2014,Ahmd,296192
+Steam Iron,06-01-2014,Ahmd,224765
+Steam Iron,07-01-2014,Ahmd,283861
+Steam Iron,08-01-2014,Ahmd,301283
+Steam Iron,09-01-2014,Ahmd,358456
+Steam Iron,10-01-2014,Ahmd,331988
+Steam Iron,11-01-2014,Ahmd,167442
+Steam Iron,12-01-2014,Ahmd,316676
+Steam Iron,01-01-2015,Ahmd,309937
+Steam Iron,02-01-2015,Ahmd,251148
+Steam Iron,03-01-2015,Ahmd,386568
+Steam Iron,04-01-2015,Ahmd,246348
+Steam Iron,05-01-2015,Ahmd,293971
+Steam Iron,06-01-2015,Ahmd,164353
+Steam Iron,07-01-2015,Ahmd,267561
+Steam Iron,08-01-2015,Ahmd,252015
+Steam Iron,09-01-2015,Ahmd,258558
+Steam Iron,10-01-2015,Ahmd,368144
+Steam Iron,11-01-2015,Ahmd,199671
+Steam Iron,12-01-2015,Ahmd,292264
+Steam Iron,01-01-2016,Ahmd,219434
+Steam Iron,02-01-2016,Ahmd,222021
+Steam Iron,03-01-2016,Ahmd,414736
+Steam Iron,04-01-2016,Ahmd,343150
+Steam Iron,05-01-2016,Ahmd,210280
+Steam Iron,06-01-2016,Ahmd,118634
+Steam Iron,07-01-2016,Ahmd,222725
+Steam Iron,08-01-2016,Ahmd,240028
+Steam Iron,09-01-2016,Ahmd,305789
+Steam Iron,10-01-2016,Ahmd,311237
+Steam Iron,11-01-2016,Ahmd,131425
+Steam Iron,12-01-2016,Ahmd,173858
+Steam Iron,01-01-2017,Ahmd,234863
+Steam Iron,02-01-2017,Ahmd,217568
+Steam Iron,03-01-2017,Ahmd,338656
+Steam Iron,04-01-2017,Ahmd,163449
+Steam Iron,05-01-2017,Ahmd,297905
+Steam Iron,06-01-2017,Ahmd,375521
+Steam Iron,07-01-2017,Ahmd,461378
+Steam Iron,08-01-2017,Ahmd,365937
+Steam Iron,09-01-2017,Ahmd,528706
+Steam Iron,10-01-2017,Ahmd,523811
+Steam Iron,11-01-2017,Ahmd,145439
+Steam Iron,12-01-2017,Ahmd,328449
+Steam Iron,01-01-2018,Ahmd,304093
+Steam Iron,02-01-2018,Ahmd,194314
+Steam Iron,03-01-2018,Ahmd,290090
+coolers,04-01-2014,Ahmd,4099496
+coolers,05-01-2014,Ahmd,1293194
+coolers,06-01-2014,Ahmd,37584
+coolers,07-01-2014,Ahmd,0
+coolers,08-01-2014,Ahmd,0
+coolers,09-01-2014,Ahmd,0
+coolers,10-01-2014,Ahmd,5565
+coolers,11-01-2014,Ahmd,30225
+coolers,12-01-2014,Ahmd,27902
+coolers,01-01-2015,Ahmd,591311
+coolers,02-01-2015,Ahmd,3234020
+coolers,03-01-2015,Ahmd,4825793
+coolers,04-01-2015,Ahmd,3932190
+coolers,05-01-2015,Ahmd,1240417
+coolers,06-01-2015,Ahmd,36051
+coolers,07-01-2015,Ahmd,0
+coolers,08-01-2015,Ahmd,0
+coolers,09-01-2015,Ahmd,0
+coolers,10-01-2015,Ahmd,5338
+coolers,11-01-2015,Ahmd,28991
+coolers,12-01-2015,Ahmd,26763
+coolers,01-01-2016,Ahmd,567179
+coolers,02-01-2016,Ahmd,3102035
+coolers,03-01-2016,Ahmd,4628846
+coolers,04-01-2016,Ahmd,5312646
+coolers,05-01-2016,Ahmd,1675885
+coolers,06-01-2016,Ahmd,48707
+coolers,07-01-2016,Ahmd,0
+coolers,08-01-2016,Ahmd,0
+coolers,09-01-2016,Ahmd,0
+coolers,10-01-2016,Ahmd,7212
+coolers,11-01-2016,Ahmd,39169
+coolers,12-01-2016,Ahmd,36159
+coolers,01-01-2017,Ahmd,766296
+coolers,02-01-2017,Ahmd,4191053
+coolers,03-01-2017,Ahmd,6253874
+coolers,04-01-2017,Ahmd,6289270
+coolers,05-01-2017,Ahmd,1983963
+coolers,06-01-2017,Ahmd,57660
+coolers,07-01-2017,Ahmd,0
+coolers,08-01-2017,Ahmd,0
+coolers,09-01-2017,Ahmd,0
+coolers,10-01-2017,Ahmd,8537
+coolers,11-01-2017,Ahmd,46369
+coolers,12-01-2017,Ahmd,42806
+coolers,01-01-2018,Ahmd,907164
+coolers,02-01-2018,Ahmd,4961494
+coolers,03-01-2018,Ahmd,7403524
+Water Heaters,04-01-2014,Ahmd,13375
+Water Heaters,05-01-2014,Ahmd,155486
+Water Heaters,06-01-2014,Ahmd,510209
+Water Heaters,07-01-2014,Ahmd,996084
+Water Heaters,08-01-2014,Ahmd,826482
+Water Heaters,09-01-2014,Ahmd,844541
+Water Heaters,10-01-2014,Ahmd,2177335
+Water Heaters,11-01-2014,Ahmd,1783714
+Water Heaters,12-01-2014,Ahmd,1851510
+Water Heaters,01-01-2015,Ahmd,601729
+Water Heaters,02-01-2015,Ahmd,164532
+Water Heaters,03-01-2015,Ahmd,101983
+Water Heaters,04-01-2015,Ahmd,18715
+Water Heaters,05-01-2015,Ahmd,217561
+Water Heaters,06-01-2015,Ahmd,713903
+Water Heaters,07-01-2015,Ahmd,1393757
+Water Heaters,08-01-2015,Ahmd,1156444
+Water Heaters,09-01-2015,Ahmd,1181713
+Water Heaters,10-01-2015,Ahmd,3046606
+Water Heaters,11-01-2015,Ahmd,2495837
+Water Heaters,12-01-2015,Ahmd,2590700
+Water Heaters,01-01-2016,Ahmd,841961
+Water Heaters,02-01-2016,Ahmd,230219
+Water Heaters,03-01-2016,Ahmd,142698
+Water Heaters,04-01-2016,Ahmd,48173
+Water Heaters,05-01-2016,Ahmd,560022
+Water Heaters,06-01-2016,Ahmd,1837648
+Water Heaters,07-01-2016,Ahmd,3587652
+Water Heaters,08-01-2016,Ahmd,2976788
+Water Heaters,09-01-2016,Ahmd,3041831
+Water Heaters,10-01-2016,Ahmd,7842229
+Water Heaters,11-01-2016,Ahmd,6424502
+Water Heaters,12-01-2016,Ahmd,6668687
+Water Heaters,01-01-2017,Ahmd,2167280
+Water Heaters,02-01-2017,Ahmd,592605
+Water Heaters,03-01-2017,Ahmd,367317
+Water Heaters,04-01-2017,Ahmd,22283
+Water Heaters,05-01-2017,Ahmd,259041
+Water Heaters,06-01-2017,Ahmd,850013
+Water Heaters,07-01-2017,Ahmd,1659487
+Water Heaters,08-01-2017,Ahmd,1376928
+Water Heaters,09-01-2017,Ahmd,1407014
+Water Heaters,10-01-2017,Ahmd,3627463
+Water Heaters,11-01-2017,Ahmd,2971686
+Water Heaters,12-01-2017,Ahmd,3084635
+Water Heaters,01-01-2018,Ahmd,1002486
+Water Heaters,02-01-2018,Ahmd,274112
+Water Heaters,03-01-2018,Ahmd,169904
+SECF,04-01-2014,Ahmd,32277
+SECF,05-01-2014,Ahmd,46555
+SECF,06-01-2014,Ahmd,35328
+SECF,07-01-2014,Ahmd,44617
+SECF,08-01-2014,Ahmd,47355
+SECF,09-01-2014,Ahmd,56342
+SECF,10-01-2014,Ahmd,52182
+SECF,11-01-2014,Ahmd,26319
+SECF,12-01-2014,Ahmd,49775
+SECF,01-01-2015,Ahmd,48716
+SECF,02-01-2015,Ahmd,39475
+SECF,03-01-2015,Ahmd,60761
+SECF,04-01-2015,Ahmd,57128
+SECF,05-01-2015,Ahmd,68171
+SECF,06-01-2015,Ahmd,38113
+SECF,07-01-2015,Ahmd,62047
+SECF,08-01-2015,Ahmd,58442
+SECF,09-01-2015,Ahmd,59959
+SECF,10-01-2015,Ahmd,85372
+SECF,11-01-2015,Ahmd,46303
+SECF,12-01-2015,Ahmd,67776
+SECF,01-01-2016,Ahmd,50886
+SECF,02-01-2016,Ahmd,51486
+SECF,03-01-2016,Ahmd,96177
+SECF,04-01-2016,Ahmd,280734
+SECF,05-01-2016,Ahmd,172032
+SECF,06-01-2016,Ahmd,97055
+SECF,07-01-2016,Ahmd,182213
+SECF,08-01-2016,Ahmd,196369
+SECF,09-01-2016,Ahmd,250169
+SECF,10-01-2016,Ahmd,254625
+SECF,11-01-2016,Ahmd,107520
+SECF,12-01-2016,Ahmd,142234
+SECF,01-01-2017,Ahmd,192143
+SECF,02-01-2017,Ahmd,177994
+SECF,03-01-2017,Ahmd,277057
+SECF,04-01-2017,Ahmd,370099
+SECF,05-01-2017,Ahmd,627337
+SECF,06-01-2017,Ahmd,69406
+SECF,07-01-2017,Ahmd,84502
+SECF,08-01-2017,Ahmd,132648
+SECF,09-01-2017,Ahmd,191767
+SECF,10-01-2017,Ahmd,159990
+SECF,11-01-2017,Ahmd,64274
+SECF,12-01-2017,Ahmd,82044
+SECF,01-01-2018,Ahmd,84920
+SECF,02-01-2018,Ahmd,347116
+SECF,03-01-2018,Ahmd,397893
+Mixers,04-01-2014,Patna,676722
+Mixers,05-01-2014,Patna,976085
+Mixers,06-01-2014,Patna,740701
+Mixers,07-01-2014,Patna,935446
+Mixers,08-01-2014,Patna,992859
+Mixers,09-01-2014,Patna,1181271
+Mixers,10-01-2014,Patna,1094047
+Mixers,11-01-2014,Patna,551797
+Mixers,12-01-2014,Patna,1043588
+Mixers,01-01-2015,Patna,1021381
+Mixers,02-01-2015,Patna,827642
+Mixers,03-01-2015,Patna,1273913
+Mixers,04-01-2015,Patna,1600010
+Mixers,05-01-2015,Patna,1909322
+Mixers,06-01-2015,Patna,1067461
+Mixers,07-01-2015,Patna,1737786
+Mixers,08-01-2015,Patna,1636816
+Mixers,09-01-2015,Patna,1679317
+Mixers,10-01-2015,Patna,2391067
+Mixers,11-01-2015,Patna,1296846
+Mixers,12-01-2015,Patna,1898234
+Mixers,01-01-2016,Patna,1425207
+Mixers,02-01-2016,Patna,1442008
+Mixers,03-01-2016,Patna,2693682
+Mixers,04-01-2016,Patna,2861757
+Mixers,05-01-2016,Patna,1753664
+Mixers,06-01-2016,Patna,989366
+Mixers,07-01-2016,Patna,1857448
+Mixers,08-01-2016,Patna,2001756
+Mixers,09-01-2016,Patna,2550179
+Mixers,10-01-2016,Patna,2595610
+Mixers,11-01-2016,Patna,1096043
+Mixers,12-01-2016,Patna,1449914
+Mixers,01-01-2017,Patna,1958675
+Mixers,02-01-2017,Patna,1814442
+Mixers,03-01-2017,Patna,2824275
+Mixers,04-01-2017,Patna,944422
+Mixers,05-01-2017,Patna,1856372
+Mixers,06-01-2017,Patna,1576184
+Mixers,07-01-2017,Patna,2395547
+Mixers,08-01-2017,Patna,2828765
+Mixers,09-01-2017,Patna,3163992
+Mixers,10-01-2017,Patna,3375492
+Mixers,11-01-2017,Patna,1127608
+Mixers,12-01-2017,Patna,1871078
+Mixers,01-01-2018,Patna,2720251
+Mixers,02-01-2018,Patna,1018518
+Mixers,03-01-2018,Patna,1683473
+FoodProcessor,04-01-2014,Patna,84821
+FoodProcessor,05-01-2014,Patna,122344
+FoodProcessor,06-01-2014,Patna,92840
+FoodProcessor,07-01-2014,Patna,117250
+FoodProcessor,08-01-2014,Patna,124446
+FoodProcessor,09-01-2014,Patna,148062
+FoodProcessor,10-01-2014,Patna,137129
+FoodProcessor,11-01-2014,Patna,69163
+FoodProcessor,12-01-2014,Patna,130804
+FoodProcessor,01-01-2015,Patna,128021
+FoodProcessor,02-01-2015,Patna,103738
+FoodProcessor,03-01-2015,Patna,159674
+FoodProcessor,04-01-2015,Patna,90324
+FoodProcessor,05-01-2015,Patna,107785
+FoodProcessor,06-01-2015,Patna,60260
+FoodProcessor,07-01-2015,Patna,98101
+FoodProcessor,08-01-2015,Patna,92401
+FoodProcessor,09-01-2015,Patna,94801
+FoodProcessor,10-01-2015,Patna,134980
+FoodProcessor,11-01-2015,Patna,73209
+FoodProcessor,12-01-2015,Patna,107159
+FoodProcessor,01-01-2016,Patna,80456
+FoodProcessor,02-01-2016,Patna,81404
+FoodProcessor,03-01-2016,Patna,152064
+FoodProcessor,04-01-2016,Patna,103322
+FoodProcessor,05-01-2016,Patna,63315
+FoodProcessor,06-01-2016,Patna,35720
+FoodProcessor,07-01-2016,Patna,67062
+FoodProcessor,08-01-2016,Patna,72272
+FoodProcessor,09-01-2016,Patna,92073
+FoodProcessor,10-01-2016,Patna,93713
+FoodProcessor,11-01-2016,Patna,39572
+FoodProcessor,12-01-2016,Patna,52348
+FoodProcessor,01-01-2017,Patna,70717
+FoodProcessor,02-01-2017,Patna,65509
+FoodProcessor,03-01-2017,Patna,101969
+FoodProcessor,04-01-2017,Patna,50610
+FoodProcessor,05-01-2017,Patna,118158
+FoodProcessor,06-01-2017,Patna,94801
+FoodProcessor,07-01-2017,Patna,106207
+FoodProcessor,08-01-2017,Patna,109416
+FoodProcessor,09-01-2017,Patna,120342
+FoodProcessor,10-01-2017,Patna,94171
+FoodProcessor,11-01-2017,Patna,44463
+FoodProcessor,12-01-2017,Patna,47751
+FoodProcessor,01-01-2018,Patna,73486
+FoodProcessor,02-01-2018,Patna,52490
+FoodProcessor,03-01-2018,Patna,73675
+Induction cookers,04-01-2014,Patna,187138
+Induction cookers,05-01-2014,Patna,269923
+Induction cookers,06-01-2014,Patna,204831
+Induction cookers,07-01-2014,Patna,258685
+Induction cookers,08-01-2014,Patna,274562
+Induction cookers,09-01-2014,Patna,326664
+Induction cookers,10-01-2014,Patna,302544
+Induction cookers,11-01-2014,Patna,152592
+Induction cookers,12-01-2014,Patna,288590
+Induction cookers,01-01-2015,Patna,282449
+Induction cookers,02-01-2015,Patna,228873
+Induction cookers,03-01-2015,Patna,352283
+Induction cookers,04-01-2015,Patna,273815
+Induction cookers,05-01-2015,Patna,326749
+Induction cookers,06-01-2015,Patna,182678
+Induction cookers,07-01-2015,Patna,297393
+Induction cookers,08-01-2015,Patna,280114
+Induction cookers,09-01-2015,Patna,287387
+Induction cookers,10-01-2015,Patna,409192
+Induction cookers,11-01-2015,Patna,221934
+Induction cookers,12-01-2015,Patna,324851
+Induction cookers,01-01-2016,Patna,243901
+Induction cookers,02-01-2016,Patna,246776
+Induction cookers,03-01-2016,Patna,460979
+Induction cookers,04-01-2016,Patna,236450
+Induction cookers,05-01-2016,Patna,144895
+Induction cookers,06-01-2016,Patna,81745
+Induction cookers,07-01-2016,Patna,153470
+Induction cookers,08-01-2016,Patna,165393
+Induction cookers,09-01-2016,Patna,210706
+Induction cookers,10-01-2016,Patna,214460
+Induction cookers,11-01-2016,Patna,90559
+Induction cookers,12-01-2016,Patna,119798
+Induction cookers,01-01-2017,Patna,161834
+Induction cookers,02-01-2017,Patna,149916
+Induction cookers,03-01-2017,Patna,233353
+Induction cookers,04-01-2017,Patna,242804
+Induction cookers,05-01-2017,Patna,380024
+Induction cookers,06-01-2017,Patna,333989
+Induction cookers,07-01-2017,Patna,593901
+Induction cookers,08-01-2017,Patna,517791
+Induction cookers,09-01-2017,Patna,620642
+Induction cookers,10-01-2017,Patna,685142
+Induction cookers,11-01-2017,Patna,319202
+Induction cookers,12-01-2017,Patna,461866
+Induction cookers,01-01-2018,Patna,421884
+Induction cookers,02-01-2018,Patna,321398
+Induction cookers,03-01-2018,Patna,432671
+Gas Stove,04-01-2014,Patna,14611
+Gas Stove,05-01-2014,Patna,21075
+Gas Stove,06-01-2014,Patna,15993
+Gas Stove,07-01-2014,Patna,20197
+Gas Stove,08-01-2014,Patna,21437
+Gas Stove,09-01-2014,Patna,25505
+Gas Stove,10-01-2014,Patna,23622
+Gas Stove,11-01-2014,Patna,11914
+Gas Stove,12-01-2014,Patna,22532
+Gas Stove,01-01-2015,Patna,22053
+Gas Stove,02-01-2015,Patna,17870
+Gas Stove,03-01-2015,Patna,27505
+Gas Stove,04-01-2015,Patna,82012
+Gas Stove,05-01-2015,Patna,97866
+Gas Stove,06-01-2015,Patna,54715
+Gas Stove,07-01-2015,Patna,89074
+Gas Stove,08-01-2015,Patna,83898
+Gas Stove,09-01-2015,Patna,86077
+Gas Stove,10-01-2015,Patna,122559
+Gas Stove,11-01-2015,Patna,66473
+Gas Stove,12-01-2015,Patna,97298
+Gas Stove,01-01-2016,Patna,73052
+Gas Stove,02-01-2016,Patna,73913
+Gas Stove,03-01-2016,Patna,138070
+Gas Stove,04-01-2016,Patna,145825
+Gas Stove,05-01-2016,Patna,89361
+Gas Stove,06-01-2016,Patna,50415
+Gas Stove,07-01-2016,Patna,94649
+Gas Stove,08-01-2016,Patna,102003
+Gas Stove,09-01-2016,Patna,129948
+Gas Stove,10-01-2016,Patna,132263
+Gas Stove,11-01-2016,Patna,55851
+Gas Stove,12-01-2016,Patna,73883
+Gas Stove,01-01-2017,Patna,99807
+Gas Stove,02-01-2017,Patna,92458
+Gas Stove,03-01-2017,Patna,143915
+Gas Stove,04-01-2017,Patna,32373
+Gas Stove,05-01-2017,Patna,89891
+Gas Stove,06-01-2017,Patna,121808
+Gas Stove,07-01-2017,Patna,189858
+Gas Stove,08-01-2017,Patna,278274
+Gas Stove,09-01-2017,Patna,184299
+Gas Stove,10-01-2017,Patna,139089
+Gas Stove,11-01-2017,Patna,95724
+Gas Stove,12-01-2017,Patna,132772
+Gas Stove,01-01-2018,Patna,187613
+Gas Stove,02-01-2018,Patna,90943
+Gas Stove,03-01-2018,Patna,68662
+Oven Toaster Grill,04-01-2014,Patna,39296
+Oven Toaster Grill,05-01-2014,Patna,56680
+Oven Toaster Grill,06-01-2014,Patna,43012
+Oven Toaster Grill,07-01-2014,Patna,54320
+Oven Toaster Grill,08-01-2014,Patna,57654
+Oven Toaster Grill,09-01-2014,Patna,68595
+Oven Toaster Grill,10-01-2014,Patna,63530
+Oven Toaster Grill,11-01-2014,Patna,32042
+Oven Toaster Grill,12-01-2014,Patna,60600
+Oven Toaster Grill,01-01-2015,Patna,59310
+Oven Toaster Grill,02-01-2015,Patna,48060
+Oven Toaster Grill,03-01-2015,Patna,73975
+Oven Toaster Grill,04-01-2015,Patna,52701
+Oven Toaster Grill,05-01-2015,Patna,62889
+Oven Toaster Grill,06-01-2015,Patna,35160
+Oven Toaster Grill,07-01-2015,Patna,57239
+Oven Toaster Grill,08-01-2015,Patna,53913
+Oven Toaster Grill,09-01-2015,Patna,55313
+Oven Toaster Grill,10-01-2015,Patna,78757
+Oven Toaster Grill,11-01-2015,Patna,42715
+Oven Toaster Grill,12-01-2015,Patna,62524
+Oven Toaster Grill,01-01-2016,Patna,46943
+Oven Toaster Grill,02-01-2016,Patna,47497
+Oven Toaster Grill,03-01-2016,Patna,88724
+Oven Toaster Grill,04-01-2016,Patna,94655
+Oven Toaster Grill,05-01-2016,Patna,58004
+Oven Toaster Grill,06-01-2016,Patna,32724
+Oven Toaster Grill,07-01-2016,Patna,61437
+Oven Toaster Grill,08-01-2016,Patna,66210
+Oven Toaster Grill,09-01-2016,Patna,84349
+Oven Toaster Grill,10-01-2016,Patna,85852
+Oven Toaster Grill,11-01-2016,Patna,36253
+Oven Toaster Grill,12-01-2016,Patna,47957
+Oven Toaster Grill,01-01-2017,Patna,64785
+Oven Toaster Grill,02-01-2017,Patna,60014
+Oven Toaster Grill,03-01-2017,Patna,93415
+Oven Toaster Grill,04-01-2017,Patna,35546
+Oven Toaster Grill,05-01-2017,Patna,140609
+Oven Toaster Grill,06-01-2017,Patna,106608
+Oven Toaster Grill,07-01-2017,Patna,116222
+Oven Toaster Grill,08-01-2017,Patna,121282
+Oven Toaster Grill,09-01-2017,Patna,155081
+Oven Toaster Grill,10-01-2017,Patna,205430
+Oven Toaster Grill,11-01-2017,Patna,52435
+Oven Toaster Grill,12-01-2017,Patna,179304
+Oven Toaster Grill,01-01-2018,Patna,145641
+Oven Toaster Grill,02-01-2018,Patna,70934
+Oven Toaster Grill,03-01-2018,Patna,91872
+Dry Iron,04-01-2014,Patna,47542
+Dry Iron,05-01-2014,Patna,68573
+Dry Iron,06-01-2014,Patna,52036
+Dry Iron,07-01-2014,Patna,65718
+Dry Iron,08-01-2014,Patna,69751
+Dry Iron,09-01-2014,Patna,82988
+Dry Iron,10-01-2014,Patna,76860
+Dry Iron,11-01-2014,Patna,38765
+Dry Iron,12-01-2014,Patna,73315
+Dry Iron,01-01-2015,Patna,71755
+Dry Iron,02-01-2015,Patna,58144
+Dry Iron,03-01-2015,Patna,89496
+Dry Iron,04-01-2015,Patna,72786
+Dry Iron,05-01-2015,Patna,86857
+Dry Iron,06-01-2015,Patna,48560
+Dry Iron,07-01-2015,Patna,79054
+Dry Iron,08-01-2015,Patna,74460
+Dry Iron,09-01-2015,Patna,76394
+Dry Iron,10-01-2015,Patna,108772
+Dry Iron,11-01-2015,Patna,58995
+Dry Iron,12-01-2015,Patna,86352
+Dry Iron,01-01-2016,Patna,64834
+Dry Iron,02-01-2016,Patna,65598
+Dry Iron,03-01-2016,Patna,122538
+Dry Iron,04-01-2016,Patna,248206
+Dry Iron,05-01-2016,Patna,152099
+Dry Iron,06-01-2016,Patna,85810
+Dry Iron,07-01-2016,Patna,161101
+Dry Iron,08-01-2016,Patna,173617
+Dry Iron,09-01-2016,Patna,221183
+Dry Iron,10-01-2016,Patna,225123
+Dry Iron,11-01-2016,Patna,95062
+Dry Iron,12-01-2016,Patna,125754
+Dry Iron,01-01-2017,Patna,169880
+Dry Iron,02-01-2017,Patna,157371
+Dry Iron,03-01-2017,Patna,244956
+Dry Iron,04-01-2017,Patna,166945
+Dry Iron,05-01-2017,Patna,396149
+Dry Iron,06-01-2017,Patna,449423
+Dry Iron,07-01-2017,Patna,495826
+Dry Iron,08-01-2017,Patna,501041
+Dry Iron,09-01-2017,Patna,681007
+Dry Iron,10-01-2017,Patna,839217
+Dry Iron,11-01-2017,Patna,207487
+Dry Iron,12-01-2017,Patna,391759
+Dry Iron,01-01-2018,Patna,417163
+Dry Iron,02-01-2018,Patna,252111
+Dry Iron,03-01-2018,Patna,403495
+Steam Iron,04-01-2014,Patna,78105
+Steam Iron,05-01-2014,Patna,112656
+Steam Iron,06-01-2014,Patna,85489
+Steam Iron,07-01-2014,Patna,107966
+Steam Iron,08-01-2014,Patna,114592
+Steam Iron,09-01-2014,Patna,136338
+Steam Iron,10-01-2014,Patna,126271
+Steam Iron,11-01-2014,Patna,63686
+Steam Iron,12-01-2014,Patna,120447
+Steam Iron,01-01-2015,Patna,117884
+Steam Iron,02-01-2015,Patna,95523
+Steam Iron,03-01-2015,Patna,147030
+Steam Iron,04-01-2015,Patna,81878
+Steam Iron,05-01-2015,Patna,97707
+Steam Iron,06-01-2015,Patna,54626
+Steam Iron,07-01-2015,Patna,88929
+Steam Iron,08-01-2015,Patna,83762
+Steam Iron,09-01-2015,Patna,85936
+Steam Iron,10-01-2015,Patna,122359
+Steam Iron,11-01-2015,Patna,66364
+Steam Iron,12-01-2015,Patna,97139
+Steam Iron,01-01-2016,Patna,72933
+Steam Iron,02-01-2016,Patna,73793
+Steam Iron,03-01-2016,Patna,137845
+Steam Iron,04-01-2016,Patna,116451
+Steam Iron,05-01-2016,Patna,71361
+Steam Iron,06-01-2016,Patna,40260
+Steam Iron,07-01-2016,Patna,75584
+Steam Iron,08-01-2016,Patna,81456
+Steam Iron,09-01-2016,Patna,103773
+Steam Iron,10-01-2016,Patna,105621
+Steam Iron,11-01-2016,Patna,44600
+Steam Iron,12-01-2016,Patna,59000
+Steam Iron,01-01-2017,Patna,79703
+Steam Iron,02-01-2017,Patna,73834
+Steam Iron,03-01-2017,Patna,114926
+Steam Iron,04-01-2017,Patna,56670
+Steam Iron,05-01-2017,Patna,103287
+Steam Iron,06-01-2017,Patna,130197
+Steam Iron,07-01-2017,Patna,159965
+Steam Iron,08-01-2017,Patna,126875
+Steam Iron,09-01-2017,Patna,183309
+Steam Iron,10-01-2017,Patna,181611
+Steam Iron,11-01-2017,Patna,50425
+Steam Iron,12-01-2017,Patna,113877
+Steam Iron,01-01-2018,Patna,105433
+Steam Iron,02-01-2018,Patna,67371
+Steam Iron,03-01-2018,Patna,100578
+coolers,04-01-2014,Patna,265898
+coolers,05-01-2014,Patna,83878
+coolers,06-01-2014,Patna,2438
+coolers,07-01-2014,Patna,0
+coolers,08-01-2014,Patna,0
+coolers,09-01-2014,Patna,0
+coolers,10-01-2014,Patna,361
+coolers,11-01-2014,Patna,1960
+coolers,12-01-2014,Patna,1810
+coolers,01-01-2015,Patna,38353
+coolers,02-01-2015,Patna,209763
+coolers,03-01-2015,Patna,313007
+coolers,04-01-2015,Patna,190408
+coolers,05-01-2015,Patna,60065
+coolers,06-01-2015,Patna,1746
+coolers,07-01-2015,Patna,0
+coolers,08-01-2015,Patna,0
+coolers,09-01-2015,Patna,0
+coolers,10-01-2015,Patna,258
+coolers,11-01-2015,Patna,1404
+coolers,12-01-2015,Patna,1296
+coolers,01-01-2016,Patna,27464
+coolers,02-01-2016,Patna,150209
+coolers,03-01-2016,Patna,224142
+coolers,04-01-2016,Patna,772313
+coolers,05-01-2016,Patna,243628
+coolers,06-01-2016,Patna,7081
+coolers,07-01-2016,Patna,0
+coolers,08-01-2016,Patna,0
+coolers,09-01-2016,Patna,0
+coolers,10-01-2016,Patna,1048
+coolers,11-01-2016,Patna,5694
+coolers,12-01-2016,Patna,5256
+coolers,01-01-2017,Patna,111398
+coolers,02-01-2017,Patna,609264
+coolers,03-01-2017,Patna,909141
+coolers,04-01-2017,Patna,4119217
+coolers,05-01-2017,Patna,1299415
+coolers,06-01-2017,Patna,37765
+coolers,07-01-2017,Patna,0
+coolers,08-01-2017,Patna,0
+coolers,09-01-2017,Patna,0
+coolers,10-01-2017,Patna,5592
+coolers,11-01-2017,Patna,30370
+coolers,12-01-2017,Patna,28036
+coolers,01-01-2018,Patna,594156
+coolers,02-01-2018,Patna,3249578
+coolers,03-01-2018,Patna,4849008
+Water Heaters,04-01-2014,Patna,1921
+Water Heaters,05-01-2014,Patna,22334
+Water Heaters,06-01-2014,Patna,73288
+Water Heaters,07-01-2014,Patna,143080
+Water Heaters,08-01-2014,Patna,118718
+Water Heaters,09-01-2014,Patna,121312
+Water Heaters,10-01-2014,Patna,312759
+Water Heaters,11-01-2014,Patna,256218
+Water Heaters,12-01-2014,Patna,265956
+Water Heaters,01-01-2015,Patna,86434
+Water Heaters,02-01-2015,Patna,23634
+Water Heaters,03-01-2015,Patna,14649
+Water Heaters,04-01-2015,Patna,2460
+Water Heaters,05-01-2015,Patna,28595
+Water Heaters,06-01-2015,Patna,93832
+Water Heaters,07-01-2015,Patna,183188
+Water Heaters,08-01-2015,Patna,151997
+Water Heaters,09-01-2015,Patna,155318
+Water Heaters,10-01-2015,Patna,400429
+Water Heaters,11-01-2015,Patna,328039
+Water Heaters,12-01-2015,Patna,340508
+Water Heaters,01-01-2016,Patna,110663
+Water Heaters,02-01-2016,Patna,30259
+Water Heaters,03-01-2016,Patna,18755
+Water Heaters,04-01-2016,Patna,5155
+Water Heaters,05-01-2016,Patna,59923
+Water Heaters,06-01-2016,Patna,196631
+Water Heaters,07-01-2016,Patna,383883
+Water Heaters,08-01-2016,Patna,318520
+Water Heaters,09-01-2016,Patna,325480
+Water Heaters,10-01-2016,Patna,839129
+Water Heaters,11-01-2016,Patna,687430
+Water Heaters,12-01-2016,Patna,713558
+Water Heaters,01-01-2017,Patna,231902
+Water Heaters,02-01-2017,Patna,63409
+Water Heaters,03-01-2017,Patna,39303
+Water Heaters,04-01-2017,Patna,25203
+Water Heaters,05-01-2017,Patna,292987
+Water Heaters,06-01-2017,Patna,961404
+Water Heaters,07-01-2017,Patna,1876956
+Water Heaters,08-01-2017,Patna,1557370
+Water Heaters,09-01-2017,Patna,1591398
+Water Heaters,10-01-2017,Patna,4102828
+Water Heaters,11-01-2017,Patna,3361114
+Water Heaters,12-01-2017,Patna,3488865
+Water Heaters,01-01-2018,Patna,1133859
+Water Heaters,02-01-2018,Patna,310034
+Water Heaters,03-01-2018,Patna,192170
+SECF,04-01-2014,Patna,2109
+SECF,05-01-2014,Patna,3043
+SECF,06-01-2014,Patna,2309
+SECF,07-01-2014,Patna,2916
+SECF,08-01-2014,Patna,3095
+SECF,09-01-2014,Patna,3682
+SECF,10-01-2014,Patna,3410
+SECF,11-01-2014,Patna,1720
+SECF,12-01-2014,Patna,3253
+SECF,01-01-2015,Patna,3184
+SECF,02-01-2015,Patna,2580
+SECF,03-01-2015,Patna,3971
+SECF,04-01-2015,Patna,8758
+SECF,05-01-2015,Patna,10451
+SECF,06-01-2015,Patna,5843
+SECF,07-01-2015,Patna,9512
+SECF,08-01-2015,Patna,8959
+SECF,09-01-2015,Patna,9192
+SECF,10-01-2015,Patna,13087
+SECF,11-01-2015,Patna,7098
+SECF,12-01-2015,Patna,10390
+SECF,01-01-2016,Patna,7801
+SECF,02-01-2016,Patna,7893
+SECF,03-01-2016,Patna,14744
+SECF,04-01-2016,Patna,27755
+SECF,05-01-2016,Patna,17008
+SECF,06-01-2016,Patna,9595
+SECF,07-01-2016,Patna,18015
+SECF,08-01-2016,Patna,19414
+SECF,09-01-2016,Patna,24733
+SECF,10-01-2016,Patna,25174
+SECF,11-01-2016,Patna,10630
+SECF,12-01-2016,Patna,14062
+SECF,01-01-2017,Patna,18996
+SECF,02-01-2017,Patna,17598
+SECF,03-01-2017,Patna,27392
+SECF,04-01-2017,Patna,53379
+SECF,05-01-2017,Patna,90481
+SECF,06-01-2017,Patna,10010
+SECF,07-01-2017,Patna,12188
+SECF,08-01-2017,Patna,19132
+SECF,09-01-2017,Patna,27659
+SECF,10-01-2017,Patna,23075
+SECF,11-01-2017,Patna,9270
+SECF,12-01-2017,Patna,11833
+SECF,01-01-2018,Patna,12248
+SECF,02-01-2018,Patna,50065
+SECF,03-01-2018,Patna,57388
+Mixers,04-01-2014,Pune,1034517
+Mixers,05-01-2014,Pune,1492157
+Mixers,06-01-2014,Pune,1132323
+Mixers,07-01-2014,Pune,1430033
+Mixers,08-01-2014,Pune,1517802
+Mixers,09-01-2014,Pune,1805830
+Mixers,10-01-2014,Pune,1672489
+Mixers,11-01-2014,Pune,843542
+Mixers,12-01-2014,Pune,1595351
+Mixers,01-01-2015,Pune,1561402
+Mixers,02-01-2015,Pune,1265231
+Mixers,03-01-2015,Pune,1947453
+Mixers,04-01-2015,Pune,1491541
+Mixers,05-01-2015,Pune,1779884
+Mixers,06-01-2015,Pune,995095
+Mixers,07-01-2015,Pune,1619977
+Mixers,08-01-2015,Pune,1525852
+Mixers,09-01-2015,Pune,1565472
+Mixers,10-01-2015,Pune,2228971
+Mixers,11-01-2015,Pune,1208930
+Mixers,12-01-2015,Pune,1769548
+Mixers,01-01-2016,Pune,1328589
+Mixers,02-01-2016,Pune,1344250
+Mixers,03-01-2016,Pune,2511070
+Mixers,04-01-2016,Pune,2165919
+Mixers,05-01-2016,Pune,1327260
+Mixers,06-01-2016,Pune,748801
+Mixers,07-01-2016,Pune,1405808
+Mixers,08-01-2016,Pune,1515028
+Mixers,09-01-2016,Pune,1930101
+Mixers,10-01-2016,Pune,1964485
+Mixers,11-01-2016,Pune,829539
+Mixers,12-01-2016,Pune,1097366
+Mixers,01-01-2017,Pune,1482421
+Mixers,02-01-2017,Pune,1373259
+Mixers,03-01-2017,Pune,2137550
+Mixers,04-01-2017,Pune,419586
+Mixers,05-01-2017,Pune,824746
+Mixers,06-01-2017,Pune,700265
+Mixers,07-01-2017,Pune,1064290
+Mixers,08-01-2017,Pune,1256760
+Mixers,09-01-2017,Pune,1405694
+Mixers,10-01-2017,Pune,1499658
+Mixers,11-01-2017,Pune,500972
+Mixers,12-01-2017,Pune,831280
+Mixers,01-01-2018,Pune,1208549
+Mixers,02-01-2018,Pune,452506
+Mixers,03-01-2018,Pune,747931
+FoodProcessor,04-01-2014,Pune,552815
+FoodProcessor,05-01-2014,Pune,797364
+FoodProcessor,06-01-2014,Pune,605079
+FoodProcessor,07-01-2014,Pune,764167
+FoodProcessor,08-01-2014,Pune,811068
+FoodProcessor,09-01-2014,Pune,964982
+FoodProcessor,10-01-2014,Pune,893728
+FoodProcessor,11-01-2014,Pune,450763
+FoodProcessor,12-01-2014,Pune,852508
+FoodProcessor,01-01-2015,Pune,834367
+FoodProcessor,02-01-2015,Pune,676102
+FoodProcessor,03-01-2015,Pune,1040661
+FoodProcessor,04-01-2015,Pune,645611
+FoodProcessor,05-01-2015,Pune,770420
+FoodProcessor,06-01-2015,Pune,430726
+FoodProcessor,07-01-2015,Pune,701205
+FoodProcessor,08-01-2015,Pune,660463
+FoodProcessor,09-01-2015,Pune,677612
+FoodProcessor,10-01-2015,Pune,964807
+FoodProcessor,11-01-2015,Pune,523284
+FoodProcessor,12-01-2015,Pune,765946
+FoodProcessor,01-01-2016,Pune,575078
+FoodProcessor,02-01-2016,Pune,581857
+FoodProcessor,03-01-2016,Pune,1086913
+FoodProcessor,04-01-2016,Pune,919472
+FoodProcessor,05-01-2016,Pune,563446
+FoodProcessor,06-01-2016,Pune,317880
+FoodProcessor,07-01-2016,Pune,596791
+FoodProcessor,08-01-2016,Pune,643157
+FoodProcessor,09-01-2016,Pune,819363
+FoodProcessor,10-01-2016,Pune,833960
+FoodProcessor,11-01-2016,Pune,352154
+FoodProcessor,12-01-2016,Pune,465852
+FoodProcessor,01-01-2017,Pune,629315
+FoodProcessor,02-01-2017,Pune,582973
+FoodProcessor,03-01-2017,Pune,907429
+FoodProcessor,04-01-2017,Pune,388545
+FoodProcessor,05-01-2017,Pune,907135
+FoodProcessor,06-01-2017,Pune,727818
+FoodProcessor,07-01-2017,Pune,815380
+FoodProcessor,08-01-2017,Pune,840022
+FoodProcessor,09-01-2017,Pune,923900
+FoodProcessor,10-01-2017,Pune,722977
+FoodProcessor,11-01-2017,Pune,341359
+FoodProcessor,12-01-2017,Pune,366596
+FoodProcessor,01-01-2018,Pune,564170
+FoodProcessor,02-01-2018,Pune,402982
+FoodProcessor,03-01-2018,Pune,565621
+Induction cookers,04-01-2014,Pune,451939
+Induction cookers,05-01-2014,Pune,651864
+Induction cookers,06-01-2014,Pune,494667
+Induction cookers,07-01-2014,Pune,624725
+Induction cookers,08-01-2014,Pune,663067
+Induction cookers,09-01-2014,Pune,788895
+Induction cookers,10-01-2014,Pune,730644
+Induction cookers,11-01-2014,Pune,368510
+Induction cookers,12-01-2014,Pune,696945
+Induction cookers,01-01-2015,Pune,682114
+Induction cookers,02-01-2015,Pune,552729
+Induction cookers,03-01-2015,Pune,850765
+Induction cookers,04-01-2015,Pune,709065
+Induction cookers,05-01-2015,Pune,846141
+Induction cookers,06-01-2015,Pune,473059
+Induction cookers,07-01-2015,Pune,770123
+Induction cookers,08-01-2015,Pune,725376
+Induction cookers,09-01-2015,Pune,744211
+Induction cookers,10-01-2015,Pune,1059633
+Induction cookers,11-01-2015,Pune,574714
+Induction cookers,12-01-2015,Pune,841227
+Induction cookers,01-01-2016,Pune,631599
+Induction cookers,02-01-2016,Pune,639044
+Induction cookers,03-01-2016,Pune,1193740
+Induction cookers,04-01-2016,Pune,941294
+Induction cookers,05-01-2016,Pune,576818
+Induction cookers,06-01-2016,Pune,325424
+Induction cookers,07-01-2016,Pune,610955
+Induction cookers,08-01-2016,Pune,658421
+Induction cookers,09-01-2016,Pune,838809
+Induction cookers,10-01-2016,Pune,853752
+Induction cookers,11-01-2016,Pune,360512
+Induction cookers,12-01-2016,Pune,476908
+Induction cookers,01-01-2017,Pune,644250
+Induction cookers,02-01-2017,Pune,596809
+Induction cookers,03-01-2017,Pune,928965
+Induction cookers,04-01-2017,Pune,161076
+Induction cookers,05-01-2017,Pune,252108
+Induction cookers,06-01-2017,Pune,221568
+Induction cookers,07-01-2017,Pune,393994
+Induction cookers,08-01-2017,Pune,343503
+Induction cookers,09-01-2017,Pune,411734
+Induction cookers,10-01-2017,Pune,454523
+Induction cookers,11-01-2017,Pune,211759
+Induction cookers,12-01-2017,Pune,306402
+Induction cookers,01-01-2018,Pune,279878
+Induction cookers,02-01-2018,Pune,213215
+Induction cookers,03-01-2018,Pune,287034
+Gas Stove,04-01-2014,Pune,25494
+Gas Stove,05-01-2014,Pune,36771
+Gas Stove,06-01-2014,Pune,27904
+Gas Stove,07-01-2014,Pune,35240
+Gas Stove,08-01-2014,Pune,37403
+Gas Stove,09-01-2014,Pune,44501
+Gas Stove,10-01-2014,Pune,41215
+Gas Stove,11-01-2014,Pune,20787
+Gas Stove,12-01-2014,Pune,39314
+Gas Stove,01-01-2015,Pune,38478
+Gas Stove,02-01-2015,Pune,31179
+Gas Stove,03-01-2015,Pune,47991
+Gas Stove,04-01-2015,Pune,92148
+Gas Stove,05-01-2015,Pune,109962
+Gas Stove,06-01-2015,Pune,61477
+Gas Stove,07-01-2015,Pune,100083
+Gas Stove,08-01-2015,Pune,94268
+Gas Stove,09-01-2015,Pune,96715
+Gas Stove,10-01-2015,Pune,137706
+Gas Stove,11-01-2015,Pune,74688
+Gas Stove,12-01-2015,Pune,109323
+Gas Stove,01-01-2016,Pune,82081
+Gas Stove,02-01-2016,Pune,83048
+Gas Stove,03-01-2016,Pune,155135
+Gas Stove,04-01-2016,Pune,184466
+Gas Stove,05-01-2016,Pune,113039
+Gas Stove,06-01-2016,Pune,63773
+Gas Stove,07-01-2016,Pune,119729
+Gas Stove,08-01-2016,Pune,129031
+Gas Stove,09-01-2016,Pune,164382
+Gas Stove,10-01-2016,Pune,167310
+Gas Stove,11-01-2016,Pune,70650
+Gas Stove,12-01-2016,Pune,93460
+Gas Stove,01-01-2017,Pune,126254
+Gas Stove,02-01-2017,Pune,116957
+Gas Stove,03-01-2017,Pune,182050
+Gas Stove,04-01-2017,Pune,34029
+Gas Stove,05-01-2017,Pune,94491
+Gas Stove,06-01-2017,Pune,128041
+Gas Stove,07-01-2017,Pune,199573
+Gas Stove,08-01-2017,Pune,292514
+Gas Stove,09-01-2017,Pune,193730
+Gas Stove,10-01-2017,Pune,146207
+Gas Stove,11-01-2017,Pune,100623
+Gas Stove,12-01-2017,Pune,139566
+Gas Stove,01-01-2018,Pune,197213
+Gas Stove,02-01-2018,Pune,95597
+Gas Stove,03-01-2018,Pune,72175
+Oven Toaster Grill,04-01-2014,Pune,145727
+Oven Toaster Grill,05-01-2014,Pune,210193
+Oven Toaster Grill,06-01-2014,Pune,159505
+Oven Toaster Grill,07-01-2014,Pune,201441
+Oven Toaster Grill,08-01-2014,Pune,213805
+Oven Toaster Grill,09-01-2014,Pune,254378
+Oven Toaster Grill,10-01-2014,Pune,235595
+Oven Toaster Grill,11-01-2014,Pune,118825
+Oven Toaster Grill,12-01-2014,Pune,224729
+Oven Toaster Grill,01-01-2015,Pune,219947
+Oven Toaster Grill,02-01-2015,Pune,178227
+Oven Toaster Grill,03-01-2015,Pune,274328
+Oven Toaster Grill,04-01-2015,Pune,166724
+Oven Toaster Grill,05-01-2015,Pune,198955
+Oven Toaster Grill,06-01-2015,Pune,111232
+Oven Toaster Grill,07-01-2015,Pune,181081
+Oven Toaster Grill,08-01-2015,Pune,170559
+Oven Toaster Grill,09-01-2015,Pune,174988
+Oven Toaster Grill,10-01-2015,Pune,249154
+Oven Toaster Grill,11-01-2015,Pune,135134
+Oven Toaster Grill,12-01-2015,Pune,197800
+Oven Toaster Grill,01-01-2016,Pune,148509
+Oven Toaster Grill,02-01-2016,Pune,150260
+Oven Toaster Grill,03-01-2016,Pune,280687
+Oven Toaster Grill,04-01-2016,Pune,337212
+Oven Toaster Grill,05-01-2016,Pune,206641
+Oven Toaster Grill,06-01-2016,Pune,116581
+Oven Toaster Grill,07-01-2016,Pune,218870
+Oven Toaster Grill,08-01-2016,Pune,235874
+Oven Toaster Grill,09-01-2016,Pune,300497
+Oven Toaster Grill,10-01-2016,Pune,305850
+Oven Toaster Grill,11-01-2016,Pune,129151
+Oven Toaster Grill,12-01-2016,Pune,170849
+Oven Toaster Grill,01-01-2017,Pune,230798
+Oven Toaster Grill,02-01-2017,Pune,213803
+Oven Toaster Grill,03-01-2017,Pune,332795
+Oven Toaster Grill,04-01-2017,Pune,86304
+Oven Toaster Grill,05-01-2017,Pune,341390
+Oven Toaster Grill,06-01-2017,Pune,258837
+Oven Toaster Grill,07-01-2017,Pune,282178
+Oven Toaster Grill,08-01-2017,Pune,294465
+Oven Toaster Grill,09-01-2017,Pune,376527
+Oven Toaster Grill,10-01-2017,Pune,498771
+Oven Toaster Grill,11-01-2017,Pune,127308
+Oven Toaster Grill,12-01-2017,Pune,435337
+Oven Toaster Grill,01-01-2018,Pune,353606
+Oven Toaster Grill,02-01-2018,Pune,172223
+Oven Toaster Grill,03-01-2018,Pune,223059
+Dry Iron,04-01-2014,Pune,292377
+Dry Iron,05-01-2014,Pune,421716
+Dry Iron,06-01-2014,Pune,320019
+Dry Iron,07-01-2014,Pune,404159
+Dry Iron,08-01-2014,Pune,428964
+Dry Iron,09-01-2014,Pune,510367
+Dry Iron,10-01-2014,Pune,472682
+Dry Iron,11-01-2014,Pune,238403
+Dry Iron,12-01-2014,Pune,450881
+Dry Iron,01-01-2015,Pune,441286
+Dry Iron,02-01-2015,Pune,357582
+Dry Iron,03-01-2015,Pune,550393
+Dry Iron,04-01-2015,Pune,682966
+Dry Iron,05-01-2015,Pune,814996
+Dry Iron,06-01-2015,Pune,455647
+Dry Iron,07-01-2015,Pune,741776
+Dry Iron,08-01-2015,Pune,698677
+Dry Iron,09-01-2015,Pune,716818
+Dry Iron,10-01-2015,Pune,1020629
+Dry Iron,11-01-2015,Pune,553560
+Dry Iron,12-01-2015,Pune,810263
+Dry Iron,01-01-2016,Pune,608351
+Dry Iron,02-01-2016,Pune,615522
+Dry Iron,03-01-2016,Pune,1149801
+Dry Iron,04-01-2016,Pune,1284011
+Dry Iron,05-01-2016,Pune,786833
+Dry Iron,06-01-2016,Pune,443908
+Dry Iron,07-01-2016,Pune,833398
+Dry Iron,08-01-2016,Pune,898146
+Dry Iron,09-01-2016,Pune,1144212
+Dry Iron,10-01-2016,Pune,1164596
+Dry Iron,11-01-2016,Pune,491771
+Dry Iron,12-01-2016,Pune,650546
+Dry Iron,01-01-2017,Pune,878816
+Dry Iron,02-01-2017,Pune,814102
+Dry Iron,03-01-2017,Pune,1267193
+Dry Iron,04-01-2017,Pune,58900
+Dry Iron,05-01-2017,Pune,139766
+Dry Iron,06-01-2017,Pune,158562
+Dry Iron,07-01-2017,Pune,174933
+Dry Iron,08-01-2017,Pune,176773
+Dry Iron,09-01-2017,Pune,240267
+Dry Iron,10-01-2017,Pune,296086
+Dry Iron,11-01-2017,Pune,73204
+Dry Iron,12-01-2017,Pune,138217
+Dry Iron,01-01-2018,Pune,147180
+Dry Iron,02-01-2018,Pune,88948
+Dry Iron,03-01-2018,Pune,142358
+Steam Iron,04-01-2014,Pune,380020
+Steam Iron,05-01-2014,Pune,548130
+Steam Iron,06-01-2014,Pune,415948
+Steam Iron,07-01-2014,Pune,525309
+Steam Iron,08-01-2014,Pune,557550
+Steam Iron,09-01-2014,Pune,663354
+Steam Iron,10-01-2014,Pune,614373
+Steam Iron,11-01-2014,Pune,309867
+Steam Iron,12-01-2014,Pune,586037
+Steam Iron,01-01-2015,Pune,573566
+Steam Iron,02-01-2015,Pune,464771
+Steam Iron,03-01-2015,Pune,715378
+Steam Iron,04-01-2015,Pune,288809
+Steam Iron,05-01-2015,Pune,344641
+Steam Iron,06-01-2015,Pune,192681
+Steam Iron,07-01-2015,Pune,313678
+Steam Iron,08-01-2015,Pune,295452
+Steam Iron,09-01-2015,Pune,303124
+Steam Iron,10-01-2015,Pune,431598
+Steam Iron,11-01-2015,Pune,234086
+Steam Iron,12-01-2015,Pune,342639
+Steam Iron,01-01-2016,Pune,257256
+Steam Iron,02-01-2016,Pune,260288
+Steam Iron,03-01-2016,Pune,486221
+Steam Iron,04-01-2016,Pune,412405
+Steam Iron,05-01-2016,Pune,252719
+Steam Iron,06-01-2016,Pune,142577
+Steam Iron,07-01-2016,Pune,267675
+Steam Iron,08-01-2016,Pune,288471
+Steam Iron,09-01-2016,Pune,367504
+Steam Iron,10-01-2016,Pune,374051
+Steam Iron,11-01-2016,Pune,157950
+Steam Iron,12-01-2016,Pune,208946
+Steam Iron,01-01-2017,Pune,282263
+Steam Iron,02-01-2017,Pune,261477
+Steam Iron,03-01-2017,Pune,407003
+Steam Iron,04-01-2017,Pune,141435
+Steam Iron,05-01-2017,Pune,257782
+Steam Iron,06-01-2017,Pune,324944
+Steam Iron,07-01-2017,Pune,399238
+Steam Iron,08-01-2017,Pune,316650
+Steam Iron,09-01-2017,Pune,457497
+Steam Iron,10-01-2017,Pune,453262
+Steam Iron,11-01-2017,Pune,125851
+Steam Iron,12-01-2017,Pune,284212
+Steam Iron,01-01-2018,Pune,263136
+Steam Iron,02-01-2018,Pune,168142
+Steam Iron,03-01-2018,Pune,251019
+coolers,04-01-2014,Pune,2866164
+coolers,05-01-2014,Pune,904137
+coolers,06-01-2014,Pune,26277
+coolers,07-01-2014,Pune,0
+coolers,08-01-2014,Pune,0
+coolers,09-01-2014,Pune,0
+coolers,10-01-2014,Pune,3891
+coolers,11-01-2014,Pune,21131
+coolers,12-01-2014,Pune,19508
+coolers,01-01-2015,Pune,413415
+coolers,02-01-2015,Pune,2261066
+coolers,03-01-2015,Pune,3373955
+coolers,04-01-2015,Pune,1555607
+coolers,05-01-2015,Pune,490719
+coolers,06-01-2015,Pune,14262
+coolers,07-01-2015,Pune,0
+coolers,08-01-2015,Pune,0
+coolers,09-01-2015,Pune,0
+coolers,10-01-2015,Pune,2112
+coolers,11-01-2015,Pune,11469
+coolers,12-01-2015,Pune,10588
+coolers,01-01-2016,Pune,224381
+coolers,02-01-2016,Pune,1227191
+coolers,03-01-2016,Pune,1831210
+coolers,04-01-2016,Pune,2995582
+coolers,05-01-2016,Pune,944962
+coolers,06-01-2016,Pune,27464
+coolers,07-01-2016,Pune,0
+coolers,08-01-2016,Pune,0
+coolers,09-01-2016,Pune,0
+coolers,10-01-2016,Pune,4066
+coolers,11-01-2016,Pune,22086
+coolers,12-01-2016,Pune,20388
+coolers,01-01-2017,Pune,432083
+coolers,02-01-2017,Pune,2363162
+coolers,03-01-2017,Pune,3526302
+coolers,04-01-2017,Pune,2537776
+coolers,05-01-2017,Pune,800547
+coolers,06-01-2017,Pune,23267
+coolers,07-01-2017,Pune,0
+coolers,08-01-2017,Pune,0
+coolers,09-01-2017,Pune,0
+coolers,10-01-2017,Pune,3445
+coolers,11-01-2017,Pune,18710
+coolers,12-01-2017,Pune,17272
+coolers,01-01-2018,Pune,366049
+coolers,02-01-2018,Pune,2002007
+coolers,03-01-2018,Pune,2987388
+Water Heaters,04-01-2014,Pune,4439
+Water Heaters,05-01-2014,Pune,51605
+Water Heaters,06-01-2014,Pune,169335
+Water Heaters,07-01-2014,Pune,330594
+Water Heaters,08-01-2014,Pune,274304
+Water Heaters,09-01-2014,Pune,280298
+Water Heaters,10-01-2014,Pune,722643
+Water Heaters,11-01-2014,Pune,592003
+Water Heaters,12-01-2014,Pune,614504
+Water Heaters,01-01-2015,Pune,199710
+Water Heaters,02-01-2015,Pune,54607
+Water Heaters,03-01-2015,Pune,33847
+Water Heaters,04-01-2015,Pune,6532
+Water Heaters,05-01-2015,Pune,75932
+Water Heaters,06-01-2015,Pune,249162
+Water Heaters,07-01-2015,Pune,486442
+Water Heaters,08-01-2015,Pune,403616
+Water Heaters,09-01-2015,Pune,412435
+Water Heaters,10-01-2015,Pune,1063310
+Water Heaters,11-01-2015,Pune,871084
+Water Heaters,12-01-2015,Pune,904192
+Water Heaters,01-01-2016,Pune,293857
+Water Heaters,02-01-2016,Pune,80350
+Water Heaters,03-01-2016,Pune,49804
+Water Heaters,04-01-2016,Pune,1231
+Water Heaters,05-01-2016,Pune,14316
+Water Heaters,06-01-2016,Pune,46975
+Water Heaters,07-01-2016,Pune,91710
+Water Heaters,08-01-2016,Pune,76094
+Water Heaters,09-01-2016,Pune,77757
+Water Heaters,10-01-2016,Pune,200467
+Water Heaters,11-01-2016,Pune,164227
+Water Heaters,12-01-2016,Pune,170469
+Water Heaters,01-01-2017,Pune,55401
+Water Heaters,02-01-2017,Pune,15148
+Water Heaters,03-01-2017,Pune,9390
+Water Heaters,04-01-2017,Pune,4653
+Water Heaters,05-01-2017,Pune,54088
+Water Heaters,06-01-2017,Pune,177483
+Water Heaters,07-01-2017,Pune,346501
+Water Heaters,08-01-2017,Pune,287503
+Water Heaters,09-01-2017,Pune,293785
+Water Heaters,10-01-2017,Pune,757414
+Water Heaters,11-01-2017,Pune,620488
+Water Heaters,12-01-2017,Pune,644072
+Water Heaters,01-01-2018,Pune,209319
+Water Heaters,02-01-2018,Pune,57235
+Water Heaters,03-01-2018,Pune,35476
+SECF,04-01-2014,Pune,212869
+SECF,05-01-2014,Pune,307036
+SECF,06-01-2014,Pune,232994
+SECF,07-01-2014,Pune,294253
+SECF,08-01-2014,Pune,312313
+SECF,09-01-2014,Pune,371580
+SECF,10-01-2014,Pune,344142
+SECF,11-01-2014,Pune,173573
+SECF,12-01-2014,Pune,328270
+SECF,01-01-2015,Pune,321284
+SECF,02-01-2015,Pune,260342
+SECF,03-01-2015,Pune,400721
+SECF,04-01-2015,Pune,465187
+SECF,05-01-2015,Pune,555116
+SECF,06-01-2015,Pune,310354
+SECF,07-01-2015,Pune,505244
+SECF,08-01-2015,Pune,475888
+SECF,09-01-2015,Pune,488245
+SECF,10-01-2015,Pune,695179
+SECF,11-01-2015,Pune,377045
+SECF,12-01-2015,Pune,551893
+SECF,01-01-2016,Pune,414365
+SECF,02-01-2016,Pune,419249
+SECF,03-01-2016,Pune,783161
+SECF,04-01-2016,Pune,671412
+SECF,05-01-2016,Pune,411436
+SECF,06-01-2016,Pune,232120
+SECF,07-01-2016,Pune,435786
+SECF,08-01-2016,Pune,469642
+SECF,09-01-2016,Pune,598311
+SECF,10-01-2016,Pune,608969
+SECF,11-01-2016,Pune,257148
+SECF,12-01-2016,Pune,340172
+SECF,01-01-2017,Pune,459535
+SECF,02-01-2017,Pune,425696
+SECF,03-01-2017,Pune,662618
+SECF,04-01-2017,Pune,1044980
+SECF,05-01-2017,Pune,1771295
+SECF,06-01-2017,Pune,195969
+SECF,07-01-2017,Pune,238592
+SECF,08-01-2017,Pune,374535
+SECF,09-01-2017,Pune,541456
+SECF,10-01-2017,Pune,451735
+SECF,11-01-2017,Pune,181479
+SECF,12-01-2017,Pune,231652
+SECF,01-01-2018,Pune,239774
+SECF,02-01-2018,Pune,980088
+SECF,03-01-2018,Pune,1123457
+Mixers,04-01-2014,Delhi,291880
+Mixers,05-01-2014,Delhi,420999
+Mixers,06-01-2014,Delhi,319475
+Mixers,07-01-2014,Delhi,403471
+Mixers,08-01-2014,Delhi,428235
+Mixers,09-01-2014,Delhi,509499
+Mixers,10-01-2014,Delhi,471878
+Mixers,11-01-2014,Delhi,237998
+Mixers,12-01-2014,Delhi,450114
+Mixers,01-01-2015,Delhi,440536
+Mixers,02-01-2015,Delhi,356974
+Mixers,03-01-2015,Delhi,549457
+Mixers,04-01-2015,Delhi,657237
+Mixers,05-01-2015,Delhi,784293
+Mixers,06-01-2015,Delhi,438481
+Mixers,07-01-2015,Delhi,713831
+Mixers,08-01-2015,Delhi,672355
+Mixers,09-01-2015,Delhi,689814
+Mixers,10-01-2015,Delhi,982179
+Mixers,11-01-2015,Delhi,532706
+Mixers,12-01-2015,Delhi,779738
+Mixers,01-01-2016,Delhi,585433
+Mixers,02-01-2016,Delhi,592334
+Mixers,03-01-2016,Delhi,1106484
+Mixers,04-01-2016,Delhi,1358555
+Mixers,05-01-2016,Delhi,832513
+Mixers,06-01-2016,Delhi,469680
+Mixers,07-01-2016,Delhi,881782
+Mixers,08-01-2016,Delhi,950289
+Mixers,09-01-2016,Delhi,1210641
+Mixers,10-01-2016,Delhi,1232208
+Mixers,11-01-2016,Delhi,520322
+Mixers,12-01-2016,Delhi,688314
+Mixers,01-01-2017,Delhi,929837
+Mixers,02-01-2017,Delhi,861366
+Mixers,03-01-2017,Delhi,1340761
+Mixers,04-01-2017,Delhi,466511
+Mixers,05-01-2017,Delhi,916981
+Mixers,06-01-2017,Delhi,778579
+Mixers,07-01-2017,Delhi,1183314
+Mixers,08-01-2017,Delhi,1397309
+Mixers,09-01-2017,Delhi,1562899
+Mixers,10-01-2017,Delhi,1667372
+Mixers,11-01-2017,Delhi,556998
+Mixers,12-01-2017,Delhi,924246
+Mixers,01-01-2018,Delhi,1343707
+Mixers,02-01-2018,Delhi,503112
+Mixers,03-01-2018,Delhi,831576
+FoodProcessor,04-01-2014,Delhi,130273
+FoodProcessor,05-01-2014,Delhi,187902
+FoodProcessor,06-01-2014,Delhi,142589
+FoodProcessor,07-01-2014,Delhi,180079
+FoodProcessor,08-01-2014,Delhi,191131
+FoodProcessor,09-01-2014,Delhi,227401
+FoodProcessor,10-01-2014,Delhi,210610
+FoodProcessor,11-01-2014,Delhi,106224
+FoodProcessor,12-01-2014,Delhi,200897
+FoodProcessor,01-01-2015,Delhi,196621
+FoodProcessor,02-01-2015,Delhi,159326
+FoodProcessor,03-01-2015,Delhi,245235
+FoodProcessor,04-01-2015,Delhi,215628
+FoodProcessor,05-01-2015,Delhi,257313
+FoodProcessor,06-01-2015,Delhi,143858
+FoodProcessor,07-01-2015,Delhi,234196
+FoodProcessor,08-01-2015,Delhi,220589
+FoodProcessor,09-01-2015,Delhi,226316
+FoodProcessor,10-01-2015,Delhi,322237
+FoodProcessor,11-01-2015,Delhi,174772
+FoodProcessor,12-01-2015,Delhi,255819
+FoodProcessor,01-01-2016,Delhi,192071
+FoodProcessor,02-01-2016,Delhi,194335
+FoodProcessor,03-01-2016,Delhi,363019
+FoodProcessor,04-01-2016,Delhi,256264
+FoodProcessor,05-01-2016,Delhi,157037
+FoodProcessor,06-01-2016,Delhi,88596
+FoodProcessor,07-01-2016,Delhi,166330
+FoodProcessor,08-01-2016,Delhi,179253
+FoodProcessor,09-01-2016,Delhi,228363
+FoodProcessor,10-01-2016,Delhi,232431
+FoodProcessor,11-01-2016,Delhi,98148
+FoodProcessor,12-01-2016,Delhi,129837
+FoodProcessor,01-01-2017,Delhi,175395
+FoodProcessor,02-01-2017,Delhi,162479
+FoodProcessor,03-01-2017,Delhi,252908
+FoodProcessor,04-01-2017,Delhi,136914
+FoodProcessor,05-01-2017,Delhi,319652
+FoodProcessor,06-01-2017,Delhi,256465
+FoodProcessor,07-01-2017,Delhi,287320
+FoodProcessor,08-01-2017,Delhi,296003
+FoodProcessor,09-01-2017,Delhi,325560
+FoodProcessor,10-01-2017,Delhi,254759
+FoodProcessor,11-01-2017,Delhi,120286
+FoodProcessor,12-01-2017,Delhi,129179
+FoodProcessor,01-01-2018,Delhi,198800
+FoodProcessor,02-01-2018,Delhi,142001
+FoodProcessor,03-01-2018,Delhi,199311
+Induction cookers,04-01-2014,Delhi,106809
+Induction cookers,05-01-2014,Delhi,154058
+Induction cookers,06-01-2014,Delhi,116907
+Induction cookers,07-01-2014,Delhi,147644
+Induction cookers,08-01-2014,Delhi,156706
+Induction cookers,09-01-2014,Delhi,186444
+Induction cookers,10-01-2014,Delhi,172677
+Induction cookers,11-01-2014,Delhi,87092
+Induction cookers,12-01-2014,Delhi,164713
+Induction cookers,01-01-2015,Delhi,161208
+Induction cookers,02-01-2015,Delhi,130629
+Induction cookers,03-01-2015,Delhi,201066
+Induction cookers,04-01-2015,Delhi,165311
+Induction cookers,05-01-2015,Delhi,197269
+Induction cookers,06-01-2015,Delhi,110289
+Induction cookers,07-01-2015,Delhi,179546
+Induction cookers,08-01-2015,Delhi,169114
+Induction cookers,09-01-2015,Delhi,173505
+Induction cookers,10-01-2015,Delhi,247042
+Induction cookers,11-01-2015,Delhi,133989
+Induction cookers,12-01-2015,Delhi,196123
+Induction cookers,01-01-2016,Delhi,147251
+Induction cookers,02-01-2016,Delhi,148986
+Induction cookers,03-01-2016,Delhi,278308
+Induction cookers,04-01-2016,Delhi,291808
+Induction cookers,05-01-2016,Delhi,178818
+Induction cookers,06-01-2016,Delhi,100884
+Induction cookers,07-01-2016,Delhi,189400
+Induction cookers,08-01-2016,Delhi,204115
+Induction cookers,09-01-2016,Delhi,260037
+Induction cookers,10-01-2016,Delhi,264669
+Induction cookers,11-01-2016,Delhi,111761
+Induction cookers,12-01-2016,Delhi,147845
+Induction cookers,01-01-2017,Delhi,199722
+Induction cookers,02-01-2017,Delhi,185015
+Induction cookers,03-01-2017,Delhi,287986
+Induction cookers,04-01-2017,Delhi,143338
+Induction cookers,05-01-2017,Delhi,224346
+Induction cookers,06-01-2017,Delhi,197169
+Induction cookers,07-01-2017,Delhi,350607
+Induction cookers,08-01-2017,Delhi,305676
+Induction cookers,09-01-2017,Delhi,366394
+Induction cookers,10-01-2017,Delhi,404471
+Induction cookers,11-01-2017,Delhi,188440
+Induction cookers,12-01-2017,Delhi,272661
+Induction cookers,01-01-2018,Delhi,249058
+Induction cookers,02-01-2018,Delhi,189736
+Induction cookers,03-01-2018,Delhi,255425
+Gas Stove,04-01-2014,Delhi,2528
+Gas Stove,05-01-2014,Delhi,3647
+Gas Stove,06-01-2014,Delhi,2767
+Gas Stove,07-01-2014,Delhi,3495
+Gas Stove,08-01-2014,Delhi,3709
+Gas Stove,09-01-2014,Delhi,4413
+Gas Stove,10-01-2014,Delhi,4087
+Gas Stove,11-01-2014,Delhi,2062
+Gas Stove,12-01-2014,Delhi,3899
+Gas Stove,01-01-2015,Delhi,3816
+Gas Stove,02-01-2015,Delhi,3092
+Gas Stove,03-01-2015,Delhi,4759
+Gas Stove,04-01-2015,Delhi,23499
+Gas Stove,05-01-2015,Delhi,28042
+Gas Stove,06-01-2015,Delhi,15678
+Gas Stove,07-01-2015,Delhi,25523
+Gas Stove,08-01-2015,Delhi,24040
+Gas Stove,09-01-2015,Delhi,24664
+Gas Stove,10-01-2015,Delhi,35117
+Gas Stove,11-01-2015,Delhi,19047
+Gas Stove,12-01-2015,Delhi,27879
+Gas Stove,01-01-2016,Delhi,20932
+Gas Stove,02-01-2016,Delhi,21178
+Gas Stove,03-01-2016,Delhi,39562
+Gas Stove,04-01-2016,Delhi,130629
+Gas Stove,05-01-2016,Delhi,80048
+Gas Stove,06-01-2016,Delhi,45161
+Gas Stove,07-01-2016,Delhi,84786
+Gas Stove,08-01-2016,Delhi,91373
+Gas Stove,09-01-2016,Delhi,116406
+Gas Stove,10-01-2016,Delhi,118480
+Gas Stove,11-01-2016,Delhi,50030
+Gas Stove,12-01-2016,Delhi,66183
+Gas Stove,01-01-2017,Delhi,89406
+Gas Stove,02-01-2017,Delhi,82823
+Gas Stove,03-01-2017,Delhi,128918
+Gas Stove,04-01-2017,Delhi,31315
+Gas Stove,05-01-2017,Delhi,86954
+Gas Stove,06-01-2017,Delhi,117828
+Gas Stove,07-01-2017,Delhi,183654
+Gas Stove,08-01-2017,Delhi,269181
+Gas Stove,09-01-2017,Delhi,178277
+Gas Stove,10-01-2017,Delhi,134544
+Gas Stove,11-01-2017,Delhi,92596
+Gas Stove,12-01-2017,Delhi,128433
+Gas Stove,01-01-2018,Delhi,181482
+Gas Stove,02-01-2018,Delhi,87971
+Gas Stove,03-01-2018,Delhi,66418
+Oven Toaster Grill,04-01-2014,Delhi,77113
+Oven Toaster Grill,05-01-2014,Delhi,111225
+Oven Toaster Grill,06-01-2014,Delhi,84403
+Oven Toaster Grill,07-01-2014,Delhi,106595
+Oven Toaster Grill,08-01-2014,Delhi,113137
+Oven Toaster Grill,09-01-2014,Delhi,134606
+Oven Toaster Grill,10-01-2014,Delhi,124667
+Oven Toaster Grill,11-01-2014,Delhi,62878
+Oven Toaster Grill,12-01-2014,Delhi,118917
+Oven Toaster Grill,01-01-2015,Delhi,116387
+Oven Toaster Grill,02-01-2015,Delhi,94310
+Oven Toaster Grill,03-01-2015,Delhi,145163
+Oven Toaster Grill,04-01-2015,Delhi,75249
+Oven Toaster Grill,05-01-2015,Delhi,89796
+Oven Toaster Grill,06-01-2015,Delhi,50203
+Oven Toaster Grill,07-01-2015,Delhi,81728
+Oven Toaster Grill,08-01-2015,Delhi,76980
+Oven Toaster Grill,09-01-2015,Delhi,78979
+Oven Toaster Grill,10-01-2015,Delhi,112452
+Oven Toaster Grill,11-01-2015,Delhi,60991
+Oven Toaster Grill,12-01-2015,Delhi,89274
+Oven Toaster Grill,01-01-2016,Delhi,67028
+Oven Toaster Grill,02-01-2016,Delhi,67818
+Oven Toaster Grill,03-01-2016,Delhi,126684
+Oven Toaster Grill,04-01-2016,Delhi,182009
+Oven Toaster Grill,05-01-2016,Delhi,111534
+Oven Toaster Grill,06-01-2016,Delhi,62924
+Oven Toaster Grill,07-01-2016,Delhi,118134
+Oven Toaster Grill,08-01-2016,Delhi,127312
+Oven Toaster Grill,09-01-2016,Delhi,162192
+Oven Toaster Grill,10-01-2016,Delhi,165082
+Oven Toaster Grill,11-01-2016,Delhi,69709
+Oven Toaster Grill,12-01-2016,Delhi,92215
+Oven Toaster Grill,01-01-2017,Delhi,124572
+Oven Toaster Grill,02-01-2017,Delhi,115399
+Oven Toaster Grill,03-01-2017,Delhi,179625
+Oven Toaster Grill,04-01-2017,Delhi,61100
+Oven Toaster Grill,05-01-2017,Delhi,241693
+Oven Toaster Grill,06-01-2017,Delhi,183248
+Oven Toaster Grill,07-01-2017,Delhi,199773
+Oven Toaster Grill,08-01-2017,Delhi,208472
+Oven Toaster Grill,09-01-2017,Delhi,266569
+Oven Toaster Grill,10-01-2017,Delhi,353114
+Oven Toaster Grill,11-01-2017,Delhi,90130
+Oven Toaster Grill,12-01-2017,Delhi,308205
+Oven Toaster Grill,01-01-2018,Delhi,250342
+Oven Toaster Grill,02-01-2018,Delhi,121928
+Oven Toaster Grill,03-01-2018,Delhi,157919
+Dry Iron,04-01-2014,Delhi,66895
+Dry Iron,05-01-2014,Delhi,96487
+Dry Iron,06-01-2014,Delhi,73219
+Dry Iron,07-01-2014,Delhi,92470
+Dry Iron,08-01-2014,Delhi,98145
+Dry Iron,09-01-2014,Delhi,116770
+Dry Iron,10-01-2014,Delhi,108147
+Dry Iron,11-01-2014,Delhi,54546
+Dry Iron,12-01-2014,Delhi,103159
+Dry Iron,01-01-2015,Delhi,100964
+Dry Iron,02-01-2015,Delhi,81813
+Dry Iron,03-01-2015,Delhi,125927
+Dry Iron,04-01-2015,Delhi,102607
+Dry Iron,05-01-2015,Delhi,122443
+Dry Iron,06-01-2015,Delhi,68455
+Dry Iron,07-01-2015,Delhi,111442
+Dry Iron,08-01-2015,Delhi,104967
+Dry Iron,09-01-2015,Delhi,107693
+Dry Iron,10-01-2015,Delhi,153336
+Dry Iron,11-01-2015,Delhi,83165
+Dry Iron,12-01-2015,Delhi,121731
+Dry Iron,01-01-2016,Delhi,91397
+Dry Iron,02-01-2016,Delhi,92474
+Dry Iron,03-01-2016,Delhi,172743
+Dry Iron,04-01-2016,Delhi,298441
+Dry Iron,05-01-2016,Delhi,182883
+Dry Iron,06-01-2016,Delhi,103177
+Dry Iron,07-01-2016,Delhi,193706
+Dry Iron,08-01-2016,Delhi,208755
+Dry Iron,09-01-2016,Delhi,265948
+Dry Iron,10-01-2016,Delhi,270686
+Dry Iron,11-01-2016,Delhi,114302
+Dry Iron,12-01-2016,Delhi,151206
+Dry Iron,01-01-2017,Delhi,204262
+Dry Iron,02-01-2017,Delhi,189221
+Dry Iron,03-01-2017,Delhi,294532
+Dry Iron,04-01-2017,Delhi,96645
+Dry Iron,05-01-2017,Delhi,229331
+Dry Iron,06-01-2017,Delhi,260171
+Dry Iron,07-01-2017,Delhi,287033
+Dry Iron,08-01-2017,Delhi,290052
+Dry Iron,09-01-2017,Delhi,394235
+Dry Iron,10-01-2017,Delhi,485822
+Dry Iron,11-01-2017,Delhi,120114
+Dry Iron,12-01-2017,Delhi,226789
+Dry Iron,01-01-2018,Delhi,241495
+Dry Iron,02-01-2018,Delhi,145947
+Dry Iron,03-01-2018,Delhi,233583
+Steam Iron,04-01-2014,Delhi,171761
+Steam Iron,05-01-2014,Delhi,247743
+Steam Iron,06-01-2014,Delhi,188000
+Steam Iron,07-01-2014,Delhi,237429
+Steam Iron,08-01-2014,Delhi,252001
+Steam Iron,09-01-2014,Delhi,299822
+Steam Iron,10-01-2014,Delhi,277684
+Steam Iron,11-01-2014,Delhi,140053
+Steam Iron,12-01-2014,Delhi,264876
+Steam Iron,01-01-2015,Delhi,259240
+Steam Iron,02-01-2015,Delhi,210067
+Steam Iron,03-01-2015,Delhi,323336
+Steam Iron,04-01-2015,Delhi,130684
+Steam Iron,05-01-2015,Delhi,155947
+Steam Iron,06-01-2015,Delhi,87187
+Steam Iron,07-01-2015,Delhi,141937
+Steam Iron,08-01-2015,Delhi,133690
+Steam Iron,09-01-2015,Delhi,137161
+Steam Iron,10-01-2015,Delhi,195294
+Steam Iron,11-01-2015,Delhi,105922
+Steam Iron,12-01-2015,Delhi,155042
+Steam Iron,01-01-2016,Delhi,116406
+Steam Iron,02-01-2016,Delhi,117778
+Steam Iron,03-01-2016,Delhi,220011
+Steam Iron,04-01-2016,Delhi,282141
+Steam Iron,05-01-2016,Delhi,172894
+Steam Iron,06-01-2016,Delhi,97542
+Steam Iron,07-01-2016,Delhi,183126
+Steam Iron,08-01-2016,Delhi,197353
+Steam Iron,09-01-2016,Delhi,251422
+Steam Iron,10-01-2016,Delhi,255901
+Steam Iron,11-01-2016,Delhi,108059
+Steam Iron,12-01-2016,Delhi,142947
+Steam Iron,01-01-2017,Delhi,193106
+Steam Iron,02-01-2017,Delhi,178886
+Steam Iron,03-01-2017,Delhi,278445
+Steam Iron,04-01-2017,Delhi,140691
+Steam Iron,05-01-2017,Delhi,256425
+Steam Iron,06-01-2017,Delhi,323234
+Steam Iron,07-01-2017,Delhi,397137
+Steam Iron,08-01-2017,Delhi,314984
+Steam Iron,09-01-2017,Delhi,455090
+Steam Iron,10-01-2017,Delhi,450876
+Steam Iron,11-01-2017,Delhi,125188
+Steam Iron,12-01-2017,Delhi,282716
+Steam Iron,01-01-2018,Delhi,261751
+Steam Iron,02-01-2018,Delhi,167258
+Steam Iron,03-01-2018,Delhi,249698
+coolers,04-01-2014,Delhi,842181
+coolers,05-01-2014,Delhi,265668
+coolers,06-01-2014,Delhi,7721
+coolers,07-01-2014,Delhi,0
+coolers,08-01-2014,Delhi,0
+coolers,09-01-2014,Delhi,0
+coolers,10-01-2014,Delhi,1143
+coolers,11-01-2014,Delhi,6209
+coolers,12-01-2014,Delhi,5732
+coolers,01-01-2015,Delhi,121476
+coolers,02-01-2015,Delhi,664382
+coolers,03-01-2015,Delhi,991388
+coolers,04-01-2015,Delhi,1023018
+coolers,05-01-2015,Delhi,322713
+coolers,06-01-2015,Delhi,9379
+coolers,07-01-2015,Delhi,0
+coolers,08-01-2015,Delhi,0
+coolers,09-01-2015,Delhi,0
+coolers,10-01-2015,Delhi,1389
+coolers,11-01-2015,Delhi,7542
+coolers,12-01-2015,Delhi,6963
+coolers,01-01-2016,Delhi,147560
+coolers,02-01-2016,Delhi,807041
+coolers,03-01-2016,Delhi,1204264
+coolers,04-01-2016,Delhi,2273820
+coolers,05-01-2016,Delhi,717281
+coolers,06-01-2016,Delhi,20847
+coolers,07-01-2016,Delhi,0
+coolers,08-01-2016,Delhi,0
+coolers,09-01-2016,Delhi,0
+coolers,10-01-2016,Delhi,3087
+coolers,11-01-2016,Delhi,16764
+coolers,12-01-2016,Delhi,15476
+coolers,01-01-2017,Delhi,327976
+coolers,02-01-2017,Delhi,1793776
+coolers,03-01-2017,Delhi,2676667
+coolers,04-01-2017,Delhi,2528575
+coolers,05-01-2017,Delhi,797644
+coolers,06-01-2017,Delhi,23182
+coolers,07-01-2017,Delhi,0
+coolers,08-01-2017,Delhi,0
+coolers,09-01-2017,Delhi,0
+coolers,10-01-2017,Delhi,3432
+coolers,11-01-2017,Delhi,18643
+coolers,12-01-2017,Delhi,17210
+coolers,01-01-2018,Delhi,364722
+coolers,02-01-2018,Delhi,1994749
+coolers,03-01-2018,Delhi,2976557
+Water Heaters,04-01-2014,Delhi,1809
+Water Heaters,05-01-2014,Delhi,21035
+Water Heaters,06-01-2014,Delhi,69024
+Water Heaters,07-01-2014,Delhi,134756
+Water Heaters,08-01-2014,Delhi,111811
+Water Heaters,09-01-2014,Delhi,114254
+Water Heaters,10-01-2014,Delhi,294563
+Water Heaters,11-01-2014,Delhi,241311
+Water Heaters,12-01-2014,Delhi,250483
+Water Heaters,01-01-2015,Delhi,81405
+Water Heaters,02-01-2015,Delhi,22259
+Water Heaters,03-01-2015,Delhi,13797
+Water Heaters,04-01-2015,Delhi,1957
+Water Heaters,05-01-2015,Delhi,22751
+Water Heaters,06-01-2015,Delhi,74655
+Water Heaters,07-01-2015,Delhi,145750
+Water Heaters,08-01-2015,Delhi,120933
+Water Heaters,09-01-2015,Delhi,123576
+Water Heaters,10-01-2015,Delhi,318593
+Water Heaters,11-01-2015,Delhi,260998
+Water Heaters,12-01-2015,Delhi,270918
+Water Heaters,01-01-2016,Delhi,88047
+Water Heaters,02-01-2016,Delhi,24075
+Water Heaters,03-01-2016,Delhi,14922
+Water Heaters,04-01-2016,Delhi,2939
+Water Heaters,05-01-2016,Delhi,34171
+Water Heaters,06-01-2016,Delhi,112128
+Water Heaters,07-01-2016,Delhi,218908
+Water Heaters,08-01-2016,Delhi,181635
+Water Heaters,09-01-2016,Delhi,185604
+Water Heaters,10-01-2016,Delhi,478510
+Water Heaters,11-01-2016,Delhi,392005
+Water Heaters,12-01-2016,Delhi,406904
+Water Heaters,01-01-2017,Delhi,132241
+Water Heaters,02-01-2017,Delhi,36159
+Water Heaters,03-01-2017,Delhi,22413
+Water Heaters,04-01-2017,Delhi,5556
+Water Heaters,05-01-2017,Delhi,64587
+Water Heaters,06-01-2017,Delhi,211935
+Water Heaters,07-01-2017,Delhi,413762
+Water Heaters,08-01-2017,Delhi,343311
+Water Heaters,09-01-2017,Delhi,350813
+Water Heaters,10-01-2017,Delhi,904440
+Water Heaters,11-01-2017,Delhi,740934
+Water Heaters,12-01-2017,Delhi,769096
+Water Heaters,01-01-2018,Delhi,249951
+Water Heaters,02-01-2018,Delhi,68345
+Water Heaters,03-01-2018,Delhi,42363
+SECF,04-01-2014,Delhi,5816
+SECF,05-01-2014,Delhi,8389
+SECF,06-01-2014,Delhi,6366
+SECF,07-01-2014,Delhi,8040
+SECF,08-01-2014,Delhi,8533
+SECF,09-01-2014,Delhi,10152
+SECF,10-01-2014,Delhi,9403
+SECF,11-01-2014,Delhi,4742
+SECF,12-01-2014,Delhi,8969
+SECF,01-01-2015,Delhi,8778
+SECF,02-01-2015,Delhi,7113
+SECF,03-01-2015,Delhi,10949
+SECF,04-01-2015,Delhi,16820
+SECF,05-01-2015,Delhi,20072
+SECF,06-01-2015,Delhi,11222
+SECF,07-01-2015,Delhi,18269
+SECF,08-01-2015,Delhi,17207
+SECF,09-01-2015,Delhi,17654
+SECF,10-01-2015,Delhi,25137
+SECF,11-01-2015,Delhi,13633
+SECF,12-01-2015,Delhi,19956
+SECF,01-01-2016,Delhi,14983
+SECF,02-01-2016,Delhi,15159
+SECF,03-01-2016,Delhi,28318
+SECF,04-01-2016,Delhi,22468
+SECF,05-01-2016,Delhi,13768
+SECF,06-01-2016,Delhi,7768
+SECF,07-01-2016,Delhi,14583
+SECF,08-01-2016,Delhi,15716
+SECF,09-01-2016,Delhi,20022
+SECF,10-01-2016,Delhi,20378
+SECF,11-01-2016,Delhi,8605
+SECF,12-01-2016,Delhi,11383
+SECF,01-01-2017,Delhi,15378
+SECF,02-01-2017,Delhi,14245
+SECF,03-01-2017,Delhi,22174
+SECF,04-01-2017,Delhi,33612
+SECF,05-01-2017,Delhi,56974
+SECF,06-01-2017,Delhi,6303
+SECF,07-01-2017,Delhi,7674
+SECF,08-01-2017,Delhi,12047
+SECF,09-01-2017,Delhi,17416
+SECF,10-01-2017,Delhi,14530
+SECF,11-01-2017,Delhi,5837
+SECF,12-01-2017,Delhi,7451
+SECF,01-01-2018,Delhi,7712
+SECF,02-01-2018,Delhi,31525
+SECF,03-01-2018,Delhi,36136
