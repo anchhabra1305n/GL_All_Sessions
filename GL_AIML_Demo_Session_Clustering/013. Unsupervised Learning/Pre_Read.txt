@@ -1,0 +1,36 @@
+Self - Organizing Map/ Auto-Encoder
+
+pre - read materials
+1.https://www.youtube.com/watch?v=HKj2ASG0DKQ#t=476.297807
+2.https://www.youtube.com/watch?v=_Euwc9fWBJw
+3.https://www.youtube.com/watch?v=LjJeT7rwvF4
+4.https://www.youtube.com/watch?v=GdZckTLNqsY
+5.http://www.pymvpa.org/examples/som.html
+6.https://peterwittek.com/somoclu-in-python.html
+7.https://github.com/JRC1995/Self-Organizing-Map
+8.https://wonikjang.github.io/deeplearning_unsupervised_som/2017/06/30/som.html
+9.https://towardsdatascience.com/analyzing-climate-patterns-with-self-organizing-maps-soms-8d4ef322705b
+10.https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+11.https://rpubs.com/erblast/SOM
+12.https://medium.com/@nishantnikhil/variational-auto-encoder-peeking-the-code-377c6cae1551
+13.https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+14.https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+15.https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+16.https://www.youtube.com/watch?v=vfnxKO2rMq4
+17.https://www.youtube.com/watch?v=uaaqyVS9-rM
+18.https://www.youtube.com/watch?v=R3DNKE3zKFk
+
+Pre-Reads for Clustering:
+ 
+1.https://www.youtube.com/watch?v=4R8nWDh-wA0
+2.https://www.youtube.com/watch?v=9991JlKnFmk
+3.https://www.youtube.com/watch?v=ZwbXy2GUoV8
+4.https://www.youtube.com/watch?v=0MQEt10e4NM
+5.https://www.youtube.com/watch?v=RD0nNK51Fp8
+6.https://blog.exploratory.io/introduction-to-k-means-clustering-in-exploratory-8352650f1185
+7.https://medium.com/clustering-with-gaussian-mixture-model
+8.https://towardsdatascience.com/clustering-the-us-population-observation-weighted-k-means-f4d58b370002
+9.https://medium.com/@LearnDataSci/k-means-other-clustering-algorithms-a-quick-intro-with-python-438fc0deaef1
+10.https://cran.r-project.org/web/packages/broom/vignettes/kmeans.html
+11.https://www.r-bloggers.com/k-means-clustering-in-r/
+12.Book - Data Mining Techniques by Berry and Linoff

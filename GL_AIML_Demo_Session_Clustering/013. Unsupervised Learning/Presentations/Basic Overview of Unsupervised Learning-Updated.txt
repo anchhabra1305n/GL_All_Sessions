@@ -1,0 +1,394 @@
+Basic Overview of Unsupervised Learning:
+
+In this piece, we’ll look at methods to discover unknown relationships in
+data. These methods are called unsupervised methods. With unsupervised methods,
+there’s no outcome that you’re trying to predict; instead, you want to discover patterns
+in the data that perhaps you hadn’t previously suspected. For example, you
+may want to find groups of customers with similar purchase patterns, or correlations
+between population movement and socioeconomic factors. Unsupervised
+analyses are often not ends in themselves; rather, they’re ways of finding relationships
+and patterns that can be used to build predictive models.
+
+Cluster analysis:
+
+In cluster analysis, the goal is to group the observations in your data into clusters such
+that every datum in a cluster is more similar to other datums in the same cluster than
+it is to datums in other clusters. For example, a company that offers guided tours
+might want to cluster its clients by behavior and tastes: which countries they like to
+visit; whether they prefer adventure tours, luxury tours, or educational tours; what
+kinds of activities they participate in; and what sorts of sites they like to visit. Such
+information can help the company design attractive travel packages and target the
+appropriate segments of their client base with them.
+
+we’ll discuss two
+approaches. Hierarchical clustering finds nested groups of clusters. An example of hierarchical
+clustering might be the standard plant taxonomy, which classifies plants by
+family, then genus, then species, and so on. The second approach we’ll cover is
+k-means, which is a quick and popular way of finding clusters in quantitative data
+
+Clustering and density estimation
+Historically, cluster analysis is related to the problem of density estimation: if you
+think of your data as living in a large dimensional space, then you want to find the
+regions of the space where the data is densest. If those regions are distinct, or nearly
+so, then you have clusters.
+
+Distances:
+
+In order to cluster, you need the notions of similarity and dissimilarity. Dissimilarity can
+be thought of as distance, so that the points in a cluster are closer to each other than
+they are to the points in other clusters.
+
+In this section, we’ll cover a few of the most common ones:
+1.Euclidean distance
+2.Hamming distance
+3.Manhattan (city block) distance
+4.Cosine similarity
+5.Jaccard Distance
+
+EUCLIDEAN DISTANCE
+The most common distance is Euclidean distance. The Euclidean distance between two
+vectors x and y is defined as
+edist(x, y) <- sqrt((x[1]-y[1])^2 + (x[2]-y[2])^2 + ...)
+This is the measure people tend to think of when they think of “distance.” Optimizing
+squared Euclidean distance is the basis of k-means. Of course, Euclidean distance only
+makes sense when all the data is real-valued (quantitative). If the data is categorical
+(in particular, binary), then other distances can be used.
+
+HAMMING DISTANCE
+For categorical variables (male/female, or small/medium/large), you can define the
+distance as 0 if two points are in the same category, and 1 otherwise. If all the variables
+are categorical, then you can use Hamming distance, which counts the number of
+mismatches:
+hdist(x, y) <- sum((x[1] != y[1]) + (x[2] != y[2]) + ...)
+Here, a != b is defined to have a value of 1 if the expression is true, and a value of 0 if
+the expression is false.
+
+If the categories are ordered (like small/medium/large) so that some categories
+are “closer” to each other than others, then you can convert them to a numerical
+sequence. For example, (small/medium/large) might map to (1/2/3). Then you can
+use Euclidean distance, or other distances for quantitative data.
+
+MANHATTAN (CITY BLOCK) DISTANCE
+Manhattan distance measures distance in the number of horizontal and vertical units
+it takes to get from one (real-valued) point to the other (no diagonal moves):
+mdist(x, y) <- sum(abs(x[1]-y[1]) + abs(x[2]-y[2]) + ...)
+This is also known as L1 distance (and squared Euclidean distance is L2 distance).
+
+COSINE SIMILARITY
+Cosine similarity is a common similarity metric in text analysis. It measures the smallest
+angle between two vectors (the angle theta between two vectors is assumed to be
+between 0 and 90 degrees). Two perpendicular vectors (theta = 90 degrees) are the
+most dissimilar; the cosine of 90 degrees is 0. Two parallel vectors are the most similar
+(identical, if you assume they’re both based at the origin); the cosine of 0 degrees is 1.
+From elementary geometry, you can derive that the cosine of the angle between two
+vectors is given by the normalized dot product between the two vectors:
+dot(x, y) <- sum( x[1]*y[1] + x[2]*y[2] + ... )
+cossim(x, y) <- dot(x, y)/(sqrt(dot(x,x)*dot(y,y)))
+You can turn the cosine similarity into a pseudo distance by subtracting it from
+1.0 (though to get an actual metric, you should use 1 - 2*acos(cossim(x,y))/pi).
+Different distance metrics will give you different clusters, as will different clustering
+algorithms. The application domain may give you a hint as to the most appropriate
+distance, or you can try several distance metrics. In this chapter, we’ll use
+(squared) Euclidean distance, as it’s the most natural distance for quantitative data.
+
+Preparing The Data:
+To demonstrate clustering, we’ll use a small dataset from 1973 on protein consumption
+from nine different food groups in 25 countries in Europe.1 The goal is to group
+the countries based on patterns in their protein consumption. The dataset is loaded
+into R as a data frame called protein, as shown in the next listing.
+
+
+UNITS AND SCALING:
+The documentation for this dataset doesn’t mention what the units of measurement
+are, though we can assume all the columns are measured in the same units. This is
+important: units (or more precisely, disparity in units) affect what clusterings an algorithm
+will discover. If you measure vital statistics of your subjects as age in years, height
+in feet, and weight in pounds, you’ll get different distances—and possibly different
+clusters—than if you measure age in years, height in meters, and weight in kilograms.
+Ideally, you want a unit of change in each coordinate to represent the same degree
+of difference. In the protein dataset, we assume that the measurements are all in the
+same units, so it might seem that we’re okay. This may well be a correct assumption, but
+different food groups provide different amounts of protein. Animal-based food
+sources in general have more grams of protein per serving than plant-based food
+sources, so one could argue that a change in consumption of 5 grams is a bigger difference
+in terms of vegetable consumption than it is in terms of red meat consumption.
+One way to try to make the clustering more coordinate-free is to transform all the
+columns to have a mean value of 0 and a standard deviation of 1. This makes the standard
+deviation the unit of measurement in each coordinate. Assuming that your training
+data has a distribution that accurately represents the population at large, then a
+standard deviation represents approximately the same degree of difference in every
+coordinate. You can scale the data in R using the function scale().
+
+Hierarchical clustering with hclust():
+The hclust() function takes as input a distance matrix (as an object of class dist),
+which records the distances between all pairs of points in the data (using any one of
+a variety of metrics). It returns a dendrogram: a tree that represents the nested clusters.
+hclust() uses one of a variety of clustering methods to produce a tree that
+records the nested cluster structure. You can compute the distance matrix using the
+function dist().
+dist() will calculate distance functions using the (squared) Euclidean distance
+(method="euclidean"), the Manhattan distance (method="manhattan"), and something
+like the Hamming distance, when categorical variables are expanded to indicators
+(method="binary"). If you want to use another distance metric, you’ll have to
+compute the appropriate distance matrix and convert it to a dist object using the
+as.dist() call (see help(dist) for further details).
+Let’s cluster the protein data. We’ll use Ward’s method, which starts out with each
+data point as an individual cluster and merges clusters iteratively so as to minimize the
+total within sum of squares (WSS) of the clustering.
+
+Interpreting the cluster:
+There’s a certain logic to these clusters: the countries in each cluster tend to be in the
+same geographical region. It makes sense that countries in the same region would
+have similar dietary habits. You can also see that
+1.Cluster 2 is made of countries with higher-than-average red meat consumption.
+2.Cluster 4 contains countries with higher-than-average fish consumption but low
+produce consumption.
+3.Cluster 5 contains countries with high fish and produce consumption.
+This dataset has only 25 points; it’s harder to “eyeball” the clusters and the cluster
+members when there are very many data points. In the next few sections, we’ll look at
+some ways to examine clusters more holistically.
+
+VISUALIZING CLUSTERS:
+We can try to visualize the clustering by projecting
+the data onto the first two principal components of the data.(We can project the data onto any 
+two of the principal components, but the first two are the most likely to show
+useful information.)If N is the number of
+variables that describe the data, then the principal components describe the hyperellipsoid
+in N-space that bounds the data. If you order the principal components by the
+length of the hyperellipsoid’s corresponding axes (longest first), then the first two
+principal components describe a plane in N-space that captures as much of the variation
+of the data as can be captured in two dimensions. We’ll use the prcomp() call to
+do the principal components decomposition.
+
+You can see in figure 1 that the Romania/Yugoslavia/Bulgaria/Albania cluster and
+the Mediterranean cluster (Spain and so on) are separated from the others. The
+other three clusters co-mingle in this projection, though they’re probably more separated
+in other projections.
+
+BOOTSTRAP EVALUATION OF CLUSTERS:
+An important question when evaluating clusters is whether a given cluster is “real”—
+does the cluster represent actual structure in the data, or is it an artifact of the clustering
+algorithm? As you’ll see, this is especially important with clustering algorithms like
+k-means, where the user has to specify the number of clusters a priori. It’s been our
+experience that clustering algorithms will often produce several clusters that represent
+actual structure or relationships in the data, and then one or two clusters that are
+buckets that represent “other” or “miscellaneous.” Clusters of “other” tend to be made
+up of data points that have no real relationship to each other; they just don’t fit anywhere
+else.
+
+
+One way to assess whether a cluster represents true structure is to see if the cluster
+holds up under plausible variations in the dataset. The fpc package has a function
+called clusterboot() that uses bootstrap resampling to evaluate how stable a given
+cluster is.3 clusterboot() is an integrated function that both performs the clustering
+and evaluates the final produced clusters. It has interfaces to a number of R clustering
+algorithms, including both hclust and kmeans.
+clusterboot’s algorithm uses the Jaccard coefficient, a similarity measure between
+sets. The Jaccard similarity between two sets A and B is the ratio of the number of elements
+in the intersection of A and B over the number of elements in the union of A
+and B. The basic general strategy is as follows:
+1 Cluster the data as usual.
+2 Draw a new dataset (of the same size as the original) by resampling the original
+dataset with replacement (meaning that some of the data points may show up
+more than once, and others not at all). Cluster the new dataset.
+3 For every cluster in the original clustering, find the most similar cluster in the
+new clustering (the one that gives the maximum Jaccard coefficient) and
+record that value. If this maximum Jaccard coefficient is less than 0.5, the original
+cluster is considered to be dissolved—it didn’t show up in the new clustering.
+A cluster that’s dissolved too often is probably not a “real” cluster.
+4 Repeat steps 2–3 several times.
+The cluster stability of each cluster in the original clustering is the mean value of its
+Jaccard coefficient over all the bootstrap iterations. As a rule of thumb, clusters with a
+stability value less than 0.6 should be considered unstable. Values between 0.6 and 0.75
+indicate that the cluster is measuring a pattern in the data, but there isn’t high certainty
+about which points should be clustered together. Clusters with stability values
+above about 0.85 can be considered highly stable (they’re likely to be real clusters).
+Different clustering algorithms can give different stability values, even when the
+algorithms produce highly similar clusterings, so clusterboot() is also measuring
+how stable the clustering algorithm is.
+Let’s run clusterboot() on the protein data, using hierarchical clustering with
+five clusters.
+
+The clusterboot() results show that the cluster of countries with high fish consumption
+(cluster 4) is highly stable. Clusters 1 and 2 are also quite stable; cluster 5 less so
+(you can see in figure 8.4 that the members of cluster 5 are separated from the other
+countries, but also fairly separated from each other). Cluster 3 has the characteristics
+of what we’ve been calling the “other” cluster.
+
+clusterboot() assumes that you know the number of clusters, k. We eyeballed the
+appropriate k from the dendrogram, but this isn’t always feasible with a large dataset.
+Can we pick a plausible k in a more automated fashion? We’ll look at this question in
+the next section.
+
+PICKING THE NUMBER OF CLUSTERS:
+There are a number of heuristics and rules-of-thumb for picking clusters; a given heuristic
+will work better on some datasets than others. It’s best to take advantage of
+
+domain knowledge to help set the number of clusters, if that’s possible. Otherwise, try
+a variety of heuristics, and perhaps a few different values of k.
+Total within sum of squares
+One simple heuristic is to compute the total within sum of squares (WSS) for different values
+of k and look for an “elbow” in the curve. Define the cluster’s centroid as the point
+that is the mean value of all the points in the cluster. The within sum of squares for a
+single cluster is the average squared distance of each point in the cluster from the
+cluster’s centroid. The total within sum of squares is the sum of the within sum of
+squares of all the clusters. We show the calculation in the following listing.
+
+The total WSS will decrease as the number of clusters increases, because each cluster
+will be smaller and tighter. The hope is that the rate at which the WSS decreases will
+slow down for k beyond the optimal number of clusters. In other words, the graph of
+WSS versus k should flatten out beyond the optimal k, so the optimal k will be at the
+“elbow” of the graph. Unfortunately, this elbow can be difficult to see.
+
+Calinski-Harabasz index:
+The Calinski-Harabasz index of a clustering is the ratio of the between-cluster variance
+(which is essentially the variance of all the cluster centroids from the dataset’s grand
+centroid) to the total within-cluster variance (basically, the average WSS of the clusters
+in the clustering). For a given dataset, the total sum of squares (TSS) is the squared distance
+of all the data points from the dataset’s centroid. The TSS is independent of the
+clustering. If WSS(k) is the total WSS of a clustering with k clusters, then the between
+sum of squares BSS(k) of the clustering is given by BSS(k) = TSS - WSS(k). WSS(k) measures
+how close the points in a cluster are to each other. BSS(k) measures how far
+
+apart the clusters are from each other. A good clustering has a small WSS(k) and a
+large BSS(k).
+The within-cluster variance W is given by WSS(k)/(n-k), where n is the number of
+points in the dataset. The between-cluster variance B is given by BSS(k)/(k-1). The
+within-cluster variance will decrease as k increases; the rate of decrease should slow
+down past the optimal k. The between-cluster variance will increase as k, but the rate
+of increase should slow down past the optimal k. So in theory, the ratio of B to W
+should be maximized at the optimal k.
+Let’s write a function to calculate the Calinski-Harabasz (CH) index. The function
+will accommodate both a kmeans clustering and an hclust clustering.
+
+
+Looking at figure 2, you see that the CH criterion is maximized at k=2, with another
+local maximum at k=5. If you squint your eyes, you can convince yourself that the WSS
+plot has an elbow at k=2. The k=2 clustering corresponds to the first split of the dendrogram
+in figure 2; if you use clusterboot() to do the clustering, you’ll see that
+the clusters are highly stable, though perhaps not very informative.
+There are several other indices that you can try when picking k. The gap statistic4 is
+an attempt to automate the “elbow finding” on the WSS curve. It works best when the
+data comes from a mix of populations that all have approximately Gaussian distributions
+(a mixture of Gaussian). We’ll see one more measure, the average silhouette width,
+when we discuss kmeans().
+
+
+The k-means algorithm:
+K-means is a popular clustering algorithm when the data is all numeric and the distance
+metric is squared Euclidean (though you could in theory run it with other
+distance metrics). It’s fairly ad hoc and has the major disadvantage that you must pick
+k in advance. On the plus side, it’s easy to implement (one reason it’s so popular) and
+can be faster than hierarchical clustering on large datasets. It works best on data that
+looks like a mixture of Gaussians (which the protein data unfortunately doesn’t
+appear to be).
+
+
+THE KMEANS() FUNCTION
+The function to run k-means in R is kmeans(). The output of kmeans() includes the
+cluster labels, the centers (centroids) of the clusters, the total sum of squares, total
+WSS, total BSS, and the WSS of each cluster. The k-means algorithm is illustrated in figure
+8.6, with k = 2.
+This algorithm isn’t guaranteed to have a unique stopping point. K-means can be
+fairly unstable, in that the final clusters depend on the initial cluster centers. It’s good
+practice to run k-means several times with different random starts, and then select the
+clustering with the lowest total WSS. The kmeans() function can do this automatically,
+though it defaults to only using one random start.
+
+Let’s run kmeans() on the protein data (scaled to 0 mean and unit standard deviation,
+as before). We’ll use k=5, as shown in the next listing.
+
+/*Use a image to illustrate the k-means clustering*/
+
+
+THE KMEANSRUNS() FUNCTION FOR PICKING K:
+To run kmeans(), you must know k. The fpc package (the same package that has
+clusterboot()) has a function called kmeansruns() that calls kmeans() over a range
+of k and estimates the best k. It then returns its pick for the best value of k, the output
+of kmeans() for that value, and a vector of criterion values as a function of k. Currently,
+kmeansruns() has two criteria: the Calinski-Harabasz Index ("ch"), and the average
+silhouette width. It’s a good idea to plot the criterion values over the entire range of k, since you
+may see evidence for a k that the algorithm didn’t automatically pick (as we did in figure 2, as we demonstrate in the following listing.
+
+Figure 3 shows the results of the two clustering criteria provided by kmeansruns.
+They suggest two to three clusters as the best choice. However, if you compare the values
+of clustering.ch$crit and clustcrit$crit in the listing, you’ll see that the CH
+
+criterion produces different curves for kmeans() and hclust() clusterings, but it did
+pick the same value (which probably means it picked the same clusters) for k=5, and
+k=6, which might be taken as evidence that either five or six is the optimal choice for k.
+
+CLUSTERBOOT() REVISITED:
+We can run clusterboot() using the k-means algorithm, as well.
+
+Running clusterboot() with k-means:
+
+Note that the stability numbers as given by cboot$bootmean (and the number of times
+that the clusters were “dissolved” as given by cboot$bootbrd) are different for the
+hierarchical clustering and k-means, even though the discovered clusters are the
+same. This shows that the stability of a clustering is partly a function of the clustering
+algorithm, not just the data. Again, the fact that both clustering algorithms discovered
+the same clusters might be taken as an indication that five is the optimal number of
+clusters.
+
+Assigning new points to clusters:
+Clustering is often used as part of data exploration, or as a precursor to other supervised
+learning methods. But you may want to use the clusters that you discovered to
+categorize new data, as well. One common way to do so is to treat the centroid of each
+cluster as the representative of the cluster as a whole, and then assign new points to
+the cluster with the nearest centroid. Note that if you scaled the original data before
+clustering, then you should also scale the new data point the same way before assigning
+it to a cluster.
+
+Clustering takeaways
+Here’s what you should remember about clustering:
+1 The goal of clustering is to discover or draw out similarities among subsets of
+your data.
+2 In a good clustering, points in the same cluster should be more similar (nearer)
+to each other than they are to points in other clusters.
+3 When clustering, the units that each variable is measured in matter. Different
+units cause different distances and potentially different clusterings.
+4 Ideally, you want a unit change in each coordinate to represent the same
+degree of change. One way to approximate this is to transform all the columns
+to have a mean value of 0 and a standard deviation of 1.0, for example by using
+the function scale().
+5 Clustering is often used for data exploration or as a precursor to supervised
+learning methods.
+6 Like visualization, it’s more iterative and interactive, and less automated than
+supervised methods.
+7 Different clustering algorithms will give different results. You should consider
+different approaches, with different numbers of clusters.
+8 There are many heuristics for estimating the best number of clusters. Again,
+you should consider the results from different heuristics and explore various
+numbers of clusters.
+Sometimes, rather than looking for subsets of data points that are highly similar to
+each other, you’d like to know what kind of data (or which data attributes) tend to
+occur together. In the next section, we’ll look at one approach to this problem.
+
+
+
+
+Ref:
+1.http://www.ucl.ac.uk/statistics/research/pdfs/rr271.pdf
+2.https://web.stanford.edu/~hastie/Papers/gap.pdf
+3.https://en.wikipedia.org/wiki/Silhouette_(clustering)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
